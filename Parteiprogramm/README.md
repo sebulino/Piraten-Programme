@@ -115,21 +115,3 @@
         3. Jugend- und Verbraucherschutz
         4. Hilfe für Risikokonsumenten
         5. Schutz von Nichtkonsumierenden
-12. Europa
-    1. Europa
-13. Außen- und Sicherheitspolitik
-14. Wirtschaft
-    1. Wirtschaft und Finanzen
-        1. Freiheit, Verantwortung und Transparenz
-        2. Gerechtigkeit
-        3. Nachhaltigkeit
-15. Innen- und Rechtspolitik
-    1. Jugendschutz
-        1. Aufklärung, Eigenverantwortung und Medienkompetenz
-        2. Kein Missbrauch von Jugendschutzargumenten zu Zensurzwecken
-        3. Individuelle Regelungen statt einheitlicher Alterseinstufung
-        4. Regelungen nur auf wissenschaftlicher Grundlage
-    2. Recht
-    3. Patentwesen
-        1. Abbau privater Monopole und offene Märkte
-16. Asyl
