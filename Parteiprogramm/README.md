@@ -1,13 +1,13 @@
 # Parteiprogramm — Grundsatzprogramm der Piratenpartei Deutschland
 
--   Beschlossen auf der [Gründungsversammlung](Gründungsversammlung "wikilink") am 10. September 2006 in Berlin.
--   Das Kapitel "Bildung" wurde auf dem [Bundesparteitag 2009](Bundesparteitag_2009 "wikilink") am 5.7.2009 in Hamburg hinzugefügt
+-   Beschlossen auf der Gründungsversammlung am 10. September 2006 in Berlin.
+-   Das Kapitel "Bildung" wurde auf dem Bundesparteitag am 5.7.2009 in Hamburg hinzugefügt
 -   Die Punkte "Mehr Demokratie wagen" und "Freie demokratisch kontrollierte technische Infrastruktur" (inkl. Unterpunkten) wurden am 16.5.2010 in Bingen hinzugefügt, dort wurde ebenfalls der Punkt "Gleichstellung von Software" aus dem Parteiprogramm gestrichen.
 -   Eingearbeitet wurden die Beschlüsse des 2. Bundesparteitags im Jahr 2010 vom 20. / 21. November 2010 in Chemnitz.
 -   Am 3./4. Dezember 2011 wurden zum Bundesparteitag in Offenbach die Kapitel "Für die Vielfalt in der Gesellschaft" aus verschiedenen Einzelanträgen, sowie die Kapitel "Drogenpolitik" und "Suchtpolitik" als auch das Unterkapitel "Offene Verträge mit der Wirtschaft" und die Erweiterung des Kapitels "Freier Zugang zu öffentlichen Inhalten" und das zusätzliche Kapitel "Abschaffung der Zwangsmitgliedschaft in Kammern und Verbänden (ausgenommen Rechtsanwalts-, Notar- und Ärztekammern)" beschlossen.
--   Eingearbeitet wurden die [ Beschlüsse des 2. Bundesparteitages 2012](Media:Beschluesse_BPT2012_2.pdf "wikilink") in Bochum zu Wirtschaft, Wissenschaft und Forschung, Europa, Außenpolitik, Rente, Gesundheit, Jugendschutz, Landwirtschaft, Normen und Staatstrojaner
--   Eingearbeitet wurde der Beschluss des [1. Bundesparteitages 2013 in Neumarkt](http://wiki.piratenpartei.de/Bundesparteitag_2013.1/Protokoll#Grundsatzprogramm.C3.A4nderungen) zu Kulturpolitik
--   Eingearbeitet wurden die Beschlüsse des [1. Bundesparteitags 2015 in Würzburg](https://wiki.piratenpartei.de/Antrag:Bundesparteitag_2015.1/Antragsportal/Ergebnisse) Danke an @AK\_Piraten
+-   Eingearbeitet wurden die Beschlüsse des 2. Bundesparteitages in Bochum zu Wirtschaft, Wissenschaft und Forschung, Europa, Außenpolitik, Rente, Gesundheit, Jugendschutz, Landwirtschaft, Normen und Staatstrojaner
+-   Eingearbeitet wurde der Beschluss des 1. Bundesparteitages 2013 in Neumarkt zu Kulturpolitik
+-   Eingearbeitet wurden die Beschlüsse des 1. Bundesparteitags 2015 in Würzburg. Danke an @AK\_Piraten
 
 
 # Inhaltsverzeichnis
