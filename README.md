@@ -11,21 +11,21 @@ Das neue Issue wird erhält drei Tags:
 + eins zur Kennzeichnung des Parteitags, in dem der Antrag angenommen wurde.
 + eins zur Kennzeichnung des Kapitels, in dem der Antrag zu änderungen führt. Sollte ein neues Kapitel eingefügt werden, dann mit der Kennzeichnung "neu".
 
-Der Name des Branches [name_of_your_new_branch] besteht aus
+Der Name des Branches [branchname] besteht aus
 '[Parteitag des Beschlusses]\_[Nummer des bearbeiteten Issues]'
 
 ### Für erfahrene Git-User:
 + Repo clonen bzw. 'git pull'
-+ 'git checkout -b [name_of_your_new_branch]'
-+ 'git push origin [name_of_your_new_branch]:[name_of_your_new_branch]'
++ 'git checkout -b [branchname]'
++ 'git push origin [branchname]:[branchname]'
 Um zu prüfen, dass man im richtigen Branch ist:
 'git branch'
 + Nach Änderungen bzw. dem Einarbeiten eines Issues:
 'git commit -a -m '[Issue Nr.]'
 + Auf master Branch wechseln mit 'git checkout master'
-+ 'git push https://github.com/sebulino/Piraten-Programme.git [name_of_your_new_branch]:[name_of_your_new_branch]'
-+ 'git request-pull https://github.com/sebulino/Piraten-Programme.git master:[name_of_your_new_branch]'
-+ delete your local branch with 'git branch -d [name_of_your_new_branch]'
++ 'git push https://github.com/sebulino/Piraten-Programme.git [branchname]:[branchname]'
++ 'git request-pull https://github.com/sebulino/Piraten-Programme.git master:[branchname]'
++ delete your local branch with 'git branch -d [branchname]'
 
 
 ---
