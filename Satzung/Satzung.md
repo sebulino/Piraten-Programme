@@ -1,10 +1,10 @@
 # Satzung
 
-_Letzter Stand: Geändert auf dem [Bundesparteitag 2018.2_
+_Letzter Stand: Geändert auf dem Bundesparteitag 2018.2_
 
 
 ## Abschnitt A: Grundlagen
------------------------
+---
 
 
 
