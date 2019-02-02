@@ -21,7 +21,7 @@ Der Name des Branches [branchname] besteht aus
 Um zu prüfen, dass man im richtigen Branch ist:
 'git branch'
 + Nach Änderungen bzw. dem Einarbeiten eines Issues:
-'git commit -a -m '[Issue Nr.]'
+'git commit -a -m '[Issue Nr.]', zum Beispiel 'git commit -a -m '[#17]'
 + Auf master Branch wechseln mit 'git checkout master'
 + 'git push https://github.com/sebulino/Piraten-Programme.git [branchname]:[branchname]'
 + 'git request-pull https://github.com/sebulino/Piraten-Programme.git master:[branchname]'
