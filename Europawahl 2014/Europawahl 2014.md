@@ -14,10 +14,10 @@ Die Zukunft Europas darf nicht an Einzelinteressen der Mitgliedstaaten scheitern
 Demokratie-Upgrade für das Europa von heute
 ===========================================
 
-Demokratie-Upgrade für das Europa von heute
--------------------------------------------
+Stärkung der Demokratie in der Europäischen Union
+-------------------------------------------------
 
-Wir PIRATEN fordern, dass die Bürger in EU-weiten Abstimmungen direkt über die europäische Gesetzgebung entscheiden können. Zum einem sollen die Bürger mittels einer modifizierten und erweiterten Europäischen Bürgerinitiative eigene Legislativvorschläge unterbreiten, sowie im Rahmen des europäischen Gesetzgebungsprozesses EU-Gesetze stoppen können. Die Europäische Bürgerinitiative soll in der Praxis leicht anwendbar und gebührenfrei sein. Zum anderen sollen Änderungen der EU-Verträge nur dann in Kraft treten, wenn die Bürger sie in europaweiten, zeitgleichen Abstimmungen befürworten. Diese sollen kurzfristig durchgeführt werden. Die aktuelle Gesetzgebung der EU wird von der Exekutive, der Europäischen Kommission, zu Lasten der eigentlichen Legislative, dem Europäischen Parlament, dominiert. Deshalb fordern wir die Gewaltenteilung zugunsten der Legislative neu zu gewichten. Hierfür sollen die Initiativ- und Beschlussrechte des Europäischen Parlaments als parlamentarischer Gesetzgeber der EU ausgeweitet werden.
+Wir PIRATEN fordern, dass die Menschen mit Lebensmittelpunkt in den EU Mitgliedstaaten auch in EU-weiten Abstimmungen direkt über die europäische Gesetzgebung mitentscheiden können. Dazu haben wir den Gedanken einer Europäischen Bürgerinitiative entwickelt, mit der Legislativvorschläge gemacht aber auch EU-Gesetze gestoppt werden können. Die Europäische Bürgerinitiative soll in der Praxis leicht anwendbar und gebührenfrei sein. Sie kann wie Volksentscheide in Deutschland zweistufig angelegt werdem. Die aktuelle Gesetzgebung der EU wird von der Exekutive, der Europäischen Kommission, zu Lasten der eigentlichen Legislative, dem Europäischen Parlament, dominiert. Deshalb fordern wir die Gewaltenteilung zugunsten der Legislative neu zu gewichten. Hierfür sollen die Initiativ- und Beschlussrechte des Europäischen Parlaments als parlamentarischer Gesetzgeber der EU ausgeweitet werden.
 
 Initiativrecht für das Europaparlament
 --------------------------------------
@@ -46,10 +46,12 @@ Der europäische Gesetzgebungsprozess ist weiterhin geprägt von Intransparenz, 
 Zukunft Europa - Europa in 20 Jahren
 ====================================
 
-Zukunft Europa - Europa in 20 Jahren
-------------------------------------
+Der Weg zu einem Europa der Regionen unter dem Dach eines europäischen Bundesstaates
+------------------------------------------------------------------------------------
 
-Wir PIRATEN streben für die Zukunft Europas einen offenen Prozess an, der von den Bürgerinnen und Bürgern Europas gemeinsam getragen wird. Langfristig sehen wir die Chance, dass Europa als ein demokratischer europäischer Bundesstaat mit eigener Verfassung gestaltet wird, die in einem direktdemokratischen Prozess mit breiter Mehrheit aller Europäer entworfen und in Referenden der Mitgliedsländer angenommen wird.
+Ziel der Piratenpartei ist, den derzeitigen Staatenbund der Europäischen Union zu einem pro-europäischen Europa der Regionen zu entwickeln. Unter dem Dach eines europäischen Bundesstaates werden die Regionen in den EU-Mitgliedsländern gefördert und in ihrer regionalen Eigenständigkeit unterstützt.
+
+Zwischen den Mitgliedstaaten sind Solidarität und Eigenverantwortlichkeit garantiert. Die besonderen Kennzeichen dieser Union sind gesicherte Menschenrechte, Rechtsstaatlichkeit, Meinungsfreiheit, Glaubens- und Gewissensfreiheit, Freiheit der Kunst und Wissenschaft. Gleichzeitig wird die Vielfalt in der Einheit gewahrt. Nur so ist Frieden und Wohlstand garantiert und gleichzeitig ein positives Entwicklungspotenzial durch hohe Diversität gesichert.
 
 Europäischer Verfassungskonvent
 -------------------------------
@@ -73,7 +75,7 @@ Wirtschaft
 Transparenz der Vergabe öffentlicher Aufträge
 ---------------------------------------------
 
-Rechtsgeschäfte der öffentlichen Hand müssen transparent sein. Der Staat, die Politik und die ausführenden Organe sind Verwalter der Steuermittel des Bürgers. Eine Einsichtnahme in Verträge der öffentlichen Hand ist aus Sicht der PIRATEN ein grundsätzliches Recht des Bürgers. Die Verwendung der Haushaltsgelder muss für jeden nachvollziehbar und überprüfbar sein. Die Ausschreibungskriterien sind zusätzlich so zu veröffentlichen - z.B. im Internet - dass der Bürger den Entscheidungsprozess begleiten kann. Eine Veröffentlichung der abgegeben Angebote nach Abschluss der Angebotsphase wäre wünschenswert. Die öffentliche Auftragsvergabe und durch Steuermittel geförderte Projekte und Organisationen sind in einer zentralen Datenbank zu speichern und auf einem Online-Portal zu veröffentlichen.
+Rechtsgeschäfte der öffentlichen Hand müssen transparent sein. Der Staat und seine ausführenden Organe sind Verwalter der Steuermittel der Bürgerinnen und Bürger. Eine Einsichtnahme in Verträge der öffentlichen Hand ist aus Sicht der PIRATENPARTEI ein grundsätzliches Recht aller Menschen. Die Verwendung der Haushaltsgelder muss für jeden nachvollziehbar und überprüfbar sein. Die Ausschreibungskriterien sind deshalb einfach zugänglich direkt im Internet zu veröffentlichen, so dass der Entscheidungsprozess nachvollzogen werden kann. Die PIRATENPARTEI fordert die Veröffentlichung abgegebener Angebote nach Abschluss der Angebotsphase. Die öffentliche Auftragsvergabe und durch Steuermittel geförderte Projekte und Organisationen sind in einer zentralen Datenbank zu speichern und auf einem Online-Portal zu veröffentlichen.
 
 Banken in die Schranken
 -----------------------
@@ -489,70 +491,78 @@ Wir fordern zum Schutz und zur Aufklärung der Verbraucher eine europäische „
 Landwirtschaft und Fischerei
 ============================
 
-Agrarsubventionen
+Europa nachhaltig
 -----------------
 
-Wir PIRATEN setzen uns dafür ein, dass künftig keine öffentlichen Gelder in Form von Agrarsubventionen ohne Gegenleistung in den Bereichen Klima, Umwelt, Natur sowie Tier- und Artenschutz vergeben werden. Dazu bedarf es einer laufenden Neubewertung dieser Leistungen im Hinblick auf ihren Nutzen für die Gesellschaft. Langfristiges Ziel ist ein Abbau der Agrarsubventionen. Um die landwirtschaftlichen Betriebe vor den Folgen des plötzlichen Wegfalls der Subventionen zu schützen, sollen diese in der Übergangsphase degressiv ausgerichtet und ab einer zu bestimmenden einzelbetrieblichen Auszahlungshöhe gekappt werden.
+Wir sind Teil der Natur und abhängig von natürlich sauberen Stoffen wie Wasser, Luft, Böden, vielfältiger Flora und Fauna als Nahrungsquellen in unserer Nähe. Unser Ziel ist eine gesunde Nahrungsmittelgewinnung für alle, heute und morgen. Wir befürworten das starke Gewicht der europäischen Kommission für Landwirtschaft und ländliche Entwicklung, wenn sie als Anwalt für den Schutz unserer natürlichen Lebensgrundlagen eintritt, und Ausbeutung in natürliches Wachsen wandelt.
 
-Schutz natürlicher Ressourcen
+Gemeinsame Agrarpolitik (GAP)
 -----------------------------
 
-Wir bekennen uns zu einer Landwirtschaft, die langfristig die natürlichen Ressourcen schont. Saatgut, ob gentechnisch oder konventionell resistent gegen Pflanzenschutzmittel gezüchtet, kann durch Auskreuzung in bestehende Ökosysteme eine besondere Gefährdung der Umwelt darstellen. Resistent gezüchtete Pflanzen funktionieren in der Landwirtschaft nur durch den gleichzeitigen Einsatz von speziell darauf abgestimmten Pflanzenschutzmitteln. Hierdurch wird die Landwirtschaft gezwungen, spezifische Mittel bestimmter Hersteller zum Einsatz zu bringen. Dieser Produktionszwang führt die Landwirtschaft in die direkte Abhängigkeit von den Rechteinhabern an Saatgut und Pflanzenschutzmitteln. Eine Kombination von Saatgut mit Pflanzenschutzmitteln und deren Schutz durch Patente lehnen wir ab.
+Wir wollen eine gemeinsame Agrarpolitik, die die naturgegebene und kulturelle Vielfalt fördert. Wir sind überzeugt, dass Vielfalt in der Nahrungsmittelgewinnung, angepasst an örtliche Bedingungen, in der Hand von vielen unabhängig und selbstbestimmt Handelnden Ernährungssicherheit und Lebensqualität in den Städten und im ländlichen Raum sicherstellten wird. Die gemeinsame Agrarpolitik muss als Rahmen dienen für gleiche Rechte, Möglichkeiten und Pflichten. Die Rolle der Subventionen in der europäischen Landwirtschaftspolitik bedarf der Änderung, sie muss auf mehr Vielfalt und Gerechtigkeit ausgerichtet werden. Subventionen können nur im Einklang mit Nachhaltigkeitskriterien garantiert werden.
 
-Energiepolitik
-==============
+Aspekte der Landnutzung
+-----------------------
 
-Zielsetzungen der Europäischen Energiepolitik
----------------------------------------------
+Der Besitz von Grund und Boden ist stets zu verbinden mit der Verpflichtung zu sozialem und natürlichem Wohlergehen. Landbesitz zu rein spekulativen Zwecken lehnen wir ab. Boden ist weit mehr als der Träger unserer Ernährung, er besitzt wertvolle Puffer- und Speicherfähigkeiten. Humusaufbau im Boden betrachten wir als den Königsweg, nicht nur zur Wiederherstellung von Bodenfruchtbarkeit, sondern als die Chance, CO2 dauerhaft zu speichern und dem Klimawandel zu begegnen. Den Erhalt und die Entwicklung von kleinbäuerlichen Strukturen betrachten wir als einen Beitrag zu mehr Widerstandsfähigkeit (Resilienz). Urbane und suburbane Landwirtschaft und Gartenkultur vermindert Transportwege, dient direkt der Ernährung und Wissensvermittlung, erfüllt viele menschliche Bedürfnisse und ist daher zu fördern.
 
-Wir PIRATEN stehen für einen funktionierenden europäischen Energiebinnenmarkt. Seine Leitlinien sind:
+Nutzung biologischer Vielfalt
+-----------------------------
 
--   Schonung von Ressourcen
+Wir treten ein für den Erhalt und die Weiterentwicklung der Sortenvielfalt samenfester Kulturpflanzen. Sie sollen unter Open-Source-Lizenz allen Erzeugern für den Anbau und die Weiterzucht zur Verfügung stehen. Der Grundsatz "KEIN PATENT AUF LEBEN” muss strikt umgesetzt werden. Die Fangquoten müssen durch ein wissenschaftlich erwiesenes Maß der Nachhaltigkeit festgelegt werden. Das europäische Programm zur Bekämpfung der illegalen Fischerei muss gestärkt werden. Der Export von Lebensmittelüberschüssen in Drittländer muss neu bewertet werden, wenn er den Markt für dort angebaute Nahrungsmittel zerstören kann. In Handelsvereinbarungen mit Drittländern muss die EU ungerechte Praktiken, die sie aufgrund ihrer Größe durchsetzen kann, verzichten.
+
+Techniknutzen und digitale Lösungen
+-----------------------------------
+
+Wir betrachten es als eine Aufgabe der EU, den offenen Zugang zu digitalen Anwendungen und offene Schnittstellen zwischen verschiedenen Systemen durchzusetzen. Daten, die mit öffentlichen Mitteln erhoben und verwaltet werden, müssen der Öffentlichkeit leicht zugänglich bleiben und werden (z.B. Klima-und Wetterdaten, Bodendaten, Wasserverfügbarkeit, etc.). Die EU muss sicherstellen, dass diese nicht durch privatwirtschaftliche Nutzung beiläufig mit privatisiert werden.
+
+Energie
+=======
+
+Wir PIRATEN stehen für den europäischen Energiemarkt. Seine Leitlinien sollen sein:
+
 -   Nachhaltigkeit
--   Förderung erneuerbarer Energien
--   Dezentralisierung
--   Verbrauchernutzen
--   Versorgungssicherheit
--   Wettbewerbsfähigkeit
+-   Stark beschleunigter Ausbau der Erneuerbaren Energien in ganz Europa
+-   Dezentrale Versorgungsstruktur und Versorgungssicherheit
+-   Transparenz der Preisgestaltung und Erzeugungsstrukturen
+-   Datenschutz im Energiesektor
+-   Abbau von Subventionen für konventionelle Energieträger
+-   Eine frackingfreie Zukunft in Europa
 
-Die Struktur des EU-Energiebinnenmarkts muss an die Herausforderungen, denen Europa in den Bereichen Energie und Klimaschutz gegenübersteht, angepasst werden. Die Piratenpartei strebt einen nachhaltigen Umgang mit den verfügbaren Energieressourcen an, der die Belastungen für die Gesellschaft und unseren Lebensraum minimiert. Dies ist auch volkswirtschaftlich sinnvoll, da der Verbrauch der endlichen fossilen und nuklearen Energieträger unsere Gesundheit und unseren Lebensraum stark belastet und zu hohen Risiken führt.
+Nachhaltigkeit
+--------------
 
-Dezentrale Versorgungs- und Netzstrukturen
-------------------------------------------
+Die PIRATEN stehen für eine nachhaltige Energieversorgung. Die nicht verbrauchte Strom- und Wärmeenergie ist die umweltfreundlichste und kostengünstigste. Deshalb sollte sie eingespart werden, soweit es sozial und für ein nachhaltiges Wirtschaften möglich ist. Die Piratenpartei strebt weiterhin eine schnellstmögliche, komplette Umstellung auf erneuerbare Energien an. Dies betrifft insbesondere die Stromerzeugung, den Verkehr und die Wärmeerzeugung. Der Verbrauch der fossilen Energieträger wie Kohle, Erdöl, Erdgas und auch Kernenergie belastet unsere Gesundheit und unseren Lebensraum zunehmend und führt zu hohen Risiken. Ein Umstieg auf Erneuerbare Energien ist ein dagegen ein großer volkswirtschaftlicher Gewinn und wird deshalb auch die Bürger finanziell entlasten. Die aktuellen Klimaziele der EU sind für uns Minimalziele. Wir setzen uns dafür ein, dass die EU bis zum Jahr 2030 mindestens 60% des Treibhausgasausstoßes im Vergleich zum Jahr 1990 reduziert. Um dieses Ziel zu erreichen, sollte wo immer möglich auch international und grenzüberschreitend im Sinne der Treibhausgasminderung und der Nachhaltigkeit zusammengearbeitet werden.
 
-Wir PIRATEN setzen uns für dezentrale Erzeugungsstrukturen in der Europäischen Union mit vielen mittelgroßen und kleinen bis hin zu kleinsten Energieversorgern ein. Mit Energienetzen in unabhängiger Hand können oligopolistische Strukturen auf den europäischen Energiemärkten aufgebrochen und die Position der Verbraucher gestärkt werden. Wir machen uns für eine verstärkte europäische Zusammenarbeit bei den Investitionen in die Infrastruktur für erneuerbare Energien stark.
+Stark beschleunigter Ausbau der Erneuerbaren Energien in ganz Europa
+--------------------------------------------------------------------
 
-Transparenz in Preisgestaltung und Erzeugungstrukturen
-------------------------------------------------------
+Wir PIRATEN fordern einen stark beschleunigten europaweiten Ausbau der erneuerbaren Energien. Insbesondere die Sonnenenergie muss in wesentlich stärkerem Maße zur Strom- und Wärmeerzeugung genutzt werden. Der Ausbau muss dabei immer umweltschonend erfolgen. Die Erzeugung und Nutzung von Biomasse darf nicht in Konkurrenz zu Nahrungsmitteln stehen oder die Biodiversität verringern.
 
-Für einen funktionierenden Markt für Endverbraucher ist eine transparente Preisgestaltung und Offenlegung des Energiequellenmixes Voraussetzung: Nur wenn die europäischen Verbraucher in beides jederzeit Einblick erhalten, können sie informierte Kaufentscheidungen treffen. Wir PIRATEN fordern eine europaweite Verpflichtung der Energieversorger, den Verbrauchern die entsprechenden Daten barrierefrei bereitzustellen.
+Dezentrale Versorgungsstruktur und Versorgungssicherheit
+--------------------------------------------------------
+
+Ebenso setzen wir PIRATEN uns für eine dezentrale Erzeugung und Versorgung in der Europäischen Union mit vielen mittelgroßen und kleinen bis hin zu kleinsten Energieversorgern ein. Dies ermöglicht den stark beschleunigten Ausbau der Erneuerbaren Energien und erhöht die Versorgungssicherheit. Außerdem muss bei einer dezentralen Stromerzeugung und einem zunehmenden Einsatz von Stromspeichern das Stromnetz viel weniger ausgebaut werden. Denn der Ausbau von Stromspeicherkapazitäten führt zur Steigerung des Eigenverbrauchs von selbsterzeugtem Strom und damit zur Stromnetzstabilisierung. Er ist europaweit zu fördern. Energienetze sollen weitgehend in öffentlicher Hand sein, um einen Markt mit nur wenigen Anbietern zu verhindern und die Wahlmöglichkeiten der Verbraucher zu vergrößern. Auch ein freier Handel von - auch von Bürgern - selbsterzeugtem Strom und selbsterzeugter Wärme muss möglich sein.
+
+Transparenz der Preisgestaltung und Erzeugungsstrukturen
+--------------------------------------------------------
+
+Für einen funktionierenden Markt für Endverbraucher ist eine nachvollziehbare Preisgestaltung und Offenlegung des Anteils der Stromerzeugung aus fossilen Kraftwerken und Erneuerbaren Energien und des Stromtransportes notwendig. Nur so können die europäischen Verbraucher bewusste Kaufentscheidungen treffen. Wir PIRATEN fordern daher eine europaweite Verpflichtung der Energieversorger zu einer Kennzeichnung des Anteils der Stromerzeugungsarten und eine nachvollziehbare Darstellung der Kosten für den Ausbau und Betrieb der Stromnetze.
 
 Datenschutz im Energiesektor
 ----------------------------
 
-Bei der Umsetzung des europäischen Energiebinnenmarkts werden modernste internetgestützte Technologien (z.B. SmartGrids) eine Schlüsselrolle spielen. Dabei birgt die damit verbundene detailgetreue Dokumentation des individuellen Energieverbrauchs erhebliche Missbrauchsgefahren. Zum Schutz aller Marktteilnehmer müssen höchste Datenschutzstandards eingehalten werden.
+Bei der Umsetzung des europäischen Energiebinnenmarkts werden modernste internetgestützte Technologien (z.B. SmartGrids) eine Schlüsselrolle spielen. Dabei birgt zum Beispiel eine genaue Erfassung und Dokumentation des individuellen Energieverbrauchs erhebliche Missbrauchsgefahren. Zum Schutz aller Marktteilnehmer müssen deshalb höchste Datenschutzstandards eingehalten werden.
 
 Abbau von Subventionen für konventionelle Energieträger
 -------------------------------------------------------
 
-Öffentliche Subventionen für die fossile und nukleare Energiegewinnung untergraben den von uns angestrebten Wechsel hin zu einer zukunftsfähigen, klimafreundlichen und möglichst autarken Energieversorgung in Europa. Wir PIRATEN fordern die Abschaffung jeglicher Subventionen und Beihilfen für die Förderung fossiler und atomarer Energien. Dazu zählen insbesondere indirekte Beihilfen in Form von gesetzlichen Haftungsfreistellungen für Atomkraftwerke. Neben den direkten Subventionen stellt auch das Abwälzen von Kosten auf die Gesellschaft (z.B. Erschließung und Rückbau von Kraftwerken, Bergschäden, Schadstoffemissionen, Grundwasserhaltung und –entnahme, Steuerbefreiungen) eine versteckte Subvention dar. Eine nachhaltige Entwicklung ist nur möglich, wenn die Verursacher von gesellschaftlichen Kosten und Risiken auch den wahren Preis ihres Handelns zahlen. Deshalb müssen auch Brennstoffe entsprechend ihrer gesellschaftlichen Kosten (z.B. CO2-Ausstoß) besteuert und sowohl der Emissionshandel als auch die EU-Energiesteuerrichtlinie überarbeitet werden. Auch der europäische Luftverkehr muss endlich vollständig in die Besteuerung von Brennstoffen miteinbezogen werden, um ungerechtfertigte Wettbewerbsvorteile abzubauen. Deshalb wollen wir eine verbrauchsorientierte Luftverkehrsabgabe, die Ausweichverhalten minimiert.
+Öffentliche Subventionen zum Beispiel in Form einer sogenannten Sicherheitsbereitschaft für die fossile und nukleare Strom- und Wärmegewinnung laufen dem von uns angestrebten Wandel hin zu einer zukunftsfähigen, klimafreundlichen und möglichst autarken Energieversorgung in Europa zuwider. Wir PIRATEN fordern deshalb die Abschaffung jeglicher Subventionen und Beihilfen für fossile und atomare Energieträger. Dazu zählen insbesondere auch indirekte Beihilfen in Form von gesetzlichen Haftungsfreistellungen für Atomkraftwerke. Neben den direkten Subventionen stellt auch das Abwälzen von Kosten (z.B. für Erschließung und Rückbau von Kraftwerken, Bergschäden, Schadstoffemissionen, Grundwasserhaltung und –entnahme, Steuerbefreiungen) auf die Gesellschaft eine versteckte Subvention dar. Ein schneller Wandel ist nur möglich, wenn die Verursacher der gesellschaftlichen Kosten und Risiken auch den wahren Preis für ihr Handeln zahlen. Deshalb müssen auch Brennstoffe entsprechend ihrer gesellschaftlichen Kosten (z.B. für den CO2-Ausstoß) besteuert und sowohl der Emissionshandel als auch die EU-Energiesteuerrichtlinie überarbeitet werden. Auch der europäische Luftverkehr muss endlich vollständig in die Besteuerung von Brennstoffen einbezogen werden, um ungerechtfertigte Wettbewerbsvorteile gegenüber anderen Verkehrsmitteln abzubauen. Deshalb fordern wir eine verbrauchsorientierte Luftverkehrsabgabe, die Ausweichverhalten minimiert.
 
-Klimaschutzmaßnahmen
---------------------
+Für eine frackingfreie Zukunft in Europa
+----------------------------------------
 
-Die Klimaziele der EU sind für uns Minimalziele. Wir setzen bei der Reduktion der Treibhausgasemissionen auf die Erhöhung der Energieeffizienz, ein funktionierendes System für den Emissionsrechtehandel auf europäischer Ebene sowie die Förderung der erneuerbaren Energien. Wir setzen uns dafür ein, dass die EU bis zum Jahr 2030 mindestens 40 % des Treibhausgasausstoßes im Vergleich zum Jahr 1990 reduziert. Zurzeit scheitert der EU-weite Emissionszertifikatehandel an einem hohen Zertifikate-Überschuss und einem daraus resultierendem sehr geringem Preis mit nur geringer Lenkungswirkung. Aus diesem Grund möchten wir sowohl den Überschuss an Verschmutzungsrechten kurzfristig abbauen und sie dann fortlaufend reduzieren, als auch eine Preisuntergrenze für CO2-Zertifikate einführen. Das kann durch einen Mindestpreis bei Auktionen oder eine automatische Zertifikate-Verknappung bei Unterschreiten des Mindestpreises erreicht werden. Der Mindestpreis schafft größere Anreize für Klimaschutzanstrengungen und gleichzeitig eine höhere Planungssicherheit für Unternehmen und neue Verhandlungsoptionen für ein weltweites Klimaschutzabkommen.
-
-Ausbau von erneuerbaren Energien
---------------------------------
-
-Wir PIRATEN setzen uns für einen verstärkten europaweiten Ausbau der erneuerbaren Energien ein. Aber auch die Nutzung erneuerbarer Energien ist nicht ohne Folgen für die Umwelt. Es muss auf einen flächenschonenden Ausbau von Sonne- und Windkraft geachtet werden. Biomasse darf nicht in Konkurrenz zu Nahrungsmitteln stehen und die Biodiversität gefährden. Die Erneuerbare-Energien-Richtlinie der EU schreibt vor, dass erneuerbare Energien einen gewissen Anteil des Energieverbrauchs leisten müssen. Dies gilt nicht nur für die Stromproduktion, sondern auch für die Wärmewirtschaft und den Verkehrssektor. Wir setzen uns deshalb dafür ein, dass Biomasse als Energieträger, die in Konkurrenz zu sonstiger landwirtschaftlicher Nutzung gewonnen wird, für eine Quote für erneuerbare Energien nicht beachtet wird. In den Bereichen Biomassenutzung, Marktintegration von Elektromobilität sowie alternativer Antriebstechniken sind Forschung und Entwicklung unbedingt weiter zu fördern. Kraft-Wärme-Kopplung ist wegen ihrer Dezentralität und hoher Effizienz europaweit verstärkt einzusetzen.
-
-Für eine Frackingfreie Zukunft
-------------------------------
-
-Hydraulic Fracturing, kurz Fracking, zur Gewinnung fossiler Energieträger ist eine Hochrisikotechnologie, die Wasser und Böden bedroht und zu unabsehbaren Ewigkeitsschäden führt. Es steht der Umsetzung der Energiewende und dem Klimaschutz im Wege, denn die Klimabilanz des auf diese Weise geförderten Gases ist schlechter als die von Braunkohle. Daher fordern die Piraten ein sofortiges ausnahmsloses EU-weites Verbot sämtlicher Formen von Fracking bei der Erforschung, Aufsuchung und Gewinnung fossiler Energieträger, auch wenn nicht giftige Stoffe eingesetzt werden. Zudem ist die Wirtschaftlichkeit von Fracking äußerst fraglich.
-
-Solange das Fracking noch nicht verboten ist, fordern wir ein generelles Verbot der Verpressung anfallender Flüssigkeiten, die stattdessen aufbereitet werden müssen. Für jede Einzelbohrung ist dann eine Umweltverträglichkeitsprüfung (UVP) durchzuführen, damit die Umweltrisiken transparent offengelegt werden und ein Einzelverbot ermöglicht wird. Eine Beteiligung aller Betroffenen vor der Genehmigung zur Erkundung und weiterer Schritte ist zwingend notwendig. Für die mit dem Fracking verbundenen langfristigen Kosten und Ewigkeitsschäden müssen die Betreiber aufkommen. Die Beweislast im Schadensfall ist umzukehren. Wir fordern ein generelles Import- und Handelsverbot für durch Fracking gewonnene fossile Energieträger.
+Hydraulic Fracturing, kurz "Fracking", zur Gewinnung fossiler Energieträger ist eine Hochrisikotechnologie, die Wasser und Böden bedroht, lokale Erdbeben auslösen kann und zu nicht abschätzbaren Ewigkeitsschäden führt. Außerdem sind die CO2-Emissionen des auf diese Weise geförderten Gases insgesamt sogar höher als die bei der Verbrennung von Braunkohle. Daher fordern wir ein sofortiges ausnahmsloses EU-weites Verbot sämtlicher Formen von Fracking bei der Erforschung, Erkundung und Gewinnung fossiler Energieträger und ebenso ein Verbot für den Import und Handel von durch Fracking geförderten Energieträgern. Auch dann, wenn für das Fracken ungiftige Stoffe eingesetzt werden, gelangen Schadstoffe aus dem Untergrund an die Oberfläche. Solange Fracking noch eingesetzt wird, müssen anfallende schadstoffbelastete Flüssigkeiten gereinigt werden. Ihre Entsorgung in alte Bohrlöcher ist zu verbieten.
 
 Verkehr und Infrastruktur
 =========================
@@ -714,7 +724,7 @@ Wir PIRATEN machen es zur Auflage, dass bei allen Verhandlungen der Europäische
 
 -   Privatisierungen nur nach Einholung eines Referendums;
 -   Keine Absenkung von Schutzstandards;
--   Einhaltung sozialer und ökologischer Mindeststandards;
+-   Einklagbare soziale, ökonomische und ökologische Mindestandards;
 -   Gewährung besonders günstiger Bedingungen für strukturell und wirtschaftlich schwache Handelspartner;
 -   Ausländische Investitionen demokratiekonform und rechtsstaatlich schützen;
 -   Kein Verbot der Regulierung von Finanzmärkten;
@@ -727,11 +737,11 @@ Anstatt durch Handelsverträge Druck zur Privatisierung öffentlicher Dienstleis
 
 Wir PIRATEN fordern, dass durch ein Handelsabkommen bei keinem der Handelspartner Standards in den Bereichen Verbraucherschutz, Umweltschutz, Klimaschutz, Lebensmittelsicherheit, Tierschutz, Datenschutz, Arbeitsschutz und der sozialen Sicherungssysteme gesenkt werden dürfen.
 
-#### Einhaltung sozialer und ökologischer Mindeststandards
+#### Einklagbare soziale, ökonomische und ökologische Mindestandards
 
-Handelsabkommen sollen verbindliche soziale und ökologische Mindeststandards festlegen, deren Verletzung zur Erhebung von Strafzöllen und anderen Anti-Dumping-Maßnahmen berechtigt. Wir PIRATEN werden uns dafür einsetzen, dass diese Bestandteil der WTO-Abkommen werden und Verletzungen dieser Standards deren Gerichtsbarkeit unterliegen.
+Handelsabkommen sollen verbindliche und einklagbare soziale, ökonomische und ökologische Mindeststandards festlegen, deren Verletzung zur Erhebung von Strafzöllen und anderen Anti-Dumping-Maßnahmen berechtigt.
 
-Wo schon internationale Standards der UN-Organisationen bestehen, wie beispielsweise die nach Wirtschaftsleistung abgestuften Arbeitsrechtrichtlinien der ILO (International Labor Organization), müssen sich beide Vertragspartner verpflichten, diese mindestens einzuhalten.
+Wo schon internationale Standards der UN-Organisationen bestehen, wie beispielsweise die nach Wirtschaftsleistung abgestuften Arbeitsrechtrichtlinien der ILO (International Labor Organization), müssen sich beide Vertragspartner verpflichten, diese mindestens einzuhalten und als einklagbare Rechte vorzuhalten.
 
 #### Gewährung besonders günstiger Bedingungen für strukturell und wirtschaftlich schwache Handelspartner
 
