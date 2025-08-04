@@ -1,1060 +1,904 @@
-# Europawahl 2014
+# Common European Elections Program (CEEP) for the 2024 European elections for PPEU member parties
 
-_Das Wahlprogramm zur Europawahl 2014 wurde auf dem Bundesparteitag 14.1 in Bochum am 4./5. Januar 2014 verabschiedet._
+## Preamble
 
-Präambel
---------
+Today's European Union (EU) as a supranational institution is a project of its member states rather than its citizens. Pirates believe that Europe should be organised to serve the common interests of all European citizens, as well as the interests of member states. 
 
-Dies ist das Wahlprogramm der Piratenpartei Deutschland zur Europawahl 2014. Es wurde von vielen engagierten Menschen geschrieben und zusammengestellt unter dem Eindruck einer tiefen Krise der europäischen Integration, wirtschaftlicher und finanzpolitischer Missstände und globaler Überwachungsskandale.
+Pirates in the European Union have adopted this election programme and strive together to make our vision for the Union a reality. 
 
-Die Krisen in den genannten Bereichen dürfen unserer Überzeugung nach nicht dazu führen, dass man die europäische Integration aufgibt, den gemeinsamen Wirtschafts- und Währungsraum abwickelt, sich aus dem Internet als Ort der freien Vernetzung zurückzieht oder gar in Zeiten der Globalisierung ein Zurück zu nationalstaatlicher Logik fordert. Ganz im Gegenteil. Wir setzen uns für die Vertiefung der europäischen Integration ein, um Frieden, Freiheit und Rechtsstaatlichkeit auf dem gesamten Kontinent zu stärken und berücksichtigen dabei auch, dass aufgrund der globalen Vernetzung aller Lebensbereiche die Möglichkeiten nationaler Politikgestaltung abnehmen werden.
+The democratic deficit within the European Union has existed since its formation and has not been sufficiently addressed during the integration process. 
 
-Die Zukunft Europas darf nicht an Einzelinteressen der Mitgliedstaaten scheitern, sondern sollte an den gemeinsamen Interessen der Menschen in Europa ausgerichtet werden. In diesem Sinne zu handeln und Europa auf ein solides demokratisches Fundament zu stellen, ist unser Ziel. Als Teil einer transnationalen politischen Bewegung, deren Kommunikationsraum keine staatlichen Grenzen kennt, sehen wir uns in einer besonderen Verantwortung für die europäische Idee. Wir wollen sie unter Einbeziehung der historisch gewachsenen kulturellen Vielfalt Europas weiterentwickeln. Dabei sehen wir unsere europäischen Nachbarn als Mitglieder einer Familie. Europapolitik ist keine Außenpolitik!
+An essential goal of all Pirates is to build a solid democratic foundation for the Union. To achieve that goal, it is crucial to ensure that political processes are more citizen-friendly. Together we must encourage the development of a common European space for culture, politics, and civil society to protect the rich and diverse cultures within the Union. 
 
-Demokratie-Upgrade für das Europa von heute
-===========================================
+The EU must live up to its own principles on subsidiarity. Decisions should not be taken on the EU level if they can be better resolved on the national, regional, or local levels. Equal and easy access to communication and an informed citizenry are essential requirements in legitimate democratic decision-making. Political decisions at the European level need to be preceded by Europe-wide debate and allow for the adequate participation of all. 
 
-Stärkung der Demokratie in der Europäischen Union
--------------------------------------------------
+Pirates strongly believe that all people must have the right to fair and equal treatment. Society must respect the rights of minorities. We will stand against discrimination of any kind and oppose movements that act against human rights. 
 
-Wir PIRATEN fordern, dass die Menschen mit Lebensmittelpunkt in den EU Mitgliedstaaten auch in EU-weiten Abstimmungen direkt über die europäische Gesetzgebung mitentscheiden können. Dazu haben wir den Gedanken einer Europäischen Bürgerinitiative entwickelt, mit der Legislativvorschläge gemacht aber auch EU-Gesetze gestoppt werden können. Die Europäische Bürgerinitiative soll in der Praxis leicht anwendbar und gebührenfrei sein. Sie kann wie Volksentscheide in Deutschland zweistufig angelegt werdem. Die aktuelle Gesetzgebung der EU wird von der Exekutive, der Europäischen Kommission, zu Lasten der eigentlichen Legislative, dem Europäischen Parlament, dominiert. Deshalb fordern wir die Gewaltenteilung zugunsten der Legislative neu zu gewichten. Hierfür sollen die Initiativ- und Beschlussrechte des Europäischen Parlaments als parlamentarischer Gesetzgeber der EU ausgeweitet werden.
+The Internet as a medium of communication offers tremendous opportunities for political development, overcoming top-down, one-way communication. Pirates will therefore defend the freedom of the Internet with fierce determination at the European level and on a global scale.
 
-Initiativrecht für das Europaparlament
---------------------------------------
+## Agriculture, Forestry, Fisheries, and Animal Welfare
 
-Obwohl das Europaparlament im Laufe der Zeit immer mehr Rechte und Kontrollmöglichkeiten hinzugewonnen hat, fehlt ihm immer noch das grundlegende Recht, selbst Gesetzesvorlagen einzubringen. Das Parlament kann lediglich die EU-Kommission dazu auffordern, eine bestimmte Gesetzesvorlage einzubringen. Dies kann die Kommission aber ablehnen. Wir werden uns daher dafür einsetzten, dass das Europäische Parlament das Initiativrecht erhält, damit es seine Aufgabe als Vertretung der EU-Bürger besser wahrnehmen kann.
+### Towards a Sustainable Europe and a Sustainable Planet
 
-Transparenz und demokratische Kontrolle des ESM
------------------------------------------------
+As we are a part of nature, our quality of life depends on natural resources like unpolluted water, air, soil, and food in our homes. We must achieve sustainable and healthy food production for all, now and tomorrow. We advocate for a strong role of the ENVI, AGRI, PECH, and REGI committees, provided that lessons are learnt from past mistakes in EU agricultural policies. It is their duty to protect our natural resources and change nature's exploitation into nature prospering. 
 
-Der ESM-Vertrag verstößt gegen die fundamentalen Rechtsprinzipien und Grundsätze einer demokratischen Staatsordnung (wie den Parlamentsvorbehalt und das Rechtsstaatsprinzip), sowie gegen die Transparenz-Grundsätze der PIRATEN.
+Pirates demand upholding (and, wherever possible, exceeding) the ambitious environmental promises and plans made on the EU and international levels. Both regarding conservation and support of biodiversity in agroecosystems as well as greenhouse gas emissions from agriculture. 
 
-Wir fordern:
+Urban and suburban agriculture and gardening must be encouraged to reduce transport, provide nutrition, spread knowledge, and satisfy human needs. 
 
-1.  Entscheidungen des europäischen Gouverneursrates zur Verwendung der Mittel und zur Vergrößerung der Rettungsschirme sollen durch die demokratisch gewählten Volksvertreter des Europäischen Parlaments beschlossen und kontrolliert werden.
-2.  Alle Kreditvergaben sollen transparent sein. Der Jahresabschluss und der Jahresbericht des ESM sollen öffentlich und maschinenlesbar zugänglich gemacht werden.
-3.  Die Prüfungsberichte des Ausschusses sollen öffentlich gemacht werden.
-4.  Jede Erhöhung des Stammkapitals soll von den demokratisch gewählten Volksvertretern der jeweiligen nationalen Parlamente beschlossen werden.
-5.  Das Europäische Parlament soll die Befugnis erhalten, die Immunität der Mitglieder des europäischen Gouverneursrates und des Direktoriums aufheben zu können.
-6.  Die Gehälter der Mitglieder des Gouverneursrates und des Direktoriums, sämtliche Nebeneinkünfte, Zulagen sowie geldwerte Vorteile und die gültigen Steuersätze sind vollständig offenzulegen.
+In trade agreements with third countries, the EU shall avoid unfair trade practices based on its trade power. Exports of European surplus food products into third countries must be reassessed if they risk damaging the markets for local food.
 
-Gesetzgebung in der EU transparenter machen und Einflussnahme auf politische Entscheidungen offenlegen
-------------------------------------------------------------------------------------------------------
+### Subsidies only for the public good
 
-Der europäische Gesetzgebungsprozess ist weiterhin geprägt von Intransparenz, Partikularinteressen und Hinterzimmer-Deals. Das gilt insbesondere für die Entwicklung von Legislativvorschlägen in der Kommission sowie im Rat. Wir fordern daher die Offenlegung jeglicher Korrespondenz mit und Einflussnahme von Interessenverbänden und Lobbyisten auf den europäischen Gesetzgebungsprozess. Ziel ist es, somit den demokratischen Prozess zu schützen und die Grundlagen von Entscheidungen transparent zu machen.
+We want a Common Agriculture Policy that supports natural and cultural diversity. We are convinced that the multiplicity of food production, which is locally adapted and in the hands of many independent and self-determined actors, will also grant food security and quality of life in the countryside and cities. The CAP should encourage farmers to adapt to climate change in terms of technologies and choice of crops or breeds. 
 
-Zukunft Europa - Europa in 20 Jahren
-====================================
+The CAP must provide a frame stipulating equal rights, opportunities, and commitments. The role of subsidies in European agricultural politics must change towards a greater focus on diversity and equality. Financial support must be granted according to sustainability criteria and not based on the land area or production. 
 
-Der Weg zu einem Europa der Regionen unter dem Dach eines europäischen Bundesstaates
-------------------------------------------------------------------------------------
+As agriculture in the EU provides high overproduction and production can be marketed by standard market means, subsidies should only support the common public good. Ecosystem degradation should not be part of agricultural policy as an excuse for social issues. Pirates want to preserve and support small-scale farming and subsistence agriculture to enhance resilience.
 
-Ziel der Piratenpartei ist, den derzeitigen Staatenbund der Europäischen Union zu einem pro-europäischen Europa der Regionen zu entwickeln. Unter dem Dach eines europäischen Bundesstaates werden die Regionen in den EU-Mitgliedsländern gefördert und in ihrer regionalen Eigenständigkeit unterstützt.
+### Use of technology and digital solutions
 
-Zwischen den Mitgliedstaaten sind Solidarität und Eigenverantwortlichkeit garantiert. Die besonderen Kennzeichen dieser Union sind gesicherte Menschenrechte, Rechtsstaatlichkeit, Meinungsfreiheit, Glaubens- und Gewissensfreiheit, Freiheit der Kunst und Wissenschaft. Gleichzeitig wird die Vielfalt in der Einheit gewahrt. Nur so ist Frieden und Wohlstand garantiert und gleichzeitig ein positives Entwicklungspotenzial durch hohe Diversität gesichert.
+The principle of 'no patents on life' must be strictly upheld. The EU shall establish the frame for open access to digital applications and open interfaces. Publicly funded data on, for example, climate, weather, soil, and water must be easily accessible to the public. The EU must ensure that any such datasets obtained using proprietary technologies will not pass into private hands.
 
-Europäischer Verfassungskonvent
--------------------------------
+### Forestry
 
-Wir fordern die Einberufung einer verfassungsgebenden Versammlung (Verfassungskonvent) für die Europäische Union. Ziel des Verfassungskonvents ist es, das politische System der EU und ihre Beziehung zu den Mitgliedstaaten und Regionen neu zu strukturieren und auf eine demokratische Basis zu heben. Der Prozess der Ausarbeitung einer europäischen Verfassung muss transparent geschehen und die europäischen Bürgerinnen und Bürger umfassend beteiligen. Die Mitglieder dieser Versammlung sollen demokratisch gewählt werden und gleichzeitig die Vielfalt innerhalb der Union repräsentieren. Über den erarbeiteten Verfassungsentwurf stimmen die Bürger unionsweit und zeitgleich ab.
+EU should do more to incentivize practices leading to the preservation and restoration of biodiversity, water retention, and carbon capture in forests, both in terms of regulation and funding. But we have to learn from the mistakes of the Common Agricultural Policy. The goal is to help develop a sustainable industry, both in the economic and environmental sense. EU has to enforce strict protection of old-growth forests and old trees in all other parts of the landscape. 
 
-Mögliche konstitutionelle Verfasstheit eines Vereinten Europas
---------------------------------------------------------------
+### Animal welfare 
 
-Unsere Vision für eine konkrete Ausgestaltung beruht auf der konsequenten direkten Einbindung der Bürger (Direkte Demokratie), der Repräsentation der europäischen Bürger in ihrer Gesamtheit (Europaparlament) und der föderalen Elemente (Länder- oder Regionen-Kammer). Direktdemokratische Elemente sollen auf allen Ebenen der EU die repräsentativen Institutionen dieser Föderation ergänzen. Wir verstehen die Bürger dabei sowohl als den Souverän Europas als auch seiner Teile.
+All animals deserve to be treated humanely. Pirates support strengthening measures ensuring appropriate care and management and less painful slaughter, such as the phase-out of cage farming as soon as possible, introducing species-specific standards for all farmed animals, ban on the export of live animals to third countries, and reduction of long journeys of live animals by introducing strict absolute time limits. Lack of transparency on farming conditions and education on the welfare of animals in modern farming systems needs to be addressed, e.g. by a method-of-production plus label for animal products. Pirates support further development of alternatives to meat and incentives to a shift towards a more plant-based diet. 
 
-Das direkt von den Bürgern gewählte europäische Parlament soll gemeinsam mit einer zweiten Kammer, in der die föderalen Elemente ihre Interessen vertreten können (dem heutigen Europäischen Rat und dem Ministerrat), die Kompetenzen auf gesetzgeberischer Ebene, bei der Wahl einer europäischen Regierung und der Kontrolle wichtiger Staatsorgane erhalten. Das europäische Parlament soll eine Regierung wählen. Ob dies nach einem Mehrheitsprinzip oder einem kooperativen (Konkordanz) Modell geschieht, soll in dem verfassungsgebenden Prozess diskutiert und entschieden werden. Dort soll auch die Frage geklärt werden, ob der Regierungschef direkt vom Volk oder vom Parlament gewählt wird oder ob mehrere gleichberechtigte Mitglieder (nach Schweizer Vorbild) die Regierung kooperativ bilden.
+### Sustainable fisheries 
 
-Es ist unser Ziel, dass die Europäer gemeinsam entscheiden, welche Politikfelder sie auf welcher Ebene angesiedelt sehen wollen. Dieses Europa muss auf klaren Prinzipien aufgebaut sein wie Achtung der Menschenrechte, Gewaltenteilung, Rechtsstaatlichkeit, Subsidiarität und Bürgerbeteiligung.
+Fishing quotas must be revamped to adapt to scientifically evident sustainability and protect small-scale fisheries. The EU should expand policies combating illegal fisheries. Marine protected areas should be granted an appropriate and harmonized level of protection by forbidding unsustainable practices harmful to biodiversity, such as bottom trawling or extractive activities. Large-scale aquaculture development should also be closely monitored to ensure animal welfare, equilibrium between feeding and fishing, and better integration in the environment and ecosystem while ensuring traceability. EU should push for enabling fish migration in rivers, especially by removing unnecessary dams.
 
-Die letzten Jahre haben uns in Europa vor Augen geführt, dass es sich im Kern um eine institutionelle Krise handelt. Deutlich wird dies an dem Sachverhalt, dass die Europäische Zentralbank in der Eurokrise die einzige wirklich handlungsfähige Institution in Europa war. Da sie jedoch nicht demokratisch legitimiert ist, kann nicht sichergestellt werden, ob ihre Maßnahmen dem Gemeinwohl in Europa oder nur den Interessen einer Minderheit zugutekommen. Wenn man dies anerkennt, wird man zu dem Urteil gelangen, dass wir legitimierte Institutionen benötigen, die wirklich im Interesse des Gemeinwohls in Europa handeln. Wir PIRATEN sehen diese Situation als Chance und wollen konstruktiv daran mitwirken, das europäische Projekt auf demokratischem Wege weiterzuentwickeln.
 
-Wirtschaft
-==========
+## Civil Society 
 
-Transparenz der Vergabe öffentlicher Aufträge
----------------------------------------------
+Civil society is a crucial component of any democratic society, as it plays a vital role in ensuring that the voices of individuals and communities are heard and represented in the political process. As the European Pirate Party, we recognize the importance of civil society in the European Union and its member states, and we are committed to strengthening the values that underpin it. 
 
-Rechtsgeschäfte der öffentlichen Hand müssen transparent sein. Der Staat und seine ausführenden Organe sind Verwalter der Steuermittel der Bürgerinnen und Bürger. Eine Einsichtnahme in Verträge der öffentlichen Hand ist aus Sicht der PIRATENPARTEI ein grundsätzliches Recht aller Menschen. Die Verwendung der Haushaltsgelder muss für jeden nachvollziehbar und überprüfbar sein. Die Ausschreibungskriterien sind deshalb einfach zugänglich direkt im Internet zu veröffentlichen, so dass der Entscheidungsprozess nachvollzogen werden kann. Die PIRATENPARTEI fordert die Veröffentlichung abgegebener Angebote nach Abschluss der Angebotsphase. Die öffentliche Auftragsvergabe und durch Steuermittel geförderte Projekte und Organisationen sind in einer zentralen Datenbank zu speichern und auf einem Online-Portal zu veröffentlichen.
+At the heart of our mission is a commitment to the fundamental values of the European Union, as outlined in Article 2 of the Treaty on the European Union. We believe that respect for human dignity, freedom, democracy, equality, the rule of law, and human rights, including the rights of persons belonging to minorities like LGBT+, are non-negotiable principles that must be upheld and defended at all times. 
 
-Banken in die Schranken
------------------------
+To achieve this goal, we call on the EU to work closely with civil society organizations across Europe and beyond to ensure that these fundamental values are respected and promoted in all EU policymaking and decision-making aspects. We believe that civil society should have a meaningful say in shaping EU policies. The EU should actively seek out and listen to the voices of individuals and communities traditionally underrepresented in the political process. 
 
-Wir setzen uns dafür ein, dass sich die Geschäftsbanken auf ihre volkswirtschaftliche Aufgabe, die Kreditvergabe an die Realwirtschaft, konzentrieren. Dagegen sollen die Geldschöpfung durch Kredite zum Zwecke von Finanzspekulationen oder Finanzinvestitionen sowie die Geldschöpfung zum Kauf von Finanzvermögen derart eingeschränkt werden, dass die bisher vorhandenen Risiken für die europäische Gesellschaft entfallen.
+Furthermore, we believe that the EU is responsible for promoting these values not only within its own institutions and member states but also in its interactions with other countries and international organizations. We believe that the EU should lead by example, demonstrating its commitment to these values in its external policies and working to promote them in countries and regions where they are under threat. 
 
-Finanzielle Probleme von Banken dürfen nicht wie bisher zu Lasten der Steuerzahler gehen. Die Piratenpartei fordert eine Bankenregulierung, die Schieflagen durch scharfe Eigenkapitalvorschriften vermeidet. Eigentümer und Gläubiger müssen in Krisen an den Verlusten beteiligt werden. Auch echte Insolvenzen bzw. Abwicklungen müssen möglich sein.
+### Citizen Participation and Open Government - Democracy Add-On for Europe 
 
-Transparenzvorgaben für Rettungskredite
----------------------------------------
+Pirates advocate for a directly elected citizens' convention tasked with drafting a new EU treaty that will clarify and replace current treaties and address the need for democratic reform within the Union, provided it is accepted by the citizens of the Union through a referendum. 
 
-Wir PIRATEN fordern Transparenz im Staatswesen als Voraussetzung für außergewöhnliche Stabilisierungs- und Konsolidierungsmaßnahmen für Mitgliedsstaaten der Europäischen Union. Maßnahmen wie zum Beispiel Kredite oder Schuldenschnitte sind an die Verabschiedung umfangreicher Informationsfreiheits- und Transparenzgesetze in den betreffenden Staaten zu koppeln. Nur so kann sichergestellt werden, dass Finanzmittel im Sinne und unter Aufsicht der Bevölkerung der jeweiligen Länder eingesetzt werden. Wir gehen davon aus, dass zusätzliche Transparenz dazu führt, dass tatsächlich in Maßnahmen investiert wird, die langfristig die ökonomische Stabilität im jeweiligen Land fördern.
+The present EU legislative process is dominated by the executive branch (the European Commission) at the expense of the legislative branch (the European Parliament). Pirates seek to adjust the balance of power in European Institutions to favour the legislative branch. 
 
-Spekulation mit Grundnahrungsmitteln verbieten
-----------------------------------------------
+Direct democracy at the EU level, i.e. pan-EU referendums on constitutional revisions and citizen-initiated legislative referendums, should be part of the new constitution. Citizens shall have the right both to repeal existing legislation and initiate new legislation. 
 
-Grundnahrungsmittel und Wasser sind die Lebensgrundlage aller Menschen, oft genug entscheidet die Verfügbarkeit und ein bezahlbarer Preis über Menschenleben. Wir PIRATEN fordert daher ein Verbot von Geschäften mit Nahrungsmitteln und Agrarrohstoffen sofern sie nicht der Produktion, der verbrauchsbestimmten Verteilung oder der Bereitstellung dienen. Details sollen durch internationale Abkommen geregelt werden. Warentermingeschäfte müssen zwingend zu einer physischen Erfüllung führen und jegliche Differenzgeschäfte, Optionen und Leerverkäufe sowie weitere Derivate dessen müssen ausgeschlossen werden.
+### Citizenship Add-on for Europe 
 
-Menschenhandel und Sklaverei in Zulieferketten offenlegen
----------------------------------------------------------
+We, the European Pirates, consider ourselves European citizens. However, at this point, European citizenship is only an idea. Pirates want to transform this idea into reality. With European citizenship, we can be more than French, German, and Swedish. We can be citizens with a bundle of common rights in every country of the Union. We will be able to issue European passports, allowing any European citizen to be recognised as a part of a concept larger than their own countries in the ideal of a borderless world. 
 
-Wir PIRATEN fordern, dass große Unternehmen, die ihren Sitz in einem EU-Staat und einen Jahresumsatz von 100 Millionen Euro oder mehr haben, dazu verpflichtet werden, ihre Maßnahmen zur Bekämpfung von Menschenhandel, Sklaverei, Zwangsarbeit, Schuldknechtschaft und Kinderarbeit in ihren Zulieferketten öffentlich zu machen.
+Pirates want to open discussions and organise workshops to fulfil these goals.
 
-Steuern und Haushalt
-====================
+The European Pirate Party believes that everyone in the European Union should have the right to real EU citizenship. This citizenship should come with an EU passport and physical and digital documents recognized all over the EU as European citizenship. 
 
-Mehr Kooperation statt Steuerwettbewerb zwischen Mitgliedsländern
------------------------------------------------------------------
+We believe that real EU citizenship is essential for ensuring that all people in the EU have equal rights and opportunities, regardless of their country of origin. It is also a vital step towards creating a more united and cohesive Europe, where everyone feels like they belong and are valued members of the community. 
 
-Es ist mit der Idee eines vereinten Europa nicht vereinbar, dass Mitgliedsländer in der Europäischen Union über niedrige Unternehmenssteuern europaweit hohe Steuerausfälle verursachen und Unternehmen durch aggressive Steuerplanung zum Beispiel über Lizenzgebühren Unternehmensgewinne in Länder mit niedriger Besteuerung verlagern können. Statt über Steuersätze zu konkurrieren, sollten die Länder Europas in den Bereichen zusammenarbeiten, die die Standortbedingungen in allen Regionen Europas für Unternehmer und Arbeitnehmer verbessern, beispielsweise bei der Vervollständigung des Binnenmarktes, der Stärkung von Bildung und Forschung, einer europaweit vernetzten Infrastruktur und einer europaweit geltenden Rechtssicherheit. Wir werden uns deshalb dafür einsetzen, dass die Mitgliedsländer ihre Unternehmenssteuersätze annähern, einheitlichere Besteuerungsgrundlagen schaffen und in den genannten Bereichen kooperieren.
+### Innovating Political Participation 
 
-Stärkung des Haushaltsrechts des EU-Parlaments
-----------------------------------------------
+Pirates want citizens to have a more direct and significant impact on the policy debate and decision-making process, both individually and collectively. 
 
-Wir PIRATEN möchten das Haushaltsrecht des EU-Parlaments stärken. Wir setzen uns dafür ein, dass das Parlament die alleinige Hoheit über das Budget der EU erhält und nicht wie bisher nur ein Mitbestimmungsrecht bei Haushaltsentscheidungen des Ministerrats. Wir möchten, dass an Stelle des bisherigen undurchschaubaren EU-Finanzierungssystems, mit in Korrekturmechanismen versteckten Rabatten für einzelne Länder, ein nachhaltiges und transparentes System tritt.
+The European Parliament should set up an e-participation tool. Citizens should be able to discuss legislative proposals publicly, propose amendments, and support (or vote against) proposed amendments online. 
 
-Antworten auf die Krise im Euroraum
-===================================
+We wish to reform the EU Citizens' Initiative. Data requirements shall be reduced. The European Commission should deal even with unsuccessful but interesting initiatives. 
 
-Die Ausgangsposition
---------------------
+Petitioners with a significant number of supporters shall have the right to be heard in person. The European Parliament should open its doors to citizens regularly to let them directly submit their proposals and concerns to a joint plenary session with Members of the European Parliament and Members of the European Commission. These sessions should also be open to citizens participating remotely via the Internet or social media. 
 
-Die Europäische Union befindet sich noch immer in der schwersten Krise seit ihrer Gründung. Insbesondere in Südeuropa ist die Arbeitslosigkeit extrem hoch, die Staatsverschuldung in Kombination mit der Überschuldung vieler Banken weiterhin kritisch.
+European citizens must be able to search, use, and exchange the information made available by different European governance processes. This way, they can understand and participate in the life of our European democracy. The social cost of participating needs to be minimized. 
 
-Unsere Lösungsvorschläge
-------------------------
+### Open Government 
 
-Wir sind zu der Überzeugung gelangt: Um die Krise dauerhaft zu überwinden, müssen Geld- und Fiskalpolitik in der Eurozone koordiniert und im richtigen Mix eingesetzt werden. Die Lösungen werden von uns aus der Sicht des Nutzens für die gesamte Eurozone konzipiert. Sie erfordern daher auch hier eine Abkehr von kurzfristigen, nationalen (auch deutschen) Interessen hin zu einer gemeinsamen Vorgehensweise, die langfristig zudem auf demokratischen Fundamenten ruhen muss. Nur so wird die neue Ausgestaltung der Währungsunion als gerecht für alle Beteiligten empfunden werden. Die Europäische Union kann ohne Solidarität nicht bestehen. Wir PIRATEN fordern ein Aufbau- und Investitionsprogramm ("Marshall-Plan 2.0") für Europa, um das wirtschaftliche Gleichgewicht in der Eurozone wiederherzustellen und die wirtschaftlich angeschlagenen Eurostaaten auf die Beine zu bringen. Dieses soll nicht nur die kurzfristige Konjunkturentwicklung fördern, sondern auch langfristige Perspektiven eröffnen. Ziel ist der Umbau und die Modernisierung der europäischen Volkswirtschaften hin zu einer energieeffizienten und ressourcenschonenden Wirtschaftsstruktur. Es braucht außerdem eine koordinierte Wirtschaftspolitik auf europäischer Ebene. Die Löhne in der Europäischen Union sollten sich am gemeinsam vereinbarten Inflationsziel der Eurogruppe und dem jeweiligen Produktivitätswachstum orientieren. Wir fordern einen effektiven europäischen Aufsichtsmechanismus, der von der EZB unabhängig ist und der zukünftige Kreditexzesse frühzeitig erkennt und wirksam unterbindet. Um die Eurozone unabhängiger von US-amerikanischen Ratingagenturen und somit den internationalen Finanzmärkten zu machen, setzen wir PIRATEN uns für die Gründung einer unabhängigen europäischen Ratingagentur ein.
+The European Union shall join the Open Government Partnership. This multilateral initiative aims to promote open government, empower citizens, fight corruption, and harness new technologies to strengthen governance. 
 
-Arbeit und Soziales
-===================
+### Promoting Civil Society Participation 
 
-Europäisches Bedingungsloses Grundeinkommen
--------------------------------------------
+We believe that civil society participation is crucial for a healthy and vibrant democracy. Therefore, we are committed to promoting and supporting the work of non-governmental organizations (NGOs) across the EU. To achieve this, we propose increasing public awareness of the importance of civil society participation and encouraging greater participation through education and outreach programs. 
 
-Wir PIRATEN streben die europaweite Einführung eines bedingungslosen Grundeinkommens an, das jedem Bürger ein Existenzminimum und gesellschaftliche Teilhabe garantiert. Ein Mensch kann nur in Würde leben, wenn für seine Grundbedürfnisse gesorgt und ihm gesellschaftliche Teilhabe möglich ist. Die Wahrung dieser Menschenwürde in der EU sehen wir als zentrale Aufgabe an. Das bedingungslose Grundeinkommen soll einen individuellen Rechtsanspruch darstellen sowie ohne Bedürftigkeitsprüfung, ohne Gegenleistungen, ohne Antrag und damit ohne bürokratischen Aufwand ausbezahlt werden. Wir sind der Überzeugung, dass die überwältigende Mehrheit der Menschen eine sichere Existenz als Grundlage für die Entfaltung ihrer wirtschaftlichen und sozialen Potenziale nutzen wird. Bis zur Einführung eines bedingungslosen Grundeinkommens setzen wir uns europaweit für Mindestlöhne ein, welche den Lohnwettbewerb eindämmen sollen, für menschenwürdige Arbeits- und Lebensverhältnisse sorgen und genauso wie das bedingungslose Grundeinkommen auch die Binnennachfrage steigern würden.
+### Clear Regulation of NGOs 
 
-Europäischer Arbeitsmarkt
--------------------------
+We propose advocating for clear and fair regulations for NGOs operating in the EU, focusing on transparency and accountability. We also suggest making it easier for NGOs to establish and finance themselves within the EU.
 
-Wir PIRATEN begrüßen die Freizügigkeit für Arbeitnehmer, in einem frei gewählten EU-Land zu leben und zu arbeiten. Allerdings muss der gemeinsame, europäische Arbeitsmarkt der Förderung des Wohlstands und dem Nutzen aller dienen. Wir fordern weiterhin Maßnahmen, die Sozialdumping verhindern. Jugendarbeitslosigkeit wollen wir durch ein Gesamtkonzept aus Bildung, sinnvoller Infrastruktur und einem Programm zur Förderung einer modernen Wirtschaft bekämpfen.
+### Tax Incentives for Donations 
 
-Gleichbehandlung aller Arbeitnehmer in Europa
----------------------------------------------
+To encourage more organizations to engage in social and environmental causes, we believe donations towards NGOs working for the common good should receive a special tax status in all EU member states. 
 
-Wir PIRATEN setzen uns für Chancengleichheit von Arbeitnehmern in Europa unabhängig von ihrer Herkunft oder ihrem Geschlecht ein. Wir möchten erreichen, dass bei jeder Arbeit, die irgendwo in Europa verrichtet wird, niemand aufgrund seiner Herkunft oder seines Geschlechts niedriger bezahlt wird. Zudem wollen wir die in Kraft befindlichen arbeitsrechtlichen Vorschriften der Europäischen Union besser in den Nationalstaaten bekannt machen und durchsetzen.
+### Effective Interaction with European Institutions 
 
-Recht auf Gewerkschaftsvertretung
----------------------------------
+NGOs need access to information about upcoming legislation to interact with European institutions effectively. We propose that NGOs registered in the EU get access to the actual text and additional information, allowing them to put the legislation into context. This will ensure that all stakeholders have a place at the table and access to the latest developments. 
 
-Wir PIRATEN bekennen uns zur Mitbestimmung in allen Bereichen des öffentlichen Lebens. Dazu gehört auch das Arbeitsleben. Demokratie umfasst nach unserem Verständnis auch die Beteiligung an Entscheidungsprozessen im Arbeitsumfeld. Darum bekennen wir uns zu starken Gewerkschaften und wollen das Recht auf Gewerkschaftsvertretung in den arbeitsrechtlichen Vorschriften der EU verankern. Wir möchten erreichen, dass auch Leiharbeitnehmer dieses Recht im Entleihbetrieb wahrnehmen können.
+### Promotion of Good Work by NGOs 
 
-Menschen mit Behinderungen
---------------------------
+We will work to promote and showcase the critical work that NGOs are already doing across the EU. By highlighting their successes, we aim to encourage more people to get involved and support their efforts. We recognize the critical role that NGOs play in areas such as environmental protection, social justice, and human rights. Therefore, we are committed to supporting their efforts and working together to build a more just and sustainable society. 
 
-Wir PIRATEN fordern eine schnelle, vollständige und korrekte Umsetzung der UN-Behindertenrechtskonvention. Wir setzen uns dafür ein, dass Menschen mit Behinderungen, auch wenn sie sozial schwächer gestellt sind als der Bevölkerungsdurchschnitt, durch eine angepasste europäische Gesetzgebung wirtschaftliche Gleichstellung und dadurch Gleichberechtigung erlangen.
+### Anti-corruption and Containing Corporate Lobbyism 
 
-Soziale Familienpolitik
------------------------
+The influence of money on politics is one of the key corruption risks in the EU and a threat to its democratic foundation. Political decisions will not be made in the best interests of all citizens when corporate interests are allowed to dominate. 
 
-### Präambel
+### Disclosure and Containment of External Influence on Political Decisions 
 
-Wir wollen, dass die Menschen in Europa selbst die Form des Zusammenlebens bestimmen können und keine Familienform rechtlich benachteiligt wird - auch nicht bei Kinderwünschen. Wir wollen Familien mit Kindern fördern und kostenfreie Bildungsangebote schaffen. Die Piratenpartei steht für eine zeitgemäße und gerechte Familienpolitik, die auf dem Prinzip der freien Selbstbestimmung über Angelegenheiten des persönlichen Lebens beruht. Wir wollen, dass die Politik der existierenden Vielfalt gerecht wird. Wir PIRATEN setzen uns dafür ein, die einseitige Bevorzugung traditioneller Rollen-, Familien- und Arbeitsmodelle zu überwinden. Echte Wahlfreiheit besteht erst, wenn längere berufliche Auszeiten oder Teilzeitarbeit unabhängig vom Geschlecht gesellschaftliche Normalität sind.
+To protect the democratic process and make decision-making more transparent, the Pirates call for disclosing the influence of interest groups and lobbyists on political decisions. Lobbying activities shall be as transparent as possible. That can be helped by making the existing lobby register mandatory, linked to an open calendar on the Internet. Every EU citizen should have a chance to look up with whom the elected representative met, what was the purpose of the meeting, and what happened there. The process shall be based on a multilevel controlling system that is needed for a reliable democracy. In addition, a legislative footprint shall be published. Everyone involved in policy making shall disclose their meetings with lobbyists and the written input they receive. All draft bills and amendments shall be traceable to their original author. 
 
-### Freie Selbstbestimmung des Zusammenlebens
+Enforceable ethics rules and an oversight mechanism for lobbyists shall be introduced. These should prevent lobbyists from exercising undue influence. 
 
-Wir Piraten bekennen uns zu allen denkbaren Formen des Zusammenlebens. Politik muss der Vielfalt der Lebensentwürfe gerecht werden und eine wirklich freie Entscheidung für die individuell gewünschte Form des Zusammenlebens ermöglichen. Eine ausschließlich historisch begründete Bevorzugung ausgewählter Familienmodelle lehnen wir ab. Wir Piraten setzen uns für die vollständige rechtliche Gleichstellung sämtlicher Lebenspartnerschaften ein, auch wollen wir alle Formen der homosexuellen, heterosexuellen und polyamore (Liebesbeziehung zu mehr als einem Menschen) Partnerschaften ermöglichen.
+### Preventing Conflicts of Interest 
 
-### Kinderwünsche auch in nicht klassischen Familienbildern realisieren
+Public officials (including Commission Special Advisers) and elected representatives (including Rapporteurs) shall not be unduly influenced by private interests in performing their public duties. Conflicts of interest may occur with outside activities and previous jobs, but also through revolving door cases related to MEPs, Commissioners or civil servants taking up new jobs in the private sector.
 
-Wir Piraten setzen uns für die gleichwertige Anerkennung von Lebensmodellen ein, in denen Menschen füreinander Verantwortung übernehmen. Lebensgemeinschaften, in denen Kinder aufwachsen oder Menschen gepflegt werden, verdienen einen besonderen Schutz und Unterstützung durch den Staat und die Gesellschaft. Wir setzen uns für den Abbau bestehender, geschlechtlicher Rollenzuschreibungen und gesellschaftlicher Erwartungshaltungen ein. Der Wunsch, eine Familie zu gründen, darf nicht am klassischen Familienbild hängen bleiben. Die geschlechtliche Identität oder die sexuelle Orientierung darf hierbei keine Rolle spielen.
+Proper rules must be established to ensure that relevant office holders do not have any conflicts of interest, that interests are being declared and that misbehaviour is sanctioned. The European Parliament and the European Commission Codes of Conduct need to be reformed. Effective transparency and ethics rules are needed for Intergroups and other cross-party groups involving MEPs and lobbyists. An independent body should oversee compliance and impose sanctions where necessary. Comprehensive rules limiting the revolving-door phenomenon shall be adopted. 
 
-### Familienförderung dort, wo Kinder sind!
+### Re-democratising the Input Process 
 
-Menschen darf kein Nachteil entstehen, wenn sie einen Teil ihrer Lebenszeit Kindern oder Betreuungsbedürftigen widmen. Wir Piraten fordern besondere finanzielle Unterstützung für Familien, Trennungseltern bzw. Versorgungsgemeinschaften, in denen Kinder aufwachsen oder betreuungsbedürftige Menschen gepflegt und versorgt werden. Familienpolitisch halten wir die Realisierung eines Kindergrundeinkommens kurz- bis mittelfristig in den einzelnen Mitgliedsstaaten für sinnvoll.
+Business interests shall no longer dominate policy expertise. The Commission shall introduce effective safeguards against corporate capture of expert and advisory groups, technology platforms and EU agencies. Because a vastly disproportionate number of meetings with EU officials is dedicated to big business, the number of these meetings should be reduced. More time should be devoted to actively seeking input from citizens, SMEs, and other currently under-represented interest groups. 
 
-### Kostenfreie und flexible Betreuungs- und Bildungsangebote
+### Political Campaign Financing 
 
-Betreuungs- und Bildungsangebote der Mitgliedsstaaten sollen den Kindern kostenfrei zur Verfügung gestellt und entsprechende Angebote wohnort- oder wahlweise arbeitsplatznah realisiert werden - auch über kommunale, regionale oder EU-Binnengrenzen hinweg. Zu berücksichtigen sind bei allen Betreuungs- und Bildungsangeboten die sich ergebenden Bedarfsveränderungen der Eltern. Kinderbetreuung muss auch außerhalb der bislang üblichen Öffnungszeiten der Betreuungseinrichtungen gewährleistet sein.
+All European political parties shall use transparent bank accounts for campaign funds. The authority overseeing European political parties shall be given effective auditing and sanctioning tools. 
 
-Digitales Leben
-===============
+### Transparency and Whistleblower Protection 
 
-Digitale Agenda für Europa
---------------------------
+Transparency gives the powerless the power to monitor the powerful. Pirates believe transparency is needed to allow the public to make democratic decisions. 
 
-Die Digitale Revolution verändert die gesellschaftlichen und wirtschaftlichen Strukturen in ganz Europa. Der freie und gleichberechtigte Zugang zum Internet ist Grundvoraussetzung für die Teilhabe am digitalen Leben. Wir PIRATEN wollen daher das Recht auf Digitale Teilhabe an der Gesellschaft in der europäischen Grundrechtecharta verankern und den europaweiten Ausbau einer leistungsfähigen Kommunikationsinfrastruktur durch die EU stärker fördern. Ziel ist es, in den nächsten Jahren eine lückenlose Breitbandversorgung in der EU zu gewährleisten. Um einen dauerhaften Investitionsanreiz, einen fairen Wettbewerb und die Gleichbehandlung der Akteure im digitalen Raum sicherzustellen, muss das Prinzip der Netzneutralität europaweit gesetzlich verankert werden. Im Zuge des europaweiten Ausbaus der Netze und ihrer Modernisierung darf es nicht zu einer Monopolisierung der Kommunikationsinfrastruktur kommen. Das Internet als Kommunikationsraum kennt keine Grenzen. Wir betrachten daher die künstlichen nationalen Barrieren für Kulturgüter innerhalb des Europäischen Binnenmarktes als Hindernis für die weitere europäische Integration und fordern deren Aufhebung. Darüber hinaus setzen wir uns für ein europaweit einheitliches Datenschutzrecht ein, das höchste Standards, insbesondere dem Verbraucher gegenüber, garantiert. Dieses muss mindestens den bestehenden nationalen Schutzniveaus entsprechen. Die Reform des europäischen Datenschutzrechts muss der Datensparsamkeit und informationellen Selbstbestimmung Vorrang geben. Das gilt insbesondere für die Datenerhebung, -verwertung und -weitergabe durch öffentliche Stellen. In diesem Zusammenhang fordern wir die Einführung wirksamer einheitlicher Sanktionierungsbefugnisse für den EU-Datenschutzbeauftragten und die Datenschutzbehörden der Mitgliedstaaten, unter anderem in Form von abschreckenden Geldstrafen. Die Unabhängigkeit der Datenschutzbehörden muss jederzeit gegeben sein. Wir lehnen internationale Handelsabkommen wie ACTA ab, die unseren Prinzipien zu Immaterialgüterrechten und Datenschutz widersprechen. Wir fordern ein Ende jeglicher Pläne und Gesetze, die darauf abzielen, die Bevölkerung unter Generalverdacht zu stellen. Bereits beschlossene Regelungen wie die Vorratsdatenspeicherung sind abzuschaffen.
+### Whistleblower Protection 
 
-Netzneutralität EU-weit schützen
---------------------------------
+Pirates advocate for general and comprehensive whistleblower legislation to protect anyone who exposes issues that are in the public interest, including abuse of law, unlawful activities, and wrongdoings. We strongly believe whistleblowers must be able to equally report internally, to a competent authority or to the media to guarantee the freedom of expression and the citizens' right to information. The right to anonymous whistleblowing should be established. 
 
-Netzneutralität als Grundpfeiler eines diskriminierungsfreien Zugangs zum Internet muss für die gesamte EU gelten. Maßnahmen der Telekommunikationsunternehmen, die den freien Zugang bedrohen, wie die ungleiche Behandlung von Dienstanbietern, sind abzulehnen. Wir wenden uns insbesondere gegen die derzeitigen Vorschläge der EU-Kommission ("Kroes Telecoms Package"), die aufgrund der Lobbyarbeit von Providern und Telekommunikationsunternehmen auf eine starke Festschreibung des Prinzips der Netzneutralität verzichten.
+### Transparency of the Public Sector 
 
-Alle Endpunkte des Internets müssen ohne irgendeine Form ungesetzlicher Einschränkungen erreichbar sein. Maßnahmen zum Traffic Management sollen nur in klaren, transparent einsehbaren und technisch begründeten Ausnahmen möglich sein. Die Qualität und Offenheit des ungefilterten und unblockierten Internets muss ständig von einer unabhängigen Stelle überprüft werden. Wir sagen Nein zu Drosselung, Deep-Packet Inspection und Netzsperren!
+The public sector, including private entities carrying out work on behalf of a public body, must be transparent and publish information as open data by default without applying restrictions on their re-use. Better legislative transparency is needed, particularly in the Council and in trilogues. Public authorities should have a duty to document information concerning decision-making processes. Public authorities and representatives should be obliged to keep records and proactively publish information such as agendas, minutes of meetings, third-party documents such as lobbyist input, and information justifying decisions. 
 
-Freie, rechtskräftige digitale Signaturen und E-Mail-Verschlüsselung für alle Menschen
---------------------------------------------------------------------------------------
+The principle of transparency should apply to all public bodies, including the Court of Justice, the permanent representations of member states and the rotating national presidencies of the Council.
 
-Wir PIRATEN setzen uns dafür ein, jedem Menschen kostenlos die Möglichkeit zu geben, elektronische Kommunikation für eine abhörsichere Korrespondenz zu verschlüsseln und rechtskräftig digital zu signieren. Dabei ist sicherzustellen, dass unberechtigte Dritte (z. B. Unternehmen und Behörden) nicht in der Lage sind, diese verschlüsselten Inhalte zu entschlüsseln.
+Pirates believe that it is a fundamental right of citizens to inspect, without the need for any specific justification, all contracts or financial benefits related to the delivery of public sector or government projects and services.
 
-Gesetzliche Garantie für den anonymen, sowie autonymen und pseudonymen Zugang zu Netzdiensten
----------------------------------------------------------------------------------------------
 
-Ein Zwang zur Verwendung von amtlich erfassten Namen im Internet ist abzulehnen. Wir setzen uns dafür ein, den Bürgern den anonymen Zugang zum Internet und den Nutzern von sozialen Netzwerken und ähnlichen Diensten den pseudonymen sowie autonymen Zugang zu diesen Diensten gesetzlich zu garantieren. Die freie Meinungsäußerung und die Selbstdefinition eines Menschen darf nicht aus Gründen scheinbarer Sicherheit beschnitten werden.
+## Defense Policy & Cybersecurity 
 
-Immaterialgüterrechte im Informationszeitalter
-==============================================
+The European Union must be empowered to defend its security interests and, in doing so, make a greater contribution to global security. The EU must articulate common guidelines and build the necessary capabilities to achieve this. Any need for military autonomy of Member States should not be misused to harm the common European spirit of cooperation. The Pirates support the integration of currently separate national armed forces, with the longterm goal of creating a joint European army under sufficient democratic control. 
 
-Immaterialgüterrechte neu bewerten
-----------------------------------
+Our goal is stabilising fragile states and mitigating conflict outbreaks, as this instability is a security issue for the entire international community. Due to the increasingly unstable global security landscape, the Pirates support a capable domestic defence industry. This goes hand in hand with efforts for better information sharing on arms export licence decisions and denials, to ensure a coherent EU arms export policy and increased support for countries that share the core values of the Charter of Fundamental Rights of the European Union. The Pirates follow an interdisciplinary approach, considering multiple perspectives on countering hybrid threats and adjusting to disruptive geopolitical shifts. We aim to strengthen European resilience against current and future threats of hybrid warfare, disinformation, cyber-attacks, and economic coercion. Our present dependencies on fragile and often hostile authoritarian nations in energy supply, critical raw materials, and general supply chains must be sustainably reduced. Pirates want clear and transparent criteria and selection procedures for assessing suppliers and their compliance with international law and human rights. 
 
-Es bedarf eines Umdenkens im Bereich der Immaterialgüterrechte und eine Abkehr von deren restriktiver Durchsetzung. Einer weiteren Monopolisierung von Information und Kultur muss Einhalt geboten werden. Die Schaffung von Gemeingütern (Commons), wie beispielsweise Freie Software, freie Kulturgüter, offene Patentpools und freie Bildungsangebote, muss durch geeignete rechtliche Rahmenbedingungen abgesichert und gefördert werden. Wir fordern europaweite Standards für das Urhebervertragsrecht, die die Position der Urheber gegenüber Verwertern stärken und mit dem Interesse der Allgemeinheit ins Gleichgewicht bringen. Umfassende Transparenz und gerechte Mitbestimmung durch ihre Mitglieder muss auch in den europaweiten Regelungen zu Verwertungsgesellschaften hergestellt werden.
+Pirates reject the proliferation of weapons of mass destruction and support the reduction of global arsenals of nuclear, biological, and chemical weapons. Pirates support initiatives to ban the use of lethal autonomous weapon systems in kinetic and digital warfare while preserving our European capacity to research and develop emerging technologies.
 
-Patentwesen umgestalten
------------------------
 
-Im Wandel vom Industriezeitalter zum Informationszeitalter entwickeln sich die weltweit herrschenden Patentregelungen teilweise vom Innovationsanreiz zum Innovationshemmnis. Sie stellen auch beispielsweise in den Bereichen der Patentierung von Erkenntnissen der Genforschung und Biotechnologie und im Bereich der Softwarepatente eine große Gefahr für die Gesellschaft von morgen dar.
+## Drug and Addiction Policy 
 
-Wirtschaftlicher Erfolg ist in der Informationsgesellschaft zunehmend von Wissen und Information und deren Erschließung abhängig. Das Bestreben, diese Faktoren ebenso mittels des Patentsystems zu regulieren, steht unserer Forderung nach Freiheit des Wissens und Kultur der Menschheit diametral entgegen. Wir lehnen Patente auf Lebewesen und Gene, auf Geschäftsideen und auch auf Software ab, weil sie unzumutbare und unverantwortliche Konsequenzen haben. Sie behindern die Entwicklung der Wissensgesellschaft, sie privatisieren gemeine Güter ohne Gegenleistung und ohne Not und sie besitzen kein Erfindungspotential im ursprünglichen Sinne.
+The "War on Drugs" has failed. Prohibition ties up resources and causes immense costs. Unnecessary prosecution and conviction of users of psychoactive substances not only harm society through ever-increasing expenses for the police and judiciary but also pushes marginalised people into illegality and to the margins of society instead of regulating substance use outside a black market. This strengthens the black market and organised crime. Many EU member states are planning to reassess, legalise, or decriminalise cannabis, which can only be a first step towards a "New Drug and Addiction Policy". Drug policy should first and foremost be health policy, taking into account the social and economic factors that promote drug use and addiction. A world without drugs in complete abstinence is unattainable. However, access to relevant information regarding the use of drugs is vital to ensure both the freedom and safety of the individual. The state should only intervene in a regulatory way based on scientific findings about the danger of the substance/addiction. 
 
-Grundsätzlich wollen wir einen freieren Markt ohne die Beschränkungen der derzeitigen Patentpraxis erreichen. Wir fordern, dass das Patentsystem reformiert oder durch sinnvollere Regelungen ersetzt wird. Keinesfalls darf es durch innovationsfeindliche Regelungen ergänzt werden.
+The European Pirate Party believes that drug and addiction policies should be grounded in scientific evidence, prioritise individual autonomy and public health. The party supports a revision of the UN Conventions on Drugs and their implementation into EU law to create evidence-based drug policies that prioritise public health and harm reduction. The party believes that policies aimed at reducing the negative consequences of drug use should be prioritised over punitive approaches. These policies could include measures such as decriminalising drug use and possession, expanding access to evidence-based treatment, and regulating drugs to ensure safety and quality. 
 
-Urheberrecht reformieren
-------------------------
+The Pirates, therefore, advocate that the EU work towards a recast and, if necessary, termination of the UN conventions on psychoactive substances to adopt a science-based view. Cannabis and other substances should be removed from the list of illicit drugs. The EU should create a framework facilitating a science-based approach allowing, among other things, for information exchange and contribution to research on psychoactive substances. This will allow treatments using these substances to be researched and implemented (such as the treatment of cancer, ADHD, or Long Covid). 
 
-Der uralte Traum, alles Wissen und alle Kultur der Menschheit zusammenzutragen, zu speichern und heute und in der Zukunft verfügbar zu machen, ist durch die rasante technische Entwicklung der vergangenen Jahrzehnte in greifbare Nähe gerückt. Wie jede bahnbrechende Neuerung erfasst diese vielfältige Lebensbereiche und führt zu tief greifenden Veränderungen. Es ist unser Ziel, die Chancen dieser Situation zu nutzen und vor möglichen Gefahren zu warnen. Wir wollen faire und ausgeglichene Urheberrechtsgesetze, basierend auf den Interessen der ganzen Gesellschaft.
+The EU must create a framework that encourages member states to decriminalise, legalise, and regulate cannabis and other substances to limit the black market, better ensure consumer and youth protection, and respect the philosophy of the free EU Single Market. It shall take measures to regulate legal substances that are particularly harmful to health, such as alcohol and tobacco, and to ensure health, youth, and consumer protection, for example, by banning advertising and restricting lobbying. One of the Pirates' key priorities is harm reduction policies for drug users. The European Union should encourage introducing harm reduction services such as drug-checking services, drug consumption rooms, and substitution therapy programs. The European Pirate Party argues that these services are essential for reducing the harms associated with drug use, such as overdose deaths and the spread of blood-borne diseases. We are convinced that these services can help reduce the stigma associated with drug use and support individuals seeking help for their drug use. 
 
-Wir fordern also, dass das Kopieren, Anbieten, Speichern und Benutzen von literarischen und künstlerischen Werken für nichtkommerzielle Zwecke nicht nur legalisiert, sondern durch das Gesetz geschützt und aktiv gefördert wird, um die öffentliche Verfügbarkeit von Wissen und Kultur zu fördern, weil dies die Voraussetzung für die soziale, technologische und wirtschaftliche Entwicklung unserer Gesellschaft ist. Jeder soll Kultur genießen und das kulturelle Erbe frei von Angst vor Verfolgung und Zensur teilen können.
+The European Pirate Party supports the regulation of cannabis for personal use in the EU. We believe that criminalising the personal use of cannabis is ineffective, harms marginalised communities disproportionately and diverts resources from more urgent public health needs. The party advocates for evidence-based cannabis policies that prioritise harm reduction, including regulating the production, distribution, and sale of cannabis to ensure safety and quality.
 
-Das durch das Copyright gegebene kommerzielle Monopol soll auf ein vernünftiges Maß zurückgesetzt werden. Abgeleitete Werke sollen immer erlaubt sein, Ausnahmen sollen sehr spezifisch im Gesetz aufgeführt werden und minimalen Spielraum für Interpretation bieten.
+The European Pirate Party supports the legalisation of psychedelic-assisted therapy. We believe that patients should have the right to access these treatments under medical supervision and that they should be regulated to ensure safety and efficacy. They support the development of evidence-based policies aimed at expanding access to psychedelic-assisted therapy and promoting research into the therapeutic potential of these substances. 
 
-"Recht auf Remix"
------------------
+The European Pirate Party supports a joint European alcohol and tobacco policy focused on harm reduction. We are convinced that public health should be a priority, and policies should be evidence-based and aimed at reducing harm to individuals and communities. 
 
-Kultur ist die beständige Auseinandersetzung mit und die Weiterentwicklung von bereits Geschaffenem. Kreativität braucht das "Recht auf Remix" auch im digitalen Zeitalter!
+We advocate for measures such as education campaigns to promote the responsible use of alcohol and tobacco, discourage excessive consumption, and prohibit advertising and marketing. We advocate for rational regulation of gambling in the EU. This includes the principle of informed choice, where players should be provided with information on how each game works, the house advantage, the risk of loss and the cost of the game.
 
-Bildung und Kultur
-==================
 
-Bildung
--------
+## Education, Culture, Research, & Free Knowledge 
 
-Bildung ist grundlegend um Teilhabe der Menschen in allen Bereichen zu ermöglichen und als die beste Investition in die Zukunft unseres Kontinents zudem unersetzlicher Bestandteil jeder sinnvollen Strategie zur Bekämpfung der Jugendarbeitslosigkeit in Europa.
+Broader public access to information, knowledge and culture is a prerequisite for our society's social, technological, and economic development. However, it has been hindered by artificial information monopolies, which are supposedly designed to motivate creators and inventors to produce more. In reality, the only beneficiaries of the monopolies are huge corporations. The system as a whole is failing to meet the claimed objectives. This failure manifests itself in many forms, including the frequent bullying of individuals and small and medium-sized enterprises (SMEs) by collecting societies, privatization of profits from publicly funded works, or the loss of orphan works. We face attempts to create new copyright restrictions on AI-generated content. 
 
-Freies Wissen
--------------
+Our goal is to create an environment where the motivation to create goes hand in hand with freedom of information. These challenges require thorough copyright reform and systemic changes in the public sector. 
 
-Der freie Fluss von Wissen und Information ist für uns PIRATEN essentiell und muss gerade im Bildungsbereich gefördert und gewährleistet werden. Der technische Fortschritt schafft neue Möglichkeiten, Wissen und Lernkonzepte international auszutauschen und gemeinsam weiterzuentwickeln. Um diese Möglichkeiten verstärkt zu nutzen, unterstützen wir freie und offene Lehr- und Lernmaterialien (OER). Wir setzen uns für die Entwicklung und den Einsatz solcher Materialien ein. Nationale und internationale OER-Projekte sind ein konkreter Weg, diese Vision in die Bildungsrealität zu übertragen.
+### Culture 
 
-Bildungsmobilität
------------------
+#### Promotion of the Commons and Free Culture 
 
-Förderung von Bildungsmobilität im Speziellen trägt zur Wahrnehmung der EU als gemeinsamer politischer Raum bei und somit zur Festigung des innereuropäischen Zusammenhalts. Teilhabe an der Bildung darf deshalb, auch im Sinne der Freizügigkeit, nicht an Grenzen halt machen. Es muss den Lernenden ermöglicht werden ihre jeweilige Bildungslaufbahn in unterschiedlichsten Staaten, Ländern und Regionen fortzusetzen ohne Einschränkungen zu befürchten. Abschlüsse und andere bisher erreichte Leistungen müssen grenzüberschreitend anerkannt werden. Vereinheitlichung bietet hier Chancen, ihr sollte aber immer eine gesellschaftliche Diskussion unter Beteiligung aller Akteure und einer breiten europäischen Öffentlichkeit vorausgehen.
+We will work towards adopting provisions in trade agreements which support the use and development of open formats and Free/Libre Open Source Software and promote the mutual recognition of licence models like Creative Commons. 
 
-Sprachliche Vielfalt in Europa
-------------------------------
+The creation of commons, such as Free Software, free cultural goods, open patent tools, and free and open educational material, must be promoted and legally protected. 
 
-Der kulturelle Reichtum Europas spiegelt sich auch in unterschiedlichen Sprachen wieder. Sprachliche Vielfalt in staatlichen und verwaltenden Institutionen, in denen niemand durch sprachliche Barrieren diskriminiert werden darf, sollten eine Selbstverständlichkeit sein. Ebenso selbstverständlich ist für uns die Wertschätzung und Förderung von Mehrsprachigkeit.
+To the greatest possible extent, existing cultural heritage shall be digitized and made available to the public free of charge. 
 
-Bürgerrechte und Innenpolitik
-=============================
+Free culture is an essential base for the education and creativity of society. We promote artistic activity and cultural diversity to ensure a rich educational and creative environment for present and future generations. 
 
-Privatsphäre wahren, Datenschutz und informationelle Selbstbestimmung stärken
------------------------------------------------------------------------------
+#### Copyright Reform 
 
-Wir PIRATEN setzen uns für einen starken Datenschutz und das Prinzip der informationellen Selbstbestimmung ein. Dies umfasst nicht nur die sparsame Erhebung, zweckgebundene Verarbeitung und Nutzung sowie die eingeschränkte Weitergabe von personenbezogenen Daten, sondern ebenso die Stärkung der Rechte des Einzelnen, grundsätzlich selbst über die Preisgabe und Verwendung personenbezogener Daten zu bestimmen. Im Sinne des Prinzips der Informationssicherheit muss die Vertraulichkeit bei Übertragung und Zugriff sowie die Integrität der gespeicherten Daten gewährleistet sein.
+The European Pirate Party is advocating for a copyright reform that is inclusive and fair. We strive towards a copyright system that reflects the changing landscape of the digital age and promotes a more equitable society. 
 
-Wir lehnen die verdachtsunabhängige Durchleuchtung der Bürger und den gläsernen Kunden ab. Im digitalen Zeitalter liegen immer mehr personenbezogene Informationen in elektronischer Form vor, werden automatisiert verarbeitet und verknüpft oder weitergegeben – auch über Länder und Kontinente hinweg und zwischen den öffentlichen und nicht-öffentlichen Bereichen. Ohne Wissen der Betroffenen kann die wachsende Datenflut automatisiert zu Persönlichkeitsprofilen zusammengefügt und im schlimmsten Fall gegen sie verwendet werden – z. B. durch das so genannte Kreditscoring oder die Erstellung von Surf- und Bewegungsprofilen. Damit auch in der Informationsgesellschaft die Privatsphäre gewahrt bleibt, streben wir die Umsetzung der folgenden Maßnahmen an:
+We believe in creating a fair system that enables creators to receive compensation for their work while ensuring that the public has access to valuable resources. We strive to abolish information monopolies, supposedly designed to motivate authors to produce more works. In reality, only a handful benefit, while the market as a whole is failing. Our goal is to create an environment where the motivation to create goes hand in hand with freedom of information. 
 
-### Informationelle Selbstbestimmung stärken, Medienkompetenz fördern
+Copying, storing, using, and providing access to literary and artistic works for noncommercial purposes must not only be legalized but protected by law. Everyone should be able to enjoy and share our cultural heritage free from the threat of legal action or censorship.
 
-Damit die effektive Anwendbarkeit des Grundrechtes auf informationelle Selbstbestimmung nach Artikel 1, 7 und 8 der EU-Grundrechtscharta und den Äquivalenten in den Verfassungen der Mitgliedsstaaten auch in Zukunft sichergestellt ist, fordern wir ein europäisches Datenschutzrecht, welches die höchsten bestehenden europäischen und mitgliedsstaatlichen Schutzniveaus nicht nur bewahrt sondern ausbaut.
+The time-span of a commercial monopoly given by copyright should be further shortened. Derivative works shall always be permitted, with exceptions enumerated explicitly in law, with minimal room for interpretation. Freedom of information must be safeguarded by safeguarding the right to link: Hyperlinks are a fundamental building block of the World Wide Web and must never constitute a copyright infringement. Remixing, parodies, quotes, and sampling shall be exempt from the exclusive right of the commercial copyright monopoly. Non-commercial file sharing should be allowed. 
 
-Der Gesetzgeber muss den Einzelnen in die Lage versetzen, sich der Möglichkeiten, Chancen und Risiken der Informationsverknüpfungen im Internet bewusst zu werden und selbstbestimmt zu entscheiden, welche Daten er frei gibt – z. B. in sozialen Netzwerkdiensten oder über Treue- bzw. Bonusprogramme. Der Bürger muss sich darauf verlassen können, dass Behörden und Unternehmen in der dem Grundrecht gebührenden Art und Weise, transparent und nachvollziehbar mit den personenbezogenen Daten umgehen und dass Verstöße und mangelnde Sorgfalt entsprechend sanktioniert werden. Der Einzelne muss einen durchsetzbaren und unentgeltlichen Anspruch auf Selbstauskunft, Korrektur, Sperrung oder Löschung der eigenen personenbezogenen Daten haben und über ungewollte Datenabflüsse aus Unternehmen und Behörden unverzüglich und lückenlos informiert werden. Um das bestehende Auskunftsrecht zu einer Mitteilungspflicht weiterzuentwickeln, fordern wir die Einführung eines Datenbriefes und die Verankerung desselben im Datenschutzrecht. Firmen, Behörden und Institutionen, die personenbezogene Daten verarbeiten, übermitteln oder speichern sollen dazu verpflichtet werden, die betroffenen Personen jährlich mit einem Datenbrief über die Art, den Zweck und – im Fall von Behörden und mit hoheitlichen Aufgaben beliehenen Institutionen – die rechtliche Grundlage der Speicherung zu informieren. Die Weitergabe von Daten an Dritte soll kommuniziert und begründet werden.
+Monopolies in the sectors of information and culture have to be prevented. The Pirates strictly oppose the creation of additional layers of copyright restriction for AI-generated outputs -- such as AI-generated texts, paintings, and other works. By law, the state should only allow or maintain exclusive rights for intangible goods if these are in the public interest. Any exclusive rights must be temporally limited; neither their time span nor scope may be expanded retrospectively. 
 
-Um im Sinne der informationellen Selbstbestimmung eine echte Wahlfreiheit bei der Nutzung des Internets zu garantieren, müssen alle Produkte und Dienstleistungen, die für die Verarbeitung personenbezogener Daten vorgesehen oder geeignet sind, datenschutzfreundlich voreingestellt sein (Privacy-by-Default). Datenschutz soll darüber hinaus von Anfang an in die Entwicklung neuer Kommunikations- und Informationstechniken eingebaut werden (Privacy-by-Design).
+European collecting societies must ensure comprehensive transparency, fair, participatory rights for their members and fair contract terms for artists. 
 
-### Datenschutzbehörden stärken
+### Free Knowledge and Education 
 
-Wir setzen uns für eine Stärkung der Selbstständigkeit und der Kontroll- bzw. Sanktionsbefugnisse der Datenschutzbeauftragten auf allen Politikebenen ein, um gegenüber öffentlichen und nicht-öffentlichen Stellen die Durchsetzbarkeit der individuellen Datenschutzrechte zu verbessern, Missbrauch von personenbezogenen Daten zu verhindern und Schutzmaßnahmen vor Verlust oder Manipulationen sicherzustellen. Zu diesem Ziel soll die völlige Unabhängigkeit der Kontrollstellen entsprechend der EU-Datenschutzrichtlinie und der Rechtsprechung des Europäischen Gerichtshofes (EuGH) sichergestellt werden. Die Kontrollbehörden müssen entsprechend ihren Aufgaben ausgestattet werden, damit sie ihre Aufsichts- und Kontrollfunktion auch ausüben können. Für Unternehmen sowie öffentliche Stellen fordern wir darüber hinaus rechtlich anerkannte freiwillige Datenschutz- und Datensicherheitsprüfungen (Audits) sowie Zertifizierungen durch die unabhängigen Behörden.
+An educated and critically thinking population is necessary for sustaining functional democracy, welfare, and social cohesion. We strive for universal access to high-quality education across the EU that enables people's personal development, unhindered by their social and economic background. 
 
-### Verantwortungsvollen Umgang mit Daten sicherstellen, Datenhandel eindämmen
+The education system must offer citizens all the essential skills for independent and creative life in the information society. Through education, we wish to improve people's critical thinking. 
 
-Die Verwendung personenbezogener Daten für Adresshandel, Werbezwecke oder Markt- bzw. Meinungsforschung darf nur mit Einwilligung der Betroffenen möglich sein. Daher fordern wir die ersatzlose Abschaffung jeglicher privater Zugriffsprivilegien auf behördlich erhobene Daten. Das europäische Datenschutzrecht muss dem Rechnung tragen und einen zwingenden Einwilligungsvorbehalt beinhalten.
+The European Pirate Party aims to create a system that encourages cross-border education and makes it accessible to all students and education workers in the European Union. Student and teacher mobility is an advantageous way to spread educational know-how across Europe and fight national education systems' underdevelopment. 
 
-### Verdachtsunabhängige Datenspeicherung verhindern
+Free access to knowledge and information is essential and must be promoted and guaranteed in education. Educational institutions should increasingly use learning resources available under free licenses without any restrictions on copying. The availability of educational media under free licenses to all is essential for barrier-free access to education, both within and beyond the borders of the EU. 
 
-Wir lehnen die Vorratsdatenspeicherung (VDS) von Telekommunikations-Verbindungsdaten grundsätzlich ab. Zweck und Mittel dieser Überwachungsmaßnahme stehen aus unserer Sicht nicht in einem ausgewogenen Verhältnis. Die anlasslose Speicherung ist ein weiterer Schritt in Richtung schrankenloser Telekommunikationsüberwachung und stellt die Bevölkerung unter Generalverdacht.
+We support digitising educational institutions and publishing documents stored in public libraries and archives across the EU. 
 
-Das Bundesverfassungsgericht hat die deutschen Vorschriften zur Vorratsdatenspeicherung bereits im März 2010 für verfassungswidrig und nichtig erklärt. In vielen EU-Mitgliedsstaaten gab es ähnliche, teils erfolgreiche, Verfassungsklagen, etwa in Tschechien oder Rumänien. Eine Klage vor dem Europäischen Gerichtshof ist im Gange. Auch wenn das Urteil einer möglichen Neuregelung enge Grenzen setzt, lässt sich aus Sicht von uns PIRATEN keine Ausgestaltung der zu Grunde liegenden EU-Vorratsdatenspeicherungsrichtlinie umschreiben, die eine Vereinbarkeit mit dem Grundgesetz und der Europäischen Grundrechtecharta sicherstellen würde. Auch eine Einführung durch die Hintertür lehnen wir ab.
+We see innovation as the key to developing our cultural and intellectual wealth. We support educating citizens and students about their right to information and free formats and Free Software in all types of educational facilities. We oppose maintaining the vendor lock-in reality favouring leading digital solutions producers.
 
-Wir treten daher dafür ein, die Pläne zur Vorratsdatenspeicherung endgültig aufzugeben, die EU-VDS-Richtlinie ersatzlos abzuschaffen und, im Sinne des Schutzes der Privatsphäre der Bürger, bis dahin möglicherweise anfallende Strafzahlungen seitens der EU-Kommission in Kauf zu nehmen. Das Recht, die unverzügliche Löschung von Abrechnungsdaten verlangen zu können, muss wieder wirksam gelten. Das Recht auf anonyme Bezahlung im Internet und auf anonyme Kommunikation muss verteidigt werden.
+#### Media Freedom and Pluralism 
 
-Wir lehnen die Bestrebungen der EU zum Aufbau und zur Unterhaltung einer Fernverkehrsdatenspeicherung ab. Die verdachtsunabhängige Sammlung und Speicherung von Reisedaten sowie die Umkehr der Unschuldsvermutung sind nicht vereinbar mit unserer Vorstellung von einem freiheitlich-demokratischen Staatswesen.
+Free and independent media are the foundation of healthy and well-functioning democracies. Yet, in recent years, we have observed attempts to paralyse free media by state authorities, attacks, and cases of spying on journalists and mergers of media houses diminishing the European media landscape. Citizens of the EU have the right to receive impartial and pluralistic media content. 
 
-Auch andere Formen der verdachtsunabhängigen Datenerfassung, wie z. B. die Hotelmeldepflicht oder das Nachfolgeprojekt des elektronischen Entgeltnachweis-Verfahrens ELENA, OMS (Optimiertes Meldeverfahren in der sozialen Sicherung), beurteilen wir PIRATEN kritisch. Wir lehnen die anlasslose Erfassung, Speicherung und den Abgleich biometrischer Daten aufgrund des hohen Missbrauchspotenzials ab. Grundsätzlich soll die Erhebung biometrischer Merkmale freiwillig erfolgen und durch unabhängige Stellen kontrolliert und bewertet werden. Der Aufbau zentraler Biometriedatenbanken für polizeiliche Zwecke oder die Versicherungswirtschaft muss unterbleiben. Ausweis- und Passdokumente müssen auch ohne biometrische Merkmale gültig sein – in- und außerhalb der EU.
+We support the effort to harmonise minimum rules and safeguards to protect media freedom and pluralism in the EU. We see strict rules on ownership structures and promoted content as a key to preventing unfair allocation of state economic resources. We need tools to assess media market concentration and evaluate risks rising from economic transactions that further impact pluralism in the media market. 
 
-### Gegen Überwachungssoftware: Transparenz und Quellcode-Offenlegung
+### Patents 
 
-Wir PIRATEN sprechen uns deutlich gegen die Herstellung, Wartung, Betreuung und Erhaltung von Überwachungssoftware aus. Wir verurteilen den kommerziellen Handel mit Überwachungssoftware, einschließlich Dienstleistungen für Überwachungssoftware. Überwachungssoftware ist jede Software, die Dritten Zugang zu nicht-öffentlichen Daten, Kommunikationen und Aktivitäten eines Rechensystems verschaffen kann, ohne dass die eigentlichen Nutzer des Rechensystems darüber Kenntnis haben. Der Grund für diese Position ist, dass Überwachungssoftware sowohl in vielen EU-Staaten sowie weltweit eingesetzt wird, um Menschenrechte wie das Recht auf Privatsphäre auszuhebeln. Häufig werden die so erhaltenen privaten Daten genutzt, um Regimegegner zu verfolgen und sogar zu foltern, und um Bewegungen für mehr Demokratie zu bekämpfen.
+#### Patents in the Information Age
 
-Um aktiv gegen Überwachungssoftware vorzugehen, fordern wir eine gesetzliche Pflicht bei Herstellern und Dienstleistern von Überwachungssoftware, volle Transparenz über alle Produkte, und über alle Vertragspartner und Kunden, die Überwachungssoftware und Dienstleistungen nutzen, herzustellen. Des weiteren fordern wir die gesetzliche Pflicht zur Offenlegung des vollständigen Quellcodes von Überwachungssoftware. Die Offenlegung all dieser Informationen hat an die Öffentlichkeit zu geschehen, das bedeutet: nicht nur an ein parlamentarisches Kontrollgremium.
+Patents are often an obstacle to innovation rather than an incentive. The patenting of knowledge in areas like genetics and biotechnology, as well as software, makes the process it a tangible threat to the future of our society. 
 
-Europäische Datenschutz-Grundverordnung mit hohem Datenschutzniveau
--------------------------------------------------------------------
+Monopolies on plants and seeds and costly legal disputes about often trivial patents already demonstrate how both innovators and consumers have to pay the price. Patent law needs to be reformed or replaced with an approach that enables a shared economy and more accessible and sustainable markets instead of continuing to hamper innovation further. 
 
-Wir PIRATEN fordern einheitlich hohe Datenschutzstandards in ganz Europa. Die entstehende EU-Datenschutz-Grundverordnung darf nicht zu einer Absenkung des Datenschutzes führen, sondern muss die Rechte europäischer Bürger in allen europäischen Ländern stärken. Es muss Schluss sein damit, dass sich beispielsweise Facebook in Irland einer wirksamen Aufsicht und Kontrolle entziehen kann.
+#### Rebalancing Patents with the Common Good 
 
-Der direkte Zugriff auf persönliche Daten und Live-Kommunikation europäischer Bürger im Internet durch amerikanische Geheimdienste zeigt deutlich, dass auch auf internationaler Ebene ein großer Handlungsbedarf hinsichtlich des Schutzes von personenbezogen Daten und damit der Privatsphäre der Bürger und ihrer freien Persönlichkeitsentfaltung besteht.
+Patents do not exist to allow big businesses to stifle competition with an ever-growing tide of trivial and overreaching patents. We, therefore, want to halt the continued and increasing abuse of patents. 
 
-Wir setzen uns für einen europaweit einheitlichen Datenschutz ein, der mindestens das hohe Niveau des deutschen Datenschutzes erreicht.
+#### Patents in the Information Society 
 
-Sicherheit in Freiheit
-----------------------
+Success in the information society is no longer dependent only on technological inventions but on the development of knowledge and sharing of information. The effort to regulate these factors via the patent system is diametrically opposed to our demand for freedom of knowledge and culture. 
 
-### Sicherheit in Freiheit
+Patents should never be granted for "inventions" that are trivial, non-substantial, computer programs, business models, or works of nature. These types of patents impede the development of information society and result in the privatisation of the commons. Innovation must be fairly rewarded, but this does not necessarily require granting monopolistic privileges that harm innovation and negatively affect access to essential goods. 
 
-Bewahrung und Ausbau unserer Bürger- und Freiheitsrechte sind für uns zentrale politische Herausforderungen. Die steigende Zahl von Überwachungsmaßnahmen unter Verweis auf den 'internationalen Terrorismus' und andere 'Bedrohungen' und der mangelnde Bestand solcher Gesetze vor den Gerichten belegen gravierenden Handlungsbedarf.
+The EU, its Member States and other industrialised countries should not force less developed countries to accept patent provisions that are likely to be detrimental to their essential needs, health, education, or development opportunities.
 
-### Privatsphäre jedes Menschen achten
+#### Patents, Medicines and Health 
 
-Zur Bewahrung unseres historischen Erbes an Freiheitsrechten und zur Sicherung der Effektivität der Gefahrenabwehr und Strafverfolgung treten wir dafür ein, dass eine staatliche Informationssammlung, Kontrolle und Überwachung künftig nur noch gezielt bei Personen erfolgt, die der Begehung oder Vorbereitung einer Straftat konkret verdächtig sind. Zum Schutz unserer offenen Gesellschaft und im Interesse einer effizienten Sicherheitspolitik wollen wir auf anlasslose, massenhafte, automatisierte Datenerhebungen, Datenabgleichungen und Datenspeicherungen verzichten. In einem freiheitlichen Europa ist eine derart breite Erfassung beliebiger unschuldiger Personen nicht hinnehmbar und schädlich.
+We oppose the frequent abuses of patent privileges, such as introducing spurious changes to medicines with expiring patent protection. Uncompetitive practices, such as paying competitors to delay the marketing of generics, should be actively prevented. 
 
-### Systematische Evaluierung bestehender Überwachungsbefugnisse und -programme
+We support establishing and funding alternative methods to incentivise pharmaceutical innovation, progressively replacing patents in this area. We aim to break the direct link between the reward for advances and the end product's price to ensure medicines are affordable for all. 
 
-Ein angemessener Schutz vor Kriminalität ist eine wichtige staatliche Aufgabe. Er ist nach unserer Überzeugung nur durch eine intelligente, rationale und evidenzbasierte Sicherheitspolitik auf der Grundlage wissenschaftlicher Erkenntnisse zu gewährleisten. Um kluge Sicherheitsmaßnahmen fördern und schädliche Maßnahmen beenden zu können, wollen wir, dass die Europäische Grundrechteagentur alle bestehenden europäischen Befugnisse und Programme der Sicherheitsbehörden systematisch und nach wissenschaftlichen Kriterien auf ihre Wirksamkeit, Kosten, schädlichen Nebenwirkungen, auf Alternativen und auf ihre Vereinbarkeit mit unseren Grundrechten untersucht (systematische Evaluierung). Die Europäische Grundrechteagentur wollen wir so ausstatten, dass sie diese Aufgabe erfüllen kann.
+Universities and research institutes should be able to carry out scientific research for health and medicine without being encumbered by patents. 
 
-### Exzessive Überwachung aufheben
+#### International Regulation of Intellectual Monopolies 
 
-Unnötige und exzessive Überwachungsmaßnahmen der EU wollen wir wieder aufheben, darunter
+The Pirates strive for a revision of the TRIPS Agreement in favour of restricting exclusive rights on intangible goods. We would aim for similar restrictions to apply to all trade agreements, which may include similar or even more far-reaching regulations on patents and copyright.
 
--   die verdachtslose, flächendeckende Vorratsspeicherung aller Telefon-, Handy-, E-Mail- und Internetverbindungen
--   die Aufnahme biometrischer Merkmale in Reisepässe und Visa sowie von Asylsuchenden
--   die Übermittlung von Fluggast- und Zahlungsverkehrsdaten an Drittstaaten wie die USA sowie allgemein die Auslieferung von Personendaten an Staaten ohne wirksamen Grundrechtsschutz
--   die zwangsweise Einführung digitaler Verbrauchserfassungsgeräte ("Smart Meter") ohne Wahlrecht der Betroffenen
--   die verschärfte Überwachung der Außengrenzen ("Eurosur")
--   den grenzüberschreitenden Zugriff auf Polizeidaten ("Verfügbarkeitsprinzip") ohne einen starken und wirksamen europäischen Daten- und Grundrechtsschutz.
 
-### Neue Überwachungspläne stoppen
+## Environment, Climate, and Energy 
 
-Wir wollen den fortschreitenden Abbau der Bürgerrechte aufhalten, der seit 2001 dramatische Ausmaße angenommen hat. Wir treten für ein Moratorium für weitere Eingriffe in unsere Menschenrechte im Namen der inneren Sicherheit ein, solange nicht die systematische Überprüfung der bestehenden Befugnisse abgeschlossen ist. Zur Gewährleistung unserer Sicherheit brauchen wir keine neuen Gesetze; die vorhandenen Gesetze reichen aus.
+### Goals 
 
-Insbesondere lehnen wir ab
+We want to ensure that future generations have a base for a life of freedom and dignity. A healthy environment, biodiversity, sustainable use of resources, and equal and fair access to energy, food, and water are fundamental requirements for this. To ensure a safe future, we want a fast transition to a clean, circular economy that reduces its environmental impact to zero. 
 
--   die Einführung einer elektronischen Flugpassagierakte ("EU PNR")
--   die elektronische Erfassung aller Personen aus Nicht-EU-Staaten, die nach Europa ein- und ausreisen, und die Einführung eines Genehmigungssystems für visumsbefreite Personen (z.B. „smart borders“, EURODAC)
--   die automatisierte Profilerstellung von Personen, um sie in Risikoklassen einzuteilen ("Profiling"), oder eine sonstige Massendatenanalyse
--   eine systematische Überwachung des Zahlungsverkehrs oder Einschränkungen des identifizierungsfreien Zahlungsverkehrs mit Bargeld oder elektronischem Bargeld
--   ein EU-US-Datenabkommen auf der Grundlage des vollkommen unzureichenden Mandats des Europäischen Rates.
+Environment and climate do not stop at borders. Energy also crosses borders in the EU's internal energy market. We need to strengthen European coordination to overcome the energy and climate crises. We want to establish EU-wide standards that take transparency and auditability into account to ensure effective implementation and prevent greenwashing. 
 
-### Grundrechts-TÜV für neue Sicherheitsmaßnahmen
+#### Sustainability 
 
-Wir wollen, dass die Europäische Kommission und der Rat künftig jeden Vorschlag für neue Sicherheitsmaßnahmen noch im Entwurfsstadium von der Europäischen Grundrechteagentur auf seine Vereinbarkeit mit unseren Grundrechten, seine Wirksamkeit, seine Kosten, seine schädlichen Nebenwirkungen und auf Alternativen begutachten lassen. Nur durch einen solchen „Gesetzes-TÜV“ kann der fortschreitenden Erosion unserer Grundrechte und dem Fehleinsatz von Sicherheitsressourcen wirksam entgegen gewirkt werden.
+The Pirates support the EU's aims and principles for safeguarding our water, air, soil, and natural environment for the sake of everyone's well-being, including future generations. 
 
-### Sicherheitsforschung demokratisieren
+Emissions must be minimised, existing pollution cleaned up, and natural habitats preserved and restored wherever possible. Voluntary measures by potential polluters are a preferred method. However, they must be monitored closely, as they often fail to reach the targets. 
 
-Die europäische Sicherheitsforschung aus Steuergeldern wollen wir demokratisieren und an den Bedürfnissen und Rechten der Bürgerinnen und Bürger ausrichten. In beratenden Gremien wie dem Europäischen Forum für Sicherheitsforschung und Innovation (ESRIF) sollen künftig neben Verwaltungs- und Industrievertretern in gleicher Zahl auch Volksvertreter sämtlicher Fraktionen, Kriminologen, Opferverbände und Nichtregierungsorganisationen zum Schutz der Freiheitsrechte und Privatsphäre vertreten sein. Eine Entscheidung über die Ausschreibung eines Projekts soll erst getroffen werden, wenn eine öffentliche Untersuchung der Europäischen Grundrechtsagentur über die Auswirkungen des jeweiligen Forschungsziels auf unsere Grundrechte (impact assessment) vorliegt.
+A strict "polluter pays" principle has to be implemented to increase the pressure to implement more precautions and prevention. Environmental problems must be addressed at the source and not as an afterthought. 
 
-Die Entwicklung von Technologien zur verstärkten Überwachung, Erfassung und Kontrolle von Bürgerinnen und Bürgern lehnen wir ab. Stattdessen muss die Sicherheitsforschung auf sämtliche Optionen zur Kriminal- und Unglücksverhütung erstreckt werden und eine unabhängige Untersuchung von Wirksamkeit, Kosten, schädlichen Nebenwirkungen und Alternativen zu den einzelnen Vorschlägen zum Gegenstand haben. Weil auch die gefühlte Sicherheit eine wichtige Voraussetzung für unser Wohlbefinden ist, wollen wir zudem erforschen lassen, wie das öffentliche Sicherheitsbewusstsein gestärkt und wie verzerrten Einschätzungen und Darstellungen der Sicherheitslage entgegen gewirkt werden kann.
+### Biodiversity 
 
-Keine öffentlichen Gelder für grundrechtsgefährdende Sicherheitsprojekte
-------------------------------------------------------------------------
+The loss of biodiversity is an emergency connected to but not only caused by climate emergencies. Biodiversity is lost at a pace unprecedented in our geological era, and still, the issue does not get adequate attention. 
 
-Wir sprechen uns grundsätzlich für Forschungsförderung durch die Europäische Union aus. Jedoch darf diese Förderung nicht als Quersubvention einer Sicherheits- und Rüstungsindustrie missbraucht werden, deren Geschäftsmodell immer weiter entwickelte Technologien zur verdachtsunabhängigen Überwachung sind. Die häufige Beteiligung von Behörden an Überwachungs- und Zensurprojekten wie INDECT oder CleanIT belegt den Willen zur Anwendung dieser Technologien und macht derartige Projekte faktisch zum öffentlich finanzierten Grundrechteabbau. Deswegen setzen sich die PIRATEN dafür ein, dass die EU künftig keine grundrechtlich problematische Sicherheitsforschung mehr fördert.
+This dramatic loss is not only tragic by itself. It can potentially cause a collapse of worldwide food production and have other negative effects. 
 
-Open Data stärken
------------------
+We appreciate the ambitious goals set on the EU and UN levels (namely the EU Nature Restoration Law, UN Ocean treaty, and COP15 Montreal goals and targets) regarding species' habitat protection and restoration, relevant funding, prescribed measures, and transparency of enactment. 
 
-Offene Verwaltungsdaten (außer dem Datenschutz und der Sicherheit unterliegenden Daten) müssen auch auf der EU-Ebene stärker als bisher gefördert werden. Wie setzen uns dafür ein, eine EU-Agenda zu offenen Daten ähnlich wie der Open Data Agenda des Landes Berlin zu schaffen. Auch in der EU gilt: Gebt die Daten frei (und säubert sie von persönlichen Daten). Unsere Definition von Open Data folgt der "Open Definition": frei zugänglich, beliebig nutzbar und verteilbar, und ausgerichtet auf eine voll umfängliche Teilhabe und Transparenz. Neben der Schaffung von Anreizen von mehr offenen Daten streben wir ein EU-Informationsfreiheitsgesetz mit niedrigeren Hürden an, das insbesondere die kritischen Aspekte der bisherigen EU-Regelung (Definition von "Dokument", Einspruchsfristen) beseitigt.
+#### Transparent Data 
 
-Politische Transparenz und Antikorruption, organisierte Kriminalität und deren Bekämpfung
------------------------------------------------------------------------------------------
+The public has the right to easy, timely, and reliable access to environmental data and the decisions based on it. This information should also include methods of monitoring and investigations. 
 
-### Korruption im Wirtschaftsleben offenlegen und wirksam bekämpfen
+Scientific advice and specifications that form the basis for administrative and legal decisions must be sourced from independent experts. Participation in decision-making processes needs to be inclusive.
 
-Wir PIRATEN setzen sich uns auf europäischer Ebene für gesetzliche Grundlagen zur systematischen Korruptionsprävention und -verfolgung ein. Bestechung und Vorteilsnahme mindern das volkswirtschaftliche Wohlstandsniveau und führen jedes Jahr zu hohen materiellen und immateriellen Schäden – für die letztendlich die Steuerzahler und Verbraucher aufkommen.
+#### Consistent and Effective Rules 
 
-### Einflussnahme auf politische Entscheidungen offenlegen
+All environmental laws must include a proper impact assessment and must only require minimum bureaucracy. Implementation needs to be tightly checked. 
 
-Wir fordern die Offenlegung der Einflussnahme von Interessenverbänden und Lobbyisten auf politische Entscheidungen, um den demokratischen Prozess zu schützen und die Grundlagen von Entscheidungen transparent zu machen.
+Regulations must not require registrations in every single EU country. A central registration should be sufficient so as not to obstruct access to the common market for small and mediumsized enterprises (SMEs). 
 
-### Einrichtung eines verpflichtenden Lobbyregisters auf allen europäischen Ebenen
+Currently, diverging national rules complicate sustainability work. EU should aim for a common system of labelling and recycling products. 
 
-Wir erkennen die Konsultation von Interessenvertretern – zum Beispiel Nichtregierungsorganisationen, Gewerkschaften, Umweltschutz-, Bürgerrechts- und Unternehmensverbänden – als integralen Bestandteil des politischen Willensbildungsprozesses der Gesellschaft an – solange dieser Austausch hinreichend offen und transparent ist. Die überproportionale Einflussnahme einzelner Gruppen durch die Verlagerung der politischen Willensbildung in informelle Beziehungsnetzwerke außerhalb des formalen Gesetzgebungsprozesses lehnen wir ab.
+#### Circular Economy 
 
-Wir fordern ein verbindliches Lobbyregister für die Institutionen der Europäischen Union (EU), in das sich Interessenvertreter und Interessenvertretungen verpflichtend eintragen müssen, um die Möglichkeit zu bekommen, bei Gesetzesvorhaben durch das Europäische Parlament angehört zu werden. Dieses Register muss regelmäßig von autorisierten, unabhängigen Stellen überprüft werden.
+Preserving and reusing resources by recycling is key to a sustainable economy. To ensure the long-term availability of materials, the EU must implement a circular economy based on the cradle-to-cradle principle, which considers the whole life-cycle of a product and makes the reduction, reuse, and recycling of materials a part of the design. 
 
-### Erweiterung und Verschärfung des Straftatbestandes der Abgeordnetenbestechung
+Export of waste (sometimes disguised as used products) to third countries for substandard recycling or disposal must be effectively restricted to ensure materials are not lost or destroyed. 
 
-Wir fordern ein wirksames Vorgehen gegen Abgeordnetenbestechung, um die UN-Konvention gegen Korruption (UNCAC) schnellstmöglich umzusetzen.
+### Climate 
 
-### Einführung von Karenzzeiten für Spitzenpolitiker
+The policies adopted under the European Green Deal strategy must be in line and go beyond the original European and international climate commitments. 
 
-Wir lehnen es ab, dass ausgeschiedene Spitzenpolitiker im Bereich ihrer ehemaligen Zuständigkeiten kurzfristig Tätigkeiten der politischen Interessenvertretung für Unternehmen und Verbände übernehmen. Damit Mandatsträger und Regierungsbeamte weniger Anreiz haben, ihr politisches Handeln von den Interessen möglicher zukünftiger Arbeitgeber abhängig zu machen, fordern wir PIRATEN die Einführung von Sperrfristen (sogenannter „Karenzzeiten“) für Mitglieder der Europäischen Institutionen und leitende EU-Beamte, sofern dem kein höherrangiges Recht entgegensteht. Sperrfristen müssen für die Politikfelder gelten, für die Entscheidungsträger in ihrer bisherigen politischen Funktion zuständig waren und bei denen es Zusammenhänge zwischen den im Amt getroffenen Entscheidungen und der nach dem Ausscheiden beabsichtigten Tätigkeit geben könnte.
+#### Climate - No Time to Lose 
 
-### Whistleblower in der öffentlichen Verwaltung und im privaten Sektor gesetzlich schützen
+Most necessary technologies for achieving climate protection goals have been developed and are already in use. Now, it is necessary to roll them out on a large scale. 
 
-Wir PIRATEN setzen sich uns für allgemeine, in allen Mitgliedsstaaten gültige und umfassende gesetzliche Regelungen zum Schutz von Personen ein, die Fälle von Korruption, Insiderhandel oder Ethikverstößen öffentlich machen (sogenannte „Whistleblower“). Das von Deutschland bereits unterzeichnete Strafrechtsübereinkommen über Korruption des Europarates muss inkl. des Zusatzabkommens ratifiziert und umgesetzt sowie Hinweisgeber im privaten Sektor durch eine gesetzliche Regelung geschützt werden. Im öffentlichen Sektor muss der im Beamtenrecht verankerte Schutz von Hinweisgebern auf Angestellte ausgeweitet werden. Der Gesetzgeber soll darüber hinaus Unternehmen und öffentliche Stellen verpflichten, Hinweisgebersysteme einzurichten, um einen vertraulichen Kommunikationskanal zur Meldung von Straftaten und Ethikverstößen zu öffnen.
+The Pirates want to provide the legal tools for these technologies to be deployed as fast as possible by incentivising climate-neutral technology and eliminating incentives for technologies that harm the climate. 
 
-Europäische Asylpolitik
------------------------
+All subsidies for activities negatively impacting the climate must be phased out. This includes financing or providing securities for financing climate-damaging projects abroad. 
 
-### Europäische Asylpolitik
+#### Climate - Stop Carbon Leakage Effectively 
 
-Zuflucht vor politischer Verfolgung und den Folgen von Krieg und Bürgerkrieg zu gewähren gehört zu den elementaren Verpflichtungen des Völkerrechts. Diese Pflicht ist eine europäische Gemeinschaftsaufgabe, für die wir PIRATEN uns einsetzen.
+Emissions of greenhouse gases for imported goods (i.e. resulting from power generation at the production location) should be attributed to the importing countries. Imported goods must be taxed to account for carbon leakage to stimulate more climate-friendly production for goods imported to the EU.
 
-### Ausweitung der Asylgründe
+#### Climate - Not Just CO2 
 
-Menschen, die vor Diskriminierung, der Verfolgung aufgrund ihrer geschlechtlichen oder sexuellen Identität beziehungsweise Orientierung, vor Klima- und Umweltkatastrophen, aufgrund ihrer Zugehörigkeit zu einer ethnischen oder religiösen Gruppe oder wegen der Existenzbedrohung durch Armut und Hunger geflohen sind, müssen ebenfalls als asylberechtigt anerkannt werden. Auch diese Fluchtgründe sind mittelbar oder unmittelbar Folge politischer Entscheidungen. Eine Hierarchisierung von Fluchtgründen lehnen wir ab. Außerdem lehnen wir pauschale Kategorisierungen von Staaten als „sichere Herkunftsländer“ ab. Schutzsuchende haben ein Recht auf individuelle Prüfung ihrer Situation.
+CO2 is the largest part of greenhouse gas emissions, but other emissions must also be controlled. Gases with high climate impact have to be reduced, replaced, and contained. All emissions of climate-active gases should be controlled and reduced. 
 
-### Europas Grenzen zu Brücken statt zu Mauern machen
+#### Climate - Reverse Emissions 
 
-Wir PIRATEN wollen die europäische Flüchtlings- und Asylpolitik einer grundlegenden Neuausrichtung unterziehen. Eine „Festung Europa“ ist nicht hinnehmbar. Die europäische Flüchtlings- und Asylpolitik muss auf der Achtung der Menschenrechte beruhen und die Bestimmungen der Genfer Flüchtlingskonvention sowie der UN-Kinderrechtskonvention respektieren. Alle Mitgliedstaaten müssen gemäß ihren Kapazitäten Flüchtlinge und Asylsuchende aufnehmen. Eine von Solidarität geprägte europäische Flüchtlings- und Asylpolitik darf einzelne Mitgliedstaaten nicht mit dem finanziellen, logistischen und administrativen Aufwand alleine lassen. Statt die Abriegelung Europas weiter voranzutreiben, muss die EU Maßnahmen zur sicheren Grenzüberquerung von flüchtenden Menschen, besonders auf den Meeren vor Europa, treffen, um diesen die Möglichkeit zu geben, einen Antrag auf Asyl zu stellen.
+The greenhouse gas levels in the atmosphere are already too high and must be reduced. We want to stimulate projects that capture greenhouse gases and use them as base materials for products and chemicals. The use of such projects for greenwashing must be prevented, and they must not produce certificates that allow emissions in other places. 
 
-### Abschaffung von Frontex
+The expansion of natural carbon sinks should also be considered. 
 
-Die völkerrechtswidrigen Praktiken der EU-Grenzschutzagentur Frontex sind Ausdruck einer menschenverachtenden Ausgrenzungspolitik der Europäischen Union. Wir PIRATEN fordern daher die Abschaffung von Frontex.
+#### Climate - Get Prepared 
 
-### Ablehnung der Drittstaatenregelung
+Even if we could stop greenhouse gas emissions right now, the climate crisis would not stop immediately. We will have to face changes in weather patterns and precipitation, as well as sea level increases. Critical infrastructure like the food supply, transport, and energy will be negatively impacted. Adverse weather events can cause natural disasters. To mitigate these effects, we have to prepare our infrastructure, cities, coastlines, agriculture, and forestry for the ongoing changes. 
 
-Die Drittstaatenregelung und deren Konkretisierung in der „Dublin II“-Verordnung lehnen wir ab. Durch diese Regelung drücken sich zentral gelegene Staaten wie Deutschland vor der Verantwortung den Schutzsuchenden gegenüber. Jedem Menschen muss das Recht auf freie Wahl seines Aufenthaltsortes gewährt werden. Daraus resultiert auch, dass jedem Menschen die Möglichkeit gegeben werden muss, in dem Land seiner Wahl Asyl zu beantragen. Die bevormundende und entwürdigende Verschiebungspraxis der EU lehnen wir ab. Alle Staaten der EU sollten Geflüchtete aufnehmen und andere Mitgliedstaaten dabei unterstützen.
+### Energy 
 
-### Ablehnung der Inhaftierung von Asylsuchenden
+We want to establish a sustainable and reliable energy infrastructure that offers as much participation and transparency as possible. 
 
-Wir kritisieren die momentane Praxis, immer neue Straftatbestände und Inhaftierungsgründe zu konstruieren, um Schutzsuchende in Haft zu nehmen. Wir lehnen generell die Inhaftierung von Asylsuchenden ab. Flucht und die Möglichkeit auf Stellung eines Asylantrages sind ein Grundrecht. Wir wenden uns auch gegen Schnellverfahren an Landesgrenzen und auf Flughäfen.
+With the increasingly imperative role of renewables, the number of privately owned electricity generation is exploding. Former consumers are becoming a mix of consumer and producer; energy cooperatives take the local supply into their own hands. The legal framework has to be adapted for this new situation where the market is no longer made up of only a few large companies. 
 
-### Einhaltung der UN-Kinderrechtskonvention
+Our future development, including building a circular economy, depends on energy. We have to ensure that we have clean, reliable, and abundant energy available. 
 
-Im Umgang mit minderjährigen Geflüchteten müssen alle Mitgliedstaaten der Europäischen Union zur Einhaltung der UN-Kinderrechtskonvention gebracht werden. Die Abschiebung von unbegleiteten minderjährigen Geflüchteten ist nicht hinnehmbar. Kindern und Jugendlichen, die geflüchtet sind, muss der Schutz und die Unterstützung zuteilwerden, die alle Kinder in den europäischen Staaten genießen. Dazu gehört insbesondere der Zugang zu Bildung.
+#### Energy - Becoming Sustainable 
 
-### Perspektiven für Menschen ohne Aufenthaltsstatus
+The transition from fossil resources to sustainable and clean energy sources must be accomplished. Energy sourcing must not conflict with other environmental objectives or agriculture for food production. 
 
-Die Europäische Union soll eine Initiative anregen, Menschen ohne Papiere eine Perspektive für einen rechtsmäßigen Aufenthalt und damit ein menschenwürdiges Leben zu ermöglichen. Abschiebungen sind den Mitgliedsstaaten zu untersagen und ebenso, konsequenterweise, die Abschiebehaft.
+The technologies with the lowest environmental impact must be prioritized and their construction supported.
 
-### Recht auf ein menschenwürdiges Leben
+#### Energy - Becoming Resilient 
 
-Menschen, die in Europa Zuflucht suchen, haben das Recht auf ein menschenwürdiges Leben, auf Bewegungsfreiheit und die Teilhabe an der Arbeitswelt, an Bildung und Kultur. Das gilt bereits, wenn die Gründe der Flucht noch nicht anerkannt sind. Dies gilt auch, wenn eine Rückkehr in das Herkunftsland nicht möglich ist. Wir wenden uns insbesondere gegen eine Begrenzung der Bewegungsfreiheit (Residenzpflicht) für Asylsuchende in den europäischen Staaten. Zwischen den Mitgliedstaaten der EU soll es eine Angleichung der Standards für die Anerkennung, Unterbringung und Versorgung von Asylsuchenden und Geflüchteten auf einen deutlich humaneren Standard geben. Es bedarf aktiven politischen Handelns um Rassismus und Feindlichkeit gegenüber Schutzsuchenden europaweit entgegenzutreten. Aus unserem Verständnis einer offenen, freien, solidarischen, demokratischen und inklusiven Gesellschaft heraus lehnen wir eine Art des Umgangs mit Geflüchteten ab, die Menschen- und Grundrechte missachtet.
+Recent events have shown the negative impact of being dependent on the import of energy resources in times of crisis. The EU has all the necessary technology and resources available domestically to build an energy system without critical dependencies on third countries. We want to build and maintain European production capacities for all components necessary to transition to a green economy. 
 
-Keine Drohnen gegen Menschen
-----------------------------
+#### Energy - Becoming Efficient 
 
-Bewaffnete Drohnen lehnen wir PIRATEN grundsätzlich ab, da deren Einsatz geeignet ist, Hemmschwellen zu Militäreinsätzen und Gewaltanwendungen noch weiter zu senken. Drohen dürfen aber auch nicht unbewaffnet zur anlasslosen Ausspähung von Zivilpersonen eingesetzt werden. Wir wenden uns ausdrücklich gegen die aktuellen Bestrebungen zum Drohneneinsatz durch FRONTEX gegen Flüchtende an den Außengrenzen der EU und den Aufbau von drohnengestützten oder -unterstützten Überwachungsstrukturen im Inneren. Polizeiliche Drohneneinsätze kommen nur als gezielte Einzelmaßnahme bei konkreter Gefahr für Leib und Leben in Frage. Sie müssen unter einem Richtervorbehalt stehen und ausführlich begründet werden. Den Einsatz von Drohnen z.B. im wissenschaftlichen Bereich oder im Rettungswesen begrüßen wir PIRATEN hingegen ausdrücklich. Dafür muss ein förderlicher rechtlicher Rahmen geschaffen werden, der gleichzeitig den Missbrauch der Technologie und der so gewonnenen Daten nachhaltig verhindert.
+The "energy efficiency first" principle must be at the heart of all European policies. For this goal, we want to support energy-efficient technologies and the transition of energy sectors to electricity as the primary energy form. Eliminating energy transformation steps also eliminates many losses. By electrifying transport, heating, and many industrial processes, the required primary energy will drop, even though the need for electricity is going to rise. 
 
-EU-weite Abschaffung der Zeitumstellung
----------------------------------------
+#### Energy - As Local as Possible, as Central as Necessary 
 
-Die PIRATEN wollen die Zeitumstellung in der Europäischen Union abschaffen. Die nach der Abschaffung gültige Zeit soll durch ein Referendum ermittelt werden. Die Zeitumstellung hat keine Vorteile, sondern bringt lediglich Nachteile und mittleren bis hohen Umstellungsaufwand mit sich. Beibehalten wird sie nur noch wegen einer einheitlichen Umstellung innerhalb der EU, was sich allerdings auch durch eine Abschaffung erreichen ließe.
+The European electricity grid efficiently compensates for temporary fluctuations in demand and supply and prevents regions from getting into trouble in case of local supply problems. However, it is not efficient in transporting significant amounts of the energy for a whole country across the continent. This would produce bottlenecks that can lead to major failures. 
 
-Verbraucherschutz, Umwelt und Gesundheit
-========================================
+Production and demand should primarily be matched locally as much as possible, and the European grid should act as a safety net.
 
-Schutz vor Verkehrs- und Industrielärmemissionen
-------------------------------------------------
+## Economy and Finances 
 
-Wir PIRATEN erkennen Verkehrs- und Industrielärm als Umweltbelastung und als Gesundheitsrisiko an. Das Recht der Bevölkerung auf Schutz vor Verkehrs- und Industrielärm ist Teil des Grundrechtes auf körperliche Unversehrtheit. Jeder Mensch hat das Recht auf Schutz vor Verkehrs- und Industrielärm unter Berücksichtigung des Standes der Technik. Aktiver Schutz (Vermeidung von Lärm an der Quelle) ist dem passivem Schutz (am Wirkungsort) vorzuziehen.
+Our economic program aims to support sustainable long-term development and overall quality of life improvements and foster a competitive, fair, and innovative economic environment. In this regard, we believe it is necessary to consider a broader set of economic metrics besides immediate gross productivity. Such measures must capture the development of long-term economic opportunities, well-being, environmental and social sustainability, and successful collaboration across the whole EU. 
 
-Europäische Drogen- und Suchtpolitik
-------------------------------------
+### Competitive Economic Environment 
 
-Der Genuss von Rauschmitteln ist positiver Bestandteil jeder Kultur. Ebenso ist das Phänomen der Sucht im Wesen des Menschen angelegt. Die Verbotspolitik, bzw. der "Krieg gegen Drogen" ist weltweit gescheitert. Diese Tatsachen müssen wir anerkennen und die Drogenpolitik der letzten Jahrzehnte neu bewerten. Ohne Vorurteile respektieren wir die Entscheidung jedes Einzelnen zu verantwortungsvollem Genuss von Rauschmitteln. Um aus Missbrauch entstehende Schäden am Einzelnen und an der Gesellschaft abzuwenden, setzen wir auf Aufklärung. Nicht gegen Drogen, sondern für den Menschen setzen wir uns ein! Die "Europäische Drogenstrategie" zielt zurzeit auf Verbot und Abdrängung des Drogenkonsums in die Illegalität. Sie muss zu einer akzeptierenden und menschenwürdigen Europäischen Drogen- und Suchtpolitik umgestaltet und weiterentwickelt werden.
+The environment for all economic activity needs to facilitate resilience and competition and stimulate and enforce transparency. This incentivizes social progress in a sustainable, fair, and democratic way. The Pirates aim to protect individuals, preserve opportunities, and promote individual autonomy and well-being by dispersing and de-concentrating public and private power. Competitive markets provide a fertile ground for entrepreneurship. Competition policy should aim to prevent excessive market concentration and monopolistic practices that hinder new businesses' market entry. Facilitating opportunities for entrepreneurship, including SMEs (small and medium-sized enterprises) and start-ups, leads to job creation, innovation, and economic dynamism, contributing to overall prosperity. An effective competition standard should look beyond consumer welfare and be science-based. Rather than sanctioning the abuse of a dominant position, competition policy should focus more on preventing market power. Competition enforcement agencies should be adequately resourced and get institutional support and a sufficient legal mandate. Ideally, the competition authority must be independent and shielded from direct political interference. 
 
-### Für Aufklärung und Schadensbegrenzung
+### Trade 
 
-Ein Drogenkonsument darf niemals bestraft werden für Anbau, Herstellung, Erwerb oder Besitz von Rauschmitteln für den Eigenbedarf oder deren Konsum. Hauptziel der Drogen- und Suchtpolitik muss vielmehr die Vermeidung schädlichen Konsumverhaltens sein. Sie muss Hilfsangebote machen, wenn dies fehlschlägt.
+Pirates believe trade and cooperation are a way towards development and shared wealth. However, we see many challenges in the current trade environment. At the same time, trade agreements have been abused in the past to empower private entities at the expense of public courts, exploit communities, and promote nepotism and cronyism. 
 
-Wir PIRATEN fordern daher einen Auf- und Ausbau einer vorurteilsfreien Aufklärung über Suchtstoffe und den Umgang mit ihnen. Diese Forderung bezieht sich ausdrücklich auch auf gesellschaftlich akzeptierte Drogen, wie Alkohol, Nikotin und bestimmte Medikamente. Einbezogen werden sollen auch Verhaltenssüchte, wie z.B. Kaufsucht, Spielsucht oder Arbeitssucht. Solange Drogen zu einem erheblichen Teil aus illegalen Quellen bezogen werden, müssen Maßnahmen zur Schadensbegrenzung (harm reduction) hinzukommen.
+We propose basic principles regarding international trade. For trade treaties, the European Parliament must ratify the treaty, which must be negotiated as transparently as possible, including public hearings and comprehensive access to information. Trade should enlarge our markets and allow for more competition. Therefore, trade agreements should not give out more or less hidden special favours. The ultimate goal of international trade agreements is the positive development of all involved parties. Therefore, we must always ask that our partners uphold at least the most basic labour and enforce paying up for common externalities that damage us all through Carbon Border Adjustment Mechanism and similar tools. 
 
-Wir PIRATEN fordern insbesondere, dass die breite Verfügbarkeit niedrigschwelliger Prüfmöglichkeiten für Suchtstoffe (drug checking) und von Empfehlungen zu risikoarmem Konsum europaweit verbessert wird. Dazu muss ein rechtlicher Rahmen geschaffen werden, der dies ermöglicht.
+Trade is also an economic and political tool. We support economic sanctions against authoritarian regimes, especially those actively undermining European security and committing crimes against humanity. These sanctions should be precisely targeted to damage the wealth of the government elites, hinder the offensive and persecuting capacities of these regimes, and avoid the suffering of ordinary citizens as much as possible. We should not supply weapons and surveillance technologies to authoritarian regimes. 
 
-Abhängigkeit muss europaweit einheitlich als Krankheit anerkannt werden. Auch suchtkranke Menschen haben Anspruch auf eine menschenwürdige Behandlung. Gemeinsame Standards für suchtspezifische Therapien bilden eine wichtige Grundlage dafür.
+Last years have also seen a surge in protectionism and the closing of free trade in critical technological areas like microchips or renewable energy technologies. We believe that Europe should attain the highest possible level of strategic autonomy concerning these and that we need to reduce our overdependence on authoritarian regimes. The way to get that autonomy and prosperity is through trade with new partners, research, technological excellence, and cooperation. Trade wars have repeatedly proven to be detrimental. 
 
-### Für Bekämpfung der Drogenkriminalität durch legale Bezugsmöglichkeiten
+### Taxation 
 
-Wir PIRATEN fordern einen Umgang mit Rauschmitteln, der ausdrücklich eine legale Versorgung der Konsumenten zulässt. Sie dürfen dazu nicht, wie heute, in Kontakt mit der organisierten Kriminalität gebracht werden. Jugendschutz und Qualitätskontrollen werden so erst ermöglicht. Suchtkranke Menschen werden vor kriminellen Milieus geschützt und können so wieder ins gesellschaftliche Leben finden.
+The tax mix should establish an environment of fully internalized externalities of economic activities to cultivate an entrepreneurial environment and a long-term well-developing society. 
 
-Um speziell den weit verbreiteten Genuss von Cannabis aus der Illegalität herauszuführen, muss ein offener Umgang mit sogenannten "Cannabis Social Clubs" (Erzeugergemeinschaften) gefunden werden.
+To achieve this, we propose moving a larger part of the tax burden from labour to capital. To facilitate this, tax harmonization across European jurisdictions should be further developed. This should include targeting strategic capital allocation for tax avoidance and the intentional obscuring of corporate structure (incl. public entities). We should focus on empowering local communities' decision-making and interests regarding their local tax structure together with establishing an all-European harmonization framework. We do not aim for a unification of tax rates or tax base definitions, only a framework of the shared approach. We will support global coordination on taxation, particularly as regarding international corporations. 
 
-### Für die Neubewertung internationaler Übereinkünfte
+### Financial Markets and Multinational Corporations 
 
-Internationale Abkommen müssen eine Entkriminalisierung von Drogenkonsumenten und die Bereitstellung legaler Bezugsmöglichkeiten erlauben. Nur so kann der organisierten Kriminalität wirksam begegnet werden. Abkommen, die dies nicht zulassen, sind zeitnah aufzukündigen und auch künftig nicht abzuschließen.
+Regulation, supervision, and taxation of the financial markets should encourage investment into long-term development strategies which are environmentally and socially sustainable. The environment should deter financial dominance, capital concentration, and for-profit shortterm reallocation (e.g., stock buybacks). Speculative investments should come with heightened disincentives and be more transparent. 
 
-Europa muss hier eine Vorreiterrolle einnehmen.
+### European Budgetary Rules 
 
-### Für ein Europa, das Maßstäbe in der Drogen- und Suchtpolitik setzt
+Budgetary policy is an essential tool of economic policy. The current budgetary rules are targeted at preventing budgetary deficits, and they stop member states from reacting in times of crisis. 
 
-Wir PIRATEN setzen uns für eine wahrhaft europäische Drogen- und Suchtpolitik ein. Wir wollen die unterschiedlichen Ansätze der europäischen Staaten auf hohem Niveau in eine gemeinsame, akzeptierende Europäische Drogen- und Suchtpolitik zusammenführen. Unsere Forderungen auf nationaler Ebene, insbesondere das Werbeverbot für alle Drogen, einschließlich Alkohol und Tabakprodukte, die freie medizinische Verwendbarkeit cannabinoidhaltiger Medikamente und des Echtstoffes und die hohen Maßstäbe, die an den Datenschutz anzulegen sind, übertragen wir daher auch auf die europäische Ebene.
+We propose to discard these and replace them with long-term budget sustainability assessments to prevent excessive budgetary imbalances. 
 
-Transparente Produkte und verbindliche Werbung
-----------------------------------------------
+This will allow member states to implement investment policies despite the defence, environmental, and social challenges of our time, as well as encourage balancing their savings and consumption, which will foster a dynamic internal market. 
 
-Wir fordern zum Schutz und zur Aufklärung der Verbraucher eine europäische „Stiftung Warentest“, die ihre Erkenntnisse frei zugänglich veröffentlicht. In einem von der Stiftung betriebenen Internetportal sollen umfassende Informationen und Tests zu allen Waren und Dienstleistungen ab einer bestimmten Verbreitung eingesehen werden können. Die Informationen sollen sich nicht nur auf den Gebrauchswert der Waren und Dienstleistungen beziehen, sondern auch über ökologische und soziale Produktionsbedingungen Auskunft geben. In Ergänzung zu diesen Informationen sollen Unternehmen für ihre Werbeaussagen haften. Entscheidend für die Bewertung der Aussage ist, welche Botschaft durch Text, Bild und Ton bei den Verbrauchern ankommt.
+### European Economic Integration 
 
-Landwirtschaft und Fischerei
-============================
+The next steps of European economic integration should support all European regions' labour mobility, equality, and broad economic development. Moreover, there should be continued support for the economic development of physical and institutional infrastructure, particularly of cross-border regions. 
 
-Europa nachhaltig
------------------
+### Cryptocurrency 
 
-Wir sind Teil der Natur und abhängig von natürlich sauberen Stoffen wie Wasser, Luft, Böden, vielfältiger Flora und Fauna als Nahrungsquellen in unserer Nähe. Unser Ziel ist eine gesunde Nahrungsmittelgewinnung für alle, heute und morgen. Wir befürworten das starke Gewicht der europäischen Kommission für Landwirtschaft und ländliche Entwicklung, wenn sie als Anwalt für den Schutz unserer natürlichen Lebensgrundlagen eintritt, und Ausbeutung in natürliches Wachsen wandelt.
+We, as the Pirates, see the potential of crypto assets and that they may have a positive role in economic development. We want to protect cash for its anonymity, including digital cash.
 
-Gemeinsame Agrarpolitik (GAP)
------------------------------
+## Foreign Affairs 
 
-Wir wollen eine gemeinsame Agrarpolitik, die die naturgegebene und kulturelle Vielfalt fördert. Wir sind überzeugt, dass Vielfalt in der Nahrungsmittelgewinnung, angepasst an örtliche Bedingungen, in der Hand von vielen unabhängig und selbstbestimmt Handelnden Ernährungssicherheit und Lebensqualität in den Städten und im ländlichen Raum sicherstellten wird. Die gemeinsame Agrarpolitik muss als Rahmen dienen für gleiche Rechte, Möglichkeiten und Pflichten. Die Rolle der Subventionen in der europäischen Landwirtschaftspolitik bedarf der Änderung, sie muss auf mehr Vielfalt und Gerechtigkeit ausgerichtet werden. Subventionen können nur im Einklang mit Nachhaltigkeitskriterien garantiert werden.
+### General Principles 
 
-Aspekte der Landnutzung
------------------------
+Pirates build on the fundamental values of democratic decision-making, non-discriminatory protection of human rights around the world, and the free dissemination of information, together with freedom of the Internet. We support everyone's right to participate in public and political life and to free and fair elections, and we reject foreign interference in other countries' elections. 
 
-Der Besitz von Grund und Boden ist stets zu verbinden mit der Verpflichtung zu sozialem und natürlichem Wohlergehen. Landbesitz zu rein spekulativen Zwecken lehnen wir ab. Boden ist weit mehr als der Träger unserer Ernährung, er besitzt wertvolle Puffer- und Speicherfähigkeiten. Humusaufbau im Boden betrachten wir als den Königsweg, nicht nur zur Wiederherstellung von Bodenfruchtbarkeit, sondern als die Chance, CO2 dauerhaft zu speichern und dem Klimawandel zu begegnen. Den Erhalt und die Entwicklung von kleinbäuerlichen Strukturen betrachten wir als einen Beitrag zu mehr Widerstandsfähigkeit (Resilienz). Urbane und suburbane Landwirtschaft und Gartenkultur vermindert Transportwege, dient direkt der Ernährung und Wissensvermittlung, erfüllt viele menschliche Bedürfnisse und ist daher zu fördern.
+The cornerstone of our foreign policy is an orientation towards like-minded democracies and alliances in the Euro-Atlantic area, emphasising membership in the European Union. 
 
-Nutzung biologischer Vielfalt
------------------------------
+The Pirates want to establish and develop relationships with democratic partners everywhere in the world and support democracy and cooperation as a source of sustainable peace in the world. We prefer cooperation over pursuing our own interests. 
 
-Wir treten ein für den Erhalt und die Weiterentwicklung der Sortenvielfalt samenfester Kulturpflanzen. Sie sollen unter Open-Source-Lizenz allen Erzeugern für den Anbau und die Weiterzucht zur Verfügung stehen. Der Grundsatz "KEIN PATENT AUF LEBEN” muss strikt umgesetzt werden. Die Fangquoten müssen durch ein wissenschaftlich erwiesenes Maß der Nachhaltigkeit festgelegt werden. Das europäische Programm zur Bekämpfung der illegalen Fischerei muss gestärkt werden. Der Export von Lebensmittelüberschüssen in Drittländer muss neu bewertet werden, wenn er den Markt für dort angebaute Nahrungsmittel zerstören kann. In Handelsvereinbarungen mit Drittländern muss die EU ungerechte Praktiken, die sie aufgrund ihrer Größe durchsetzen kann, verzichten.
+We must defend the Internet as a means of freely sharing and obtaining information about the real world and as a tool for fostering human connection. 
 
-Techniknutzen und digitale Lösungen
------------------------------------
+The Pirates strive for environmental sustainability in accordance with international agreements, given the current global demographic and economic development. 
 
-Wir betrachten es als eine Aufgabe der EU, den offenen Zugang zu digitalen Anwendungen und offene Schnittstellen zwischen verschiedenen Systemen durchzusetzen. Daten, die mit öffentlichen Mitteln erhoben und verwaltet werden, müssen der Öffentlichkeit leicht zugänglich bleiben und werden (z.B. Klima-und Wetterdaten, Bodendaten, Wasserverfügbarkeit, etc.). Die EU muss sicherstellen, dass diese nicht durch privatwirtschaftliche Nutzung beiläufig mit privatisiert werden.
+### European Politics 
 
-Energie
-=======
+The Pirates support the active role of the EU to promote peace and stability in the world, as well as the deepening of the common security and defence policy. We promote changes leading to strengthening the elements of direct democracy and want to improve the transparency and democratic control of EU institutions. 
 
-Wir PIRATEN stehen für den europäischen Energiemarkt. Seine Leitlinien sollen sein:
+The Pirates want to strengthen the role of the European Parliament, as the only directly elected EU institution, in decision-making on EU political matters. We welcome the outcome of the Conference on the Future of Europe and favour its full implementation. We support the effort to acquire a right for the European Parliament to propose legislation, allowing it to act as a true legislative body. The Pirates seek to replace the current unanimous voting in the Council of the EU by introducing qualified majority voting, especially in foreign and tax policies and matters related to the common budget. Vetoes by national states seriously undermine the EU's ability to react swiftly and effectively to international challenges and threats. Decisions that can be better dealt with at the national, regional, or local level should not be taken at the EU level. Equal and easy access to true and non-misleading information for all citizens is a fundamental prerequisite for legitimate democratic decision-making. 
 
--   Nachhaltigkeit
--   Stark beschleunigter Ausbau der Erneuerbaren Energien in ganz Europa
--   Dezentrale Versorgungsstruktur und Versorgungssicherheit
--   Transparenz der Preisgestaltung und Erzeugungsstrukturen
--   Datenschutz im Energiesektor
--   Abbau von Subventionen für konventionelle Energieträger
--   Eine frackingfreie Zukunft in Europa
+The EU needs a functional and jointly implemented policy in a number of areas. The EU and its member states must support education, science and research more. In the EU, the Pirates want to defend the free movement of people, goods, services and information and minimize bureaucracy and centralization. We consider the promotion of digital freedoms to be at the heart of Pirate policy at the European level.
 
-Nachhaltigkeit
---------------
+The Pirates support the enlargement of the European Union by other states that meet the conditions and criteria for entry. The EU should foster deeper relationships with countries interested in joining through increased economic, political, and cultural cooperation. 
 
-Die PIRATEN stehen für eine nachhaltige Energieversorgung. Die nicht verbrauchte Strom- und Wärmeenergie ist die umweltfreundlichste und kostengünstigste. Deshalb sollte sie eingespart werden, soweit es sozial und für ein nachhaltiges Wirtschaften möglich ist. Die Piratenpartei strebt weiterhin eine schnellstmögliche, komplette Umstellung auf erneuerbare Energien an. Dies betrifft insbesondere die Stromerzeugung, den Verkehr und die Wärmeerzeugung. Der Verbrauch der fossilen Energieträger wie Kohle, Erdöl, Erdgas und auch Kernenergie belastet unsere Gesundheit und unseren Lebensraum zunehmend und führt zu hohen Risiken. Ein Umstieg auf Erneuerbare Energien ist ein dagegen ein großer volkswirtschaftlicher Gewinn und wird deshalb auch die Bürger finanziell entlasten. Die aktuellen Klimaziele der EU sind für uns Minimalziele. Wir setzen uns dafür ein, dass die EU bis zum Jahr 2030 mindestens 60% des Treibhausgasausstoßes im Vergleich zum Jahr 1990 reduziert. Um dieses Ziel zu erreichen, sollte wo immer möglich auch international und grenzüberschreitend im Sinne der Treibhausgasminderung und der Nachhaltigkeit zusammengearbeitet werden.
+### International Affairs 
 
-Stark beschleunigter Ausbau der Erneuerbaren Energien in ganz Europa
---------------------------------------------------------------------
+The Pirates seek to reduce the financing of authoritarian regimes through mutual trade and fight against trade linked to human rights abuses and forced and child labour. 
 
-Wir PIRATEN fordern einen stark beschleunigten europaweiten Ausbau der erneuerbaren Energien. Insbesondere die Sonnenenergie muss in wesentlich stärkerem Maße zur Strom- und Wärmeerzeugung genutzt werden. Der Ausbau muss dabei immer umweltschonend erfolgen. Die Erzeugung und Nutzung von Biomasse darf nicht in Konkurrenz zu Nahrungsmitteln stehen oder die Biodiversität verringern.
+We aim to solve global environmental problems and disasters together at the international level. We reject multilateral international treaties that enforce dysfunctional monopolies and patents at the expense of civil rights and human freedom. We will advocate for the revision of international conventions, which have only negative consequences and are only upheld for historical reasons. 
 
-Dezentrale Versorgungsstruktur und Versorgungssicherheit
---------------------------------------------------------
+The Pirates consider multinational corporations to be part of the international security environment and will hold them accountable for the impact of their actions on the world's security situation. 
 
-Ebenso setzen wir PIRATEN uns für eine dezentrale Erzeugung und Versorgung in der Europäischen Union mit vielen mittelgroßen und kleinen bis hin zu kleinsten Energieversorgern ein. Dies ermöglicht den stark beschleunigten Ausbau der Erneuerbaren Energien und erhöht die Versorgungssicherheit. Außerdem muss bei einer dezentralen Stromerzeugung und einem zunehmenden Einsatz von Stromspeichern das Stromnetz viel weniger ausgebaut werden. Denn der Ausbau von Stromspeicherkapazitäten führt zur Steigerung des Eigenverbrauchs von selbsterzeugtem Strom und damit zur Stromnetzstabilisierung. Er ist europaweit zu fördern. Energienetze sollen weitgehend in öffentlicher Hand sein, um einen Markt mit nur wenigen Anbietern zu verhindern und die Wahlmöglichkeiten der Verbraucher zu vergrößern. Auch ein freier Handel von - auch von Bürgern - selbsterzeugtem Strom und selbsterzeugter Wärme muss möglich sein.
+The European Union should be a political actor protecting European and international whistleblowers. They should be able to benefit from the right to political asylum in the EU. 
 
-Transparenz der Preisgestaltung und Erzeugungsstrukturen
---------------------------------------------------------
+The Pirates want to pay special attention to stabilising conflict outbreaks and fragile states, as their instability is a source of problems for the entire international community. Conflict resolution has to be based on respect for international law. 
 
-Für einen funktionierenden Markt für Endverbraucher ist eine nachvollziehbare Preisgestaltung und Offenlegung des Anteils der Stromerzeugung aus fossilen Kraftwerken und Erneuerbaren Energien und des Stromtransportes notwendig. Nur so können die europäischen Verbraucher bewusste Kaufentscheidungen treffen. Wir PIRATEN fordern daher eine europaweite Verpflichtung der Energieversorger zu einer Kennzeichnung des Anteils der Stromerzeugungsarten und eine nachvollziehbare Darstellung der Kosten für den Ausbau und Betrieb der Stromnetze.
+### Migration 
 
-Datenschutz im Energiesektor
-----------------------------
+The Pirates recognize that immigration has always been an essential part of the European community and has contributed immensely to our shared cultural heritage and the development of Europe. Migration is primarily a social issue and must respect the human dignity and rights of all migrants and asylum seekers. 
 
-Bei der Umsetzung des europäischen Energiebinnenmarkts werden modernste internetgestützte Technologien (z.B. SmartGrids) eine Schlüsselrolle spielen. Dabei birgt zum Beispiel eine genaue Erfassung und Dokumentation des individuellen Energieverbrauchs erhebliche Missbrauchsgefahren. Zum Schutz aller Marktteilnehmer müssen deshalb höchste Datenschutzstandards eingehalten werden.
+The Pirates want to build a prosperous and dynamic Europe that is better prepared to meet future challenges and the demands of the labour market. In light of Europe's striking labour shortages, an effective immigration system is inevitable to ensure the functioning of our communities and economies. 
 
-Abbau von Subventionen für konventionelle Energieträger
--------------------------------------------------------
+We call on all member states to receive refugees and asylum seekers according to their capacities. It is crucial to implement a European refugee and asylum policy based on solidarity that does not leave individual member states alone with the financial, logistical, and administrative effort. 
 
-Öffentliche Subventionen zum Beispiel in Form einer sogenannten Sicherheitsbereitschaft für die fossile und nukleare Strom- und Wärmegewinnung laufen dem von uns angestrebten Wandel hin zu einer zukunftsfähigen, klimafreundlichen und möglichst autarken Energieversorgung in Europa zuwider. Wir PIRATEN fordern deshalb die Abschaffung jeglicher Subventionen und Beihilfen für fossile und atomare Energieträger. Dazu zählen insbesondere auch indirekte Beihilfen in Form von gesetzlichen Haftungsfreistellungen für Atomkraftwerke. Neben den direkten Subventionen stellt auch das Abwälzen von Kosten (z.B. für Erschließung und Rückbau von Kraftwerken, Bergschäden, Schadstoffemissionen, Grundwasserhaltung und –entnahme, Steuerbefreiungen) auf die Gesellschaft eine versteckte Subvention dar. Ein schneller Wandel ist nur möglich, wenn die Verursacher der gesellschaftlichen Kosten und Risiken auch den wahren Preis für ihr Handeln zahlen. Deshalb müssen auch Brennstoffe entsprechend ihrer gesellschaftlichen Kosten (z.B. für den CO2-Ausstoß) besteuert und sowohl der Emissionshandel als auch die EU-Energiesteuerrichtlinie überarbeitet werden. Auch der europäische Luftverkehr muss endlich vollständig in die Besteuerung von Brennstoffen einbezogen werden, um ungerechtfertigte Wettbewerbsvorteile gegenüber anderen Verkehrsmitteln abzubauen. Deshalb fordern wir eine verbrauchsorientierte Luftverkehrsabgabe, die Ausweichverhalten minimiert.
+The Pirates are convinced that the best way to ensure the safety of future asylum-seekers is effective conflict prevention and fighting climate change. 
 
-Für eine frackingfreie Zukunft in Europa
-----------------------------------------
+We refuse the criminalization of those providing humanitarian help to people in need.
 
-Hydraulic Fracturing, kurz "Fracking", zur Gewinnung fossiler Energieträger ist eine Hochrisikotechnologie, die Wasser und Böden bedroht, lokale Erdbeben auslösen kann und zu nicht abschätzbaren Ewigkeitsschäden führt. Außerdem sind die CO2-Emissionen des auf diese Weise geförderten Gases insgesamt sogar höher als die bei der Verbrennung von Braunkohle. Daher fordern wir ein sofortiges ausnahmsloses EU-weites Verbot sämtlicher Formen von Fracking bei der Erforschung, Erkundung und Gewinnung fossiler Energieträger und ebenso ein Verbot für den Import und Handel von durch Fracking geförderten Energieträgern. Auch dann, wenn für das Fracken ungiftige Stoffe eingesetzt werden, gelangen Schadstoffe aus dem Untergrund an die Oberfläche. Solange Fracking noch eingesetzt wird, müssen anfallende schadstoffbelastete Flüssigkeiten gereinigt werden. Ihre Entsorgung in alte Bohrlöcher ist zu verbieten.
+### An Ethical and Effective Immigration System 
 
-Verkehr und Infrastruktur
-=========================
+Pirates are convinced that migration must be well managed to benefit all participating parties. We demand a comprehensive immigration system that recognizes the skills and talents of each individual. Any discrimination based on religion, ethnicity, race, gender, and sexuality contradicts our core values. 
 
-Mobilität in Europa
--------------------
+It is crucial to ensure fair and transparent recruitment of migrant workers and international students so that everyone can develop their full potential equally. 
 
-Mobilität ist eine Grundlage moderner Gesellschaften. Wir sehen in der Vernetzung der Verkehrsinfrastruktur einen unverzichtbaren Beitrag zum europäischen Einigungsprozess. Deshalb setzen wir uns für eine bessere Anbindung der Verkehrssysteme, die Vereinheitlichung technischer Standards sowie den Abbau von Reisebeschränkungen ein. Wir PIRATEN stehen für einen freien europäischen Verkehrsraum als Grundlage für gemeinsame Kultur, Wissenschaft und Wirtschaft. Aus ökologischen Gründen räumen wir dem Schienen- und Schifffahrtsverkehr den Vorrang ein. Gleichermaßen setzen wir uns für Lärm vermindernde Standards beim Schienenverkehr ein. Hier muss eine europaweit geltende Regelung geschaffen werden. Für einen ungehinderten Personen- und Güterverkehr ist die Vereinheitlichung von technischen und tariflichen Standards in Europa unabdingbar.
+We acknowledge that immigration may pose challenges and are committed to addressing them responsibly and effectively. We insist that immigration must be dealt with holistically and with a commitment to foster a culture of inclusion, collaboration, and respect for European values. 
 
-Grenzüberschreitender ÖPV
--------------------------
+The Pirates demand a common European immigration policy that: 
 
-Als Leitkonzept für Mobilität dient der grenzüberschreitende, öffentliche Personenverkehr (ÖPV) vor dem motorisierten Individualverkehr (MIV).
+* enables legal migration opportunities to the European labour market while ensuring ethical and transparent recruitment of migrant workers and international students, 
+* protects the rights of migrant workers and international students and enhances their participation in the everyday life of receiving societies, 
+* ensures fair representation of the interests of non-EU labour migrants under the temporary labour migration programmes, 
+* evaluates language skills and other given skills of the applicants positively in the process, 
+* recognizes given certificates and professional qualifications in a simplified way, 
+* enables member states to adjust their requirements according to their situation and needs, 
+* is sensitive and non-discriminatory against migrants' religion, ethnicity, race, gender, and sexuality.
 
-Europäisches Semesterticket
----------------------------
+### Asylum 
 
-Der jungen Generation gehört die Zukunft Europas. Die Freizügigkeit innerhalb Europas ist zur Stärkung ihres europäischen Selbstverständnisses als europäische Bürger und für den kulturellen Austausch unerlässlich. Ein gemeinsames Europa im 21. Jahrhundert lebt von bestehenden und neuen digitalen Bekanntschaften und Freundschaften. Damit daraus reale Bekanntschaften werden, bedarf es eines zusätzlichen und intensiven Austausches. Eine europaweit gültige Mobilitäts-Flat nach Vorbild des Semestertickets für jeden Schüler, Studierenden und Auszubildenden wird den individuellen Interessen und Wünschen nach Austausch und Kommunikation gerecht. Das Modell soll schrittweise um weitere Nutzergruppen und Altersklassen erweitert werden.
+#### Asylum System 
 
-Freie Mobilität in europäischen Städten
----------------------------------------
+Pirates are committed to a comprehensive revision of European refugee and asylum policy. 
 
-Der Ausbau der Nahmobilität hat für die Städte und Regionen in Europa große Bedeutung. Städte sind dann lebenswert, wenn Einwohner und Pendler in einer gesunden Umwelt wohnen und arbeiten können. Eine schnelle und einfache Fortbewegung innerhalb der Städte erhöht sofort ihre Lebensqualität. Warte- und Pendlerzeiten sollen deshalb minimiert und der Verkehr modernisiert werden. Die Städte der europäischen Union sollen zur Erreichung dieser Ziele eine Prüfung ihrer Mobilitätskonzepte durchführen und Modellprojekte zur Innovationsförderung entwickeln. Die besten Projekte erhalten unter Berücksichtigung einer fairen Verteilung nach Mitgliedsländern und verschiedener Stadtgrößen Finanzmittel der EU. Auch kleinere Städte können an dem Wettbewerb teilnehmen. Diese Modellstädte sollen freie Mobilität, die Lärm- und Schadstoffverringerung und den internationalen Tourismus fördern. Die Beteiligung der Einwohner und offene Verfahren gehören zu einer modernen Städte- und Verkehrspolitik und sind Voraussetzung für eine Förderung.
+Pirates firmly believe that Europe's refugee and asylum policy must be based on respect for human rights and International law. All EU states have an obligation to support refugees and asylum seekers as they are legally bound to this responsibility by international treaties. All EU states must comply with the provisions of the Geneva Refugee Convention and the UN Convention on the Rights of the Child. 
 
-Faire Bedingungen für Freizeit- und Geschäftsreisen in Europa
--------------------------------------------------------------
+Pirates condemn the criminalization of all people and organizations assisting those seeking protection. The criminalization of humanitarian aid fundamentally undermines the principle of legal certainty and, thus, the rule of law in the EU. 
 
-Wir PIRATEN wollen einfache Abläufe bei der Buchung und Durchführung von Freizeit- und Geschäftsreisen.
+The EU border agency Frontex must comply with international law in the same way member states do. Frontex's allegations of the breach of the rule of non-refoulment must be taken seriously.
 
-Bei Flügen und auftretenden Reisehindernissen gibt es auf dem Papier zwar starke Fluggastrechte, aber die Reisenden haben in vielen Fällen Schwierigkeiten, diese Rechte einzufordern. Um den Eindruck vorzubeugen, dass die Fluggesellschaften Informations- und Passagierrechte missachten, sollen diese gestärkt werden. Auch bei der Auswahl des Verkehrsmittels soll "Gleiches Recht für Alle" gelten.
+We must work on a non-discriminatory asylum system reform that all member states will respect. 
 
-Ebenso ist die Mehrwertsteuerbefreiung für Flüge im grenzüberschreitenden Personenverkehr ein Problem, weil sie Flugreisen subventioniert. Die Kunden anderer Verkehrsträger wie der Bahn müssen hingegen die Mehrwertsteuersätze des jeweiligen Abfahrtlandes zahlen. Sie sind nicht vollständig und europaweit von der Mehrwertsteuer befreit. Für mehr Gerechtigkeit und aus ökologischen Gründen müssen die Wettbewerbsbedingungen der verschiedenen Verkehrsträger angeglichen werden.
+Pirates demand a common European Asylum Policy that implements the following: 
+* reconsiders the first safe country of asylum principle as decisive in determining where the asylum procedure takes place and where the asylum-seeker must stay, 
+* promotes the possibility of family reunification first for those whose application was approved;
+* employs a system of mutual processing of asylum applications, allowing each application to be made directly to the EU, while leaving discretion to the Member States to decide whether to admit asylum-seekers onto their territory, 
+* emphasizes the principle of solidarity among the Members States as a leading principle to face humanitarian crises, 
+* avoids dehumanizing detention of asylum seekers and fast-track procedures at land borders and airports, 
+* ensures that asylum applications can be made from any location on the planet so that refugees can be transported to the host country humanely and safely.
 
-Transparenz und fairer Wettbewerb in der europäischen Verkehrspolitik
----------------------------------------------------------------------
+## Free Software and Open Data 
 
-Die europäischen Bahnen müssen im Personenverkehr erhebliche Anstrengungen unternehmen, um den Bahnbetrieb attraktiv und wettbewerbsfähig zu gestalten, weil die verkehrstechnische Vernetzung eines so großen Gebiets wie Europa nicht allein durch den motorisierten Individualverkehr erfolgen kann. So muss ein geregelter marktwirtschaftlicher Wettbewerb innerhalb des Schienenverkehrs stattfinden. Auch in Deutschland gibt es Nachholbedarf. Die Verantwortung für die europäische Schieneninfrastruktur soll in öffentlicher Hand liegen. Die lobbyistische Interessenpolitik der Europäischen Kommission berücksichtigt aus unserer Sicht viel zu stark verkehrspolitische Einzelinteressen auf Kosten der europäischen Gemeinschaft. Die Marktabschottung durch staatliche Eisenbahnkonzerne wie der französischen SNCF oder der Deutschen Bahn, die Einführung von Gigalinern, die Befreiung von der Kerosinsteuer und die Aufweichung von CO2-Zielen beim Flottenverbrauch erfordern politisches Gegensteuern. Europaabgeordnete der PIRATEN werden sich deshalb für mehr Transparenz, Aufklärung und einen fairen Ausgleich der Interessen einsetzen.
+Pirates support the promotion of software that can be used, analyzed, disseminated and modified by anyone. Free/Libre Open Source Software is essential for users' control of their own technical systems and significantly contributes to strengthening the autonomy and privacy of all users. 
 
-Modernisierung des europäischen Transportwesens (Schwerpunkt Schiene)
----------------------------------------------------------------------
+### Free Software, Formats, and Protocols in Public Administration 
 
-Der Ausbau der transeuropäischen Eisenbahnkorridore und der Schifffahrtswege sowie die Schaffung einheitlicher technischer Standards sind wichtige wirtschaftspolitische Ziele. Wir wollen die Logistik-Verbände in Europa von verkehrspolitischen Innovationen überzeugen und den Güterverkehr auf der Straße, insbesondere den Schwerlastgüterverkehr, reduzieren. Zusätzliche Gebühren und die LKW-Maut allein verhindern keinesfalls die Überlastung der europäischen Straßennetze. Die digitale Vernetzung lässt zwar heute bereits viele materielle Transporte überflüssig werden und leistet so ihren Anteil für Umweltschutz und Nachhaltigkeit, aber der Güter- und Warenverkehr nimmt dennoch weiter zu. Die Verlagerung des Verkehrs von der Straße auf die Schiene und auf Wasserwege löst viele Probleme. Deshalb müssen technische und organisatorische Hürden des transeuropäischen Verkehrs, auch die Bahninfrastruktur betreffend, abgebaut werden.
+Citizens' data must be processed, managed, and secured with Free Software tools whenever possible. Proprietary software may only be used as long as Free Software cannot effectively be used for that specific purpose, and the option of creating such a piece of software is not viable. 
 
-Sicherung des 4. europäischen Eisenbahnpakets
----------------------------------------------
+Free Software reduces administrative costs, promotes local technical support and significantly strengthens security -- for example, by allowing anyone to quickly check for malicious, vulnerable or backdoored code embedded within the software. We will drive the migration of the public sector to Free Software so that there is no longer a dependency on specific suppliers. 
 
-Das 4. europäische Eisenbahnpaket beinhaltet die Neuregelung und Ausweitung der Kompetenzen der Europäischen Eisenbahnagentur (EEA/ERA) gegenüber nationalen Sicherheitsbehörden wie dem Eisenbahnbundesamt (EBA). Durch das EP-4 sollen gegen nationale Widerstände die unterschiedlichen Sicherheitsbescheinigungen und -genehmigungen vereinheitlicht werden. Das EP-4 wäre allerdings eine Mogelpackung wenn im Gegenzug Arbeitnehmerrechte beschnitten werden. Wir PIRATEN unterstützen daher die Aufwertung der EEA/ERA gegenüber nationalen Behörden wie dem Eisenbahnbundesamt und lehnen Verschlechterungen zu Lasten der Bahnbeschäftigen ab.
+Citizens and businesses must never be forced to use proprietary software when dealing with public administration or any other communication with their government. It must never be based on proprietary forms of communication designed to only work with specific, usually non-free software. Instead, it must use open, interoperable, vendor-neutral protocols and formats. 
 
-Europäische Konvention gegen Bahnlärm
--------------------------------------
+### Free Software Funding and Development 
 
-Die Bahninfrastruktur durchzieht im Gegensatz zu Autobahnen häufig Wohnorte und Siedlungsgebiete. Dem Vorteil einer ortsnahen Bahninfrastruktur steht ein hochbelastender Bahnlärm gegenüber. Für die Akzeptanz der Europäer von Bahn und Schiene ist die Lärmreduktion sehr wichtig. Einheitliche europäische Standards zur technischen Bahnlärmreduzierung müssen europaweit angepackt werden. Während im Personenverkehr durch Leichtfahrzeuge bereits beträchtliche Erfolge zu verzeichnen sind, sind im Güterverkehr wie bei der LL-Sohle zwar „Anstrengungen“ erkennbar, aber bislang nicht ausreichend. Als konkrete Maßnahmen schlagen wir zur weiteren Lärmminderung den Einsatz von „Flüsterschienen“ oder lärmabsorbierenden Drehgestellen vor.
+Free software, which often powers critical infrastructure, is usually maintained by a few volunteers in their spare time. We want to fund innovative open-source projects and contribute to existing free software development. This can, for example, include direct funding and organized hackathons. 
 
-Investitionen in die Verkehrsinfrastruktur
-------------------------------------------
+We also plan to encourage member states' governments to set up their own Open Source Program Offices (OSPOs). This will significantly enhance the ability to create and collaborate on free software that can be (re)used across the Union. 
 
-Wir PIRATEN stehen für einen europaweiten flächendeckenden Erhalt und Ausbau der Infrastruktur. Es besteht die Gefahr zusätzlicher Mittelkürzungen für unsere Infrastruktur durch die europäische Schuldenbremse, den Fiskalpakt. Das zukünftige Europaparlament soll sich dafür einsetzen, ausreichende Investitionen in den Erhalt der öffentlichen Infrastruktur zu gewährleisten. Die Verkehrswende in Europa braucht ein nachhaltig finanziertes Verkehrssystem, lebenswerte Wohnräume und einen höheren Schienenanteil um Umwelt und Klima zu schonen sowie den Personen- und Warentransport sicherzustellen.
+Finally, free and open-source software development must never be held to the same obligations as proprietary software development, and its developers cannot be held liable for damage linked to the free use of their work. 
 
-*„TTIP“ NEIN DANKE!* - *TRANSATLANTISCHE PARTNERSCHAFT GEHT ANDERS*
-===================================================================
+### Government-provided Software 
 
-Die Regierungen Europas und der USA planen das »transatlantische Freihandels- und Investitionsabkommen« (TTIP). BMW und Monsanto freuen sich; auch Deutsche Bank und JP Chase Morgan, BASF und Google, Bertelsmann und ExxonMobil. Doch brauchen die Menschen in Europa, den USA und im Rest der Welt wirklich einen großen, deregulierten transatlantischen Markt? Eine Antwort auf die eigentlichen Fragen gibt TTIP nicht: Wie wollen wir leben? Was ist ‚gutes Leben‘ ohne die Ausbeutung von Mensch, Tier und Umwelt? Wie können wir in den ökologischen Grenzen des Planeten wirtschaften und dabei gute, fair bezahlte Arbeit sichern? Wie können wir Ernährungssouveränität für alle erreichen?
+Government-provided software, such as mobile ID cards, must be functional on free and open-source operating systems, including those not installed by default or officially supported by device vendors, whenever technically feasible. No artificial restrictions should be placed on this functionality. Furthermore, software versions should be made available for all major mobile platforms. 
 
-Mit dem TTIP-Abkommen versprechen Wirtschaftsvertreter in der EU und den USA mehr Wachstum. Sie wollen mehr Handelsströme und mehr Marktfreiheit für Unternehmen. In der Realität kann das aber bedeuten: Gentechnik-Lebensmittel und Hormonfleisch landen ungekennzeichnet auf unseren Tellern. Das geplatzte ACTA-Abkommen zum Urheberrecht kommt durch die Hintertür erneut − Meinungsfreiheit und Datenschutz bleiben auf der Strecke. Nur die niedrigeren Verbraucherschutz- und Umweltstandards bleiben übrig. Bundesregierung und EU-Kommission setzen auf Geheimverhandlungen unter weitgehendem Ausschluss der Öffentlichkeit und der Parlamente.
+Software developed using public funds must be open source - "public money, public code." However, if there is a valid reason for not disclosing the source code at a given time -- such as a potential threat to national security -- the code must be made public as soon as the reason no longer applies. We also suggest that the source code for such software be hosted by the corresponding country's OSPO using Git or similar software repositories. 
 
-Schon jetzt stecken wir in ökologischen, sozialen und wirtschaftlichen Krisen. Wir erleben viel zu wenig - nicht zu viel - Demokratie, soziale Gerechtigkeit, Klimaschutz, Finanzmarktkontrolle. Wir erleben zu wenig - nicht zu viel - solidarisches Wirtschaften, Schutz kleinbäuerlicher und gemeinwohlorientierter (Land-)Wirtschaft sowie wirksamen Verbraucher-, Daten- und Rechtsschutz gegenüber den Geschäftsinteressen internationaler Konzerne.
+To ensure the broadest possible use and accessibility, we also recommend that governments license their software with a copyleft license. The software should also be compatible with all major operating systems on the platform it was designed for. Additionally, web-based programs should be designed to be portable and compatible with all major free and opensource browsers, preferably respecting web standards as defined by the W3C. 
 
-WIR WOLLEN:
+### Open Data 
 
-*Demokratie und Transparenz:*'
+Data drives every decision in our society, and there is now a colossal asymmetry between governments, large companies, and individuals. 
 
-Statt Geheimverhandlungen braucht es eine breite öffentliche Diskussion um ein soziales und ökologisches Verhandlungsmandat auf beiden Seiten. Hierzu müssten umfassende und aktuelle Informationen und der vollständige Einblick in alle Verhandlungsdokumente für die Öffentlichkeit und Parlamente gewährleistet sein. Zudem muss die Kommission eine umfassende Nachhaltigkeitsprüfung von unabhängiger Seite durchführen lassen.
+We strive for a Freedom of Information Act at the European level that stands for open and free access to all public data, fully anonymised in order to respect individuals' privacy, shared using an open and standard format, free of any charge, and easily accessible to everyone.
 
-*Rechtschutz für Menschen – statt privilegierte Klagerechte für Konzerne:*
+## Human Rights in the Digital Age 
 
-Wir lehnen es ab, dass US-Konzerne Klagerechte gegen europäische Umwelt- und Sozialgesetze bekommen. Die besonders von der EU geforderten Sonderklagerechte für Unternehmen im Rahmen so genannter Investor-Staat-Schiedsgerichtsbarkeit unterlaufen grundlegende Prinzipien des Rechtsstaats.
+The European Pirate Party stands for the protection of fundamental rights in both the physical and digital world. We stand against measures targeted to undermine individuals' personal liberties and freedoms. The protection of fundamental freedoms has always played a vital role within the legal order of the Union. While significant progress has been made to extend the freedoms of Union citizens, protecting fundamental rights in the digital world requires further scrutiny. 
 
-*Kernprinzipien des Klima- und Umweltschutzes,*so wie sie 1992 in Rio aufgestellt wurden, sind das Vorsorge- wie auch das Verursacherprinzip: Wenn von Produkten oder Technologien Risiken ausgehen können, dann müssen diese Risiken vorausschauend vermieden werden. Im TTIP aber sollen auf Druck von US-Exportinteressen bereits bestehende wie geplante Regeln, die diesen Prinzipien folgen, zum Handelshemmnis erklärt werden. Ein besonderer Dorn im Auge der US-Lobbygruppen sind v.a. die in ihren Augen zu langsame Zulassung und die Kennzeichnung von Gentechnik-Lebensmitteln in Europa und die europäischen Nachhaltigkeitsstandards von Biokraftstoffen. Aber auch die Weiterentwicklung der EU-Chemikalienrichtlinie REACH und der EURO-Norm für Auto-Emissionswertewie auch die EU-Strategie zur Begrenzung der von Kunststoffen ausgehenden Umweltgefahren laufen den US-Exportinteressen zuwider. Auch für neue Technologien muss das Vorsorgeprinzip gelten, etwa für die gefährliche Gewinnung von Gas mit Fracking. Wir brauchen eine klima- und ressourcenschonendere und gerechtere Wirtschaftsweise auf beiden Seiten des Atlantiks. Die niedrigsten Standards dürfen nicht zur Richtschnur werden. Verbote sind dafür genauso erforderlich wie Steuern und Zölle für besonders schädliche Verfahren. Das ist mit der T?TIP-Freihandelslogik nicht zu vereinbaren.
+### The Right to Internet Access 
 
-*Kleinbäuerliche und ökologischere Landwirtschaft schützen:*
+The respect for fundamental freedoms and liberties should naturally flow to the digital world. Internet access allows us to participate in an increasingly digitally-driven society. Whereas access to the internet has rapidly become a standard within the European Union, many still have not been able to enjoy its potential. 
 
-Bauern und Verbrauchern in Europa bringt TTIP keine Vorteile. In den USA ist der Verzehr von Klon- und Hormonfleisch sowie von Milch von mit gentechnisch erzeugten Wachstumshormonen gedopten Turbo-Kühen erlaubt. Geflügelfleisch wird mit Chlor behandelt, für gentechnisch veränderte Pflanzen gibt es weder ein durchgängiges, stringentes Zulassungsverfahren noch eine Kennzeichnungspflicht. Gentechnisch veränderter Lachs steht vor der Zulassung. Alles das wäre dann auch in Europa erlaubt. Auch das Patent- und Haftungsrecht unterscheidet sich in beiden Handelszonen an vielen Stellen. TTIP öffnet die Türen für Agrar-Exportschlachten zu Dumpingpreisen. Europäische Bauern gerieten unter noch mehr Wettbewerbsdruck. US-Exporteure würden verstärkt mit Soja und Milchprodukten auf den EU-Markt drängen und unsere Bemühungen, Soja durch einheimische Futterpflanzen zu ersetzen, unterlaufen. Statt noch mehr „Wachsen oder Weichen“ brauchen wir den Schutz kleinbäuerlicher und ökologischer Landwirtschaft.
+We believe that the right to internet access should be effectively guaranteed across the EU in terms of coverage and quality. Digital transformation and progress should not leave anybody behind. Everyone should enjoy access to affordable high-speed internet under favourable conditions. In keeping with current standards, the quality of internet access should be sufficient to allow persons to partake in digital affairs sufficiently. 
 
-**Hohe Verbraucher- und Gesundheitsstandards:** Die strengeren europäischen Standards müssen Grundlage aller Verhandlungen sein. Zudem ist eine umfassende Kennzeichnungspflicht zwingend - auch für verarbeitete Produkte.
+Access should be provided without unreasonable difficulties, burdens, or costs. 
 
-*Arbeits- und Menschenrechte durch klare und durchsetzbare Regelungen verbindlich schützen:*
+### The Right to Privacy 
 
-Der Öffentlichkeit wird TTIP als Motor für die Schaffung von Arbeitsplätzen verkauft. Dabei haben bestehende Freihandelsabkommen wie der NAFTA-Vertrag zwischen den USA, Kanada und Mexiko eher das Gegenteil bewirkt. Gewerkschaften beklagen Arbeitsplatzverluste in der Industrie, sinkende Löhne, Unterlaufen vor Arbeitsmindeststandards und wachsende Einkommensunterschiede als Folge des Freihandels, indem Arbeitsstandards an das jeweils niedrigere Niveau nach unten angeglichen werden. In der EU sind Massenarbeitslosigkeit, Druck auf Löhne und die Ausweitung prekärer Beschäftigung die Folgen schwacher Sozialstandards im liberalisierten Binnenmarkt. Dies ist kein Modell für eine transatlantische Freihandelszone.
+Everyone should have the right to privacy, which includes the right of individuals to control their personal information and to be free from pervasive surveillance. As a fundamental human right, respect for privacy is essential to safeguard the interests of individuals and prevent abuse. Privacy includes the right to discretion and to remain anonymous online and offline. Anonymity does not relieve any person of responsibility for their actions. 
 
-*Internationale Solidarität und Kooperation* statt immer mehr Wettbewerbsdruck. Mit dem TTIP wollen EU und USA ihre globale Vormachtstellung absichern. Aufstrebende Schwellen- und Entwicklungsländer sollen durch das Abkommen Marktanteile verlieren.
+Individuals who constantly feel watched and under surveillance cannot freely and effectively exercise their rights and stand against abuses. Surveillance, distrust, and fear risk transforming our society into a community susceptible to the erosion of rights. We do not want to live in such a society. We believe in accountability in collecting and using personal data and advocate for robust data protection laws that give individuals control over their personal information. 
 
-*Schutz und Ausbau öffentlicher Dienstleistungen* statt weiterer Liberalisierungsoffensive.
+To preserve our rights and freedoms and ensure law enforcement's effectiveness, the Pirates demand that the retention of personal data be limited to persons suspected of committing or preparing a crime (targeted investigations). The Pirates wish to abolish the practice of routine, automated, and untargeted data processing. We advocate for a moratorium on new legislation for mass surveillance or systematic data collection of the population, be it on our communication, movement, internet use, biometrics, or other data. 
 
-Essentielle Dienstleistungen der Daseinsvorsorge - z.B. in den Bereichen Bildung, Gesundheit, Wasser, Energie oder Verkehr - dürfen nicht privatisiert werden. Sie müssen für alle zugänglich sein und hohen qualitativen, sozialen und umweltpolitischen Standards genügen. Den dazu nötigen Gestaltungsspielraum auf nationaler und kommunaler Ebene drohen die TTIP Verhandlungen weiter zu beschneiden - mehr Druck in Richtung Privatisierung ist zu erwarten.
+Specifically, we defend the right to privacy of digital data against policies that generally and indiscriminately search private chats, messages, emails, or photos automatically for suspicious content (Chat Control). We defend the right to communicate anonymously against mandatory age verification policies. Publicly accessible spaces should be free from biometric mass surveillance, including biometric identification and automated behavioural monitoring. 
 
-*Schutz und Förderung der Vielfalt kultureller Ausdrucksformen* statt weiterer Liberalisierung. Die UNESCO-Konvention über den Schutz und die Förderung der Vielfalt kultureller Ausdrucksformen sichert beispielsweise Film-, Theater, Orchester- und weitere Kulturförderung sowie den öffentlich-rechtlichen Rundfunk mit seinen Landesprogrammen. Dieser Gestaltungsraum wird durch die TTIP Verhandlungen zur Disposition gestellt.
+The Pirates oppose the automated profiling of people to divide them into risk categories. We reject the blanket and indiscriminate collection of traffic data (Data Retention). Every person should have the right to use the internet without being pervasively tracked. The Pirates oppose the exchange of personal data with countries that lack effective safeguards. Such transfers may be permitted only under exceptional circumstances, where this is done in an emergency and subject to appropriate safeguards and limitations. 
 
-*Regulierung des Finanzsektors und Abbau ökonomischer Ungleichgewichte*' statt mehr Deregulierung und Freihandel. Die Liberalisierung der Finanzmärkte und ökonomische Ungleichgewichte innerhalb der EU infolge von Lohnkonkurrenz sind eine wesentliche Ursache der europäischen Wirtschaftskrise. Mit TTIP sollen Finanzdienstleistungen noch weiter liberalisiert werden. Die politische Macht der Finanzindustrie würde gestärkt, Lohn- und Steuerdumping und damit sinkende Einnahmen der öffentlichen Haushalte wären die Folge.
+Adequate protection against crime is an important responsibility of the state. We must ensure this responsibility is fulfilled through an intelligent, rational, and evidence-based security policy. We, therefore, want the European Fundamental Rights Agency to systematically examine all current and future surveillance powers and programs as to their effectiveness, cost, adverse side effects, alternatives, and compatibility with our fundamental rights. 
 
-*Innovationen, Bildung und Informationsfreiheit* statt noch mehr Exklusivrechte an „geistigem Eigentum“ der Konzerne: Schützbares „geistiges Eigentum“ findet sich in vielen Sektoren - Technologien, Pharmaprodukte, Saatgut, Filme und Musik. Unter dem Vorwand, die Urheber zu schützen gängeln die großen Verlage, Labels und Medienkonzerne die Nutzer von Kultur und Information immer stärker. Wissenschaft und Bildung werden behindert, immer mehr Werke verwaisen und gehen endgültig verloren, weil ihre Digitalisierung nicht erlaubt wird. Wir brauchen einen fairen Interessenausgleich zwischen Urhebern, Nutzern und Verwertern! 2012 wurde das ACTA-Abkommen von einer Welle der öffentlichen Empörung gestoppt – der Medienindustrie hätte es umfangreiche Monopolrechte und die Kontrolle des Internets beschert. TTIP ist ein neuer Anlauf, diese Monopolrechte einzuführen.
+The Pirates support funding research through the EU. However, the frequent funding of surveillance and control technologies (such as iBorderCtrl) demonstrates a clear intention to use such technologies to dismantle civil rights. We, therefore, argue that the EU must not fund technologies that interfere with fundamental rights, that human rights-defending bodies and NGOs should be involved in drafting tenders and selecting applicants, and that all publicly funded project results be fully disclosed. 
 
-*Wir rufen daher alle interessierten Menschen und Organisationen auf,* sich aktiv an der Debatte um dieses neue Abkommen zu beteiligen! Machen wir - zusammen mit unseren Freundinnen und Freunden in Europa und den USA - den Politikern und Wirtschaftskapitänen deutlich, dass Freihandels- und Investorenschutz-Rezepte aus dem 20. Jahrhundert keine Lösung für die aktuellen Herausforderungen sind. Eine transatlantische Partnerschaft für die sozial-ökologische Transformation, die wir im 21. Jahrhundert so dringend brauchen, sieht ganz anders aus! Auch in den USA und anderen Ländern Europas regt sich der Widerstand gegen dieses geplante Abkommen - gemeinsam werden wir es stoppen!
+Everyone should be entitled to access key public services in the EU. The EU digital identity proposal provides a gateway to access services and authorities easily under a single digital pass. Such a system should provide for the independent processing of personal data and ensure that strict technical measures are in place to prevent tampering and abuse by states or 3rd parties. Such a system should respect the personal integrity of Union subjects. 
 
-Internationales Handeln
-=======================
+### Freedom of Expression 
 
-Prinzipien für Handelsabkommen
-------------------------------
+Individuals shall have the right to express themselves online without fear of censorship or retribution. The freedom of expression shall be safeguarded without restrictions to the extent to which it does not encroach on the rights and liberties of others. Large online platforms should respect legitimate online discourse and provide an open space for persons to express themselves. 
 
-Wir fordern für die Aushandlung von Handelsabkommen durch die Europäische Union die Einhaltung von Rahmenbedingungen, die mit unseren Prinzipien und Überzeugungen übereinstimmen.
+It has become the case that states mandate the censorship of online dissent to curtail protests and whistleblowing against restrictive policies. The use of such measures should only be permissible in extreme circumstances, where there is a particular risk of causing adverse effects to the personal integrity of other persons as long as these measures are proportional and necessary to avoid legitimate harm and not as a means of pursuing government policy or to curtail rights. Online platforms shall take proportional measures to tackle illegal content published online while paying due regard to societal interest and the rights of others. 
 
-Internationales Abkommen zur Freiheit des Internets und zur digitalen Abrüstung
--------------------------------------------------------------------------------
+We advocate for the use of open-source software, decentralized platforms, and other software that helps to facilitate the utilization of the freedom of expression. We support greater protection of whistleblowers and laws that protect the freedom of the press and information. 
 
-Das Internet ist in seiner unterstützenden Rolle in der Verbreitung demokratischer Grundwerte unersetzlich. Es darf nicht zur Unterdrückung demokratischer Freiheitsrechte oder zu Angriffen auf Infrastruktureinrichtungen, wie zum Beispiel gesellschaftliche Versorgungsnetzwerke, missbraucht werden.
+### Personal Integrity 
 
-Offene und verdeckte Aktionen von staatlichen, privaten und anderen öffentlichen Organisationen, die den Cyberspace als Konfliktdomäne nutzen und die Zivilbevölkerung gefährden, lehnen wir entschieden ab. Deswegen fordern wir ein Internationales Abkommen zur Freiheit des Internets und zur digitalen Abrüstung. Darin soll der Schutz der Vertraulichkeit von Kommunikation ebenso festgeschrieben werden, wie der der Redefreiheit und der des freien Zugangs zu Kommunikation ebenso wie eine strikte Netzneutralität.
+Individual interests shall be safeguarded from interference by public authorities or corporations. Personal identity should not be used as a tool for political or economic propagation. Discriminatory algorithms and unreasonable disclosure of personal data shall be prohibited. Personal data shall not be used for profiling purposes in circumstances where clear behavioural and personal attributes of persons can be ascertained. Public authorities shall not retain or request personal information that is not essential or incompatible with the mandated purpose. 
 
-Des weiteren muss für Software, die zur Ausforschung informationstechnischer Systeme geeignet ist, im öffentlichen Einsatz der Grundsatz gelten, dass technische Möglichkeiten sich den Grundrechten unterzuordnen haben. Systeme, die verdachtsunabhängig persönliche Daten erheben, lehnen wir PIRATEN ab.
+Developments in AI in recent years have resulted in increased reliance on the technology. Whereas AI serves as a useful tool for humanity, it should not work to undermine the freedoms and privileges of individuals. AI development should respect the highest ethical standards and preclude discriminatory biases or profiling. This area should be closely regulated to ensure that the individual EU citizen will benefit from it. Artificial intelligence should not curtail the capacity to make individual choices. 
 
-Dem Wettrüsten der Staaten in der Überwachungstechnik und der elektronischen Kriegsführung ist durch eine Abrüstungsvereinbarung zu begegnen. In diesem Zusammenhang fordern wir ein Bekenntnis von allen Regierungen, aber im speziellen der EU-Mitgliedsstaaten, zu friedens- und freiheitserhaltenden Maßnahmen.
+### The Right to Self-Determination 
 
-Überdies verlangen wir PIRATEN, dass die Regierungen der Mitgliedsstaaten der Europäischen Union die globalen Informations- und Kommunikationsnetze und die Grundrechte ihrer Nutzer gemeinsam schützen und als ein hohes gemeinschaftliches Gut aller Menschen anerkennen.
+We consider the people's right to responsible self-empowerment and self-determination as self-evident. We advocate for using digital infrastructure to enhance citizen participation in decision-making processes. 
 
-Die Problematik des sogenannten geistigen Eigentums in internationalen Abkommen
--------------------------------------------------------------------------------
+In order to safeguard the freedom of self-determination, states shall ensure that sufficient respect is paid to the transparency and legitimacy of the voting process. Adequate safeguards must be in place to ensure ballot secrecy. The influence of foreign actors in the voting process is unacceptable.
 
-Wir sind der Überzeugung, dass es, jenseits aller egoistischen und nationalstaatlichen Interessen, das wichtigste sein muss, alle Menschen weltweit von Fortschritt in Technologie und Wissenschaft profitieren zu lassen.
 
-Internationale Abkommen, zu nennen sei hier zum Beispiel das Übereinkommen über handelsbezogene Aspekte der Rechte am geistigen Eigentum ("TRIPS"), in denen, meist im Sinne der Industrienationen und deren Konzernen, die Rechte an sogenanntem geistigen Eigentum sichergestellt werden, behindern unserer Ansicht nach die erwünschte Verbreitung von Wissen. Abkommen dieser Art sollten unserer Überzeugung nach vielmehr dazu dienen die Verbreitung von Wissen zum Wohle aller zu fördern.
+## Net Policy 
 
-Um den Aufbau von Wirtschaft und moderner, umweltverträglicher Industrie in allen Ländern zu ermöglichen, ist der Zugang zu Patenten und die Möglichkeit dieses Wissen zu nutzen und weiterzuentwickeln, essentiell. Auch die Gesundheitsversorgung darf nicht darunter leiden, dass Medikamente wegen der Monopolstellung der Patentinhaber für viele Menschen in weniger entwickelten Ländern unerschwinglich sind.
+The digital revolution has changed social and economic structures throughout Europe; free and equal access to the Internet is now a fundamental requirement for participation in civil society. Citizens should have the option to access the Internet anonymously. 
 
-Wir werden, auch im Zusammenschluss mit anderen Parteien im Europaparlament, darauf hinwirken, dass entsprechende internationale Verträge, vor allem im Rahmen der Welthandelsorganisation (WTO) nicht mehr die Gewinninteressen einiger Konzerne schützen sondern die Verbreitung von Wissen als öffentliche, also problemlos vervielfältigbarer Güter, ermöglicht und fördert.
+The Pirates wish to include the right of "digital participation" in the European Charter of Fundamental Rights. We will support measures that seek to ensure representative civil society's capacity to participate in multi-stakeholder forums. We will oppose any attempts by corporate, governmental or intergovernmental agencies to take control of Internet governance. The Internet is global, and efforts to split it into disconnected parts are detrimental to fundamental rights. 
 
-Wir sind uns bewusst, dass diese Forderung auf Vorbehalte stoßen wird. Auf Vorbehalte von mächtigen Industriekonzernen, aber auch auf Vorbehalte von Kräften, die den Anspruch erheben die eigene nationale Wirtschaft vor ausländischen Konkurrenten zu schützen. Wir lehnen solch eine egoistische und nur auf den eigenen kurzfristigen Vorteil bedachte Denkweise aber ab. Wir sind davon überzeugt, dass die Verbreitung von Wissen, seien es Bauanleitungen für Windräder, Rezepturen für Medikamente oder gar Informationen über biologische Systeme, zum Nutzen für viele Menschen sein wird. Im diesem Sinne werden wir eine europäische Politik befördern, die nicht als Erfüller von Industrielobbyisten agiert sondern als Vertreter der Menschen, die von einem Fluss der Informationen profitieren.
+### Protecting Freedom of Expression 
 
-Wir erkennen die Leistung von Erfindern an, die auch ihren Lohn braucht. Künstliche Verknappung zur Sicherung von Monopolgewinnen ist für uns aber keine Lösung. Vielmehr müssen effektive Wege gefunden werden, die den Erfinder belohnen wenn er Innovationen der Öffentlichkeit zur Verfügung stellt. Wir sind der Überzeugung: Wenn Wissen geteilt wird, gewinnen alle.
+Online Freedom of speech is the cornerstone of a democratic society. It must not be placed in the hands of private corporations or algorithms. Very large online platform providers must not remove content from their platforms based solely on their own decision, except for cases of manifestly illegal or fraudulent content. The decision to remove content shall be reserved to an independent public body such as a judge. 
 
-Rüstungsexportverbot
---------------------
+Online intermediaries should not be liable for the actions of their users. The use of automated upload filters to block content online should be banned because they frequently lead to the deletion of legal content, including the documentation of human rights violations. 
 
-Wir PIRATEN fordern höhere Transparenz-Standards bei der Genehmigung des Exportes von Rüstungsgütern. Wir fordern außerdem, keine staatlichen Bürgschaften für Rüstungsexportgeschäfte zu gewähren. Die Vergabe von Produktionslizenzen für Rüstungsgüter an Unternehmen in Staaten außerhalb der Europäischen Union ist generell zu verbieten.
+### Net Neutrality 
 
-Langfristig streben wir ein Exportverbot von militärischen Rüstungsgütern in Länder außerhalb der EU an. Bis zum Erreichen dieses Zieles muss der Weiterverkauf der aus Deutschland exportierten Waffen an Drittländer unterbunden werden.
+Net Neutrality is crucial for keeping the Internet free for everybody. We will not allow any traffic restrictions. Especially, restriction or prioritization based on the nature of the content/service must be banned. Traffic management measures shall only be permitted for technical reasons and operated clearly and transparently. 
 
-Für die Länder der Europäischen Union gibt es keine realistischen Gefahren, dass sie von außen angegriffen werden. Die Europäische Union soll unserer Meinung nach mit deutlichen Abrüstungsschritten weltweit richtungsweisend werden.
+### Upgrading of Net Infrastructure 
 
-Europäische Außen- und Sicherheitspolitik
------------------------------------------
+Pirates strongly support the Europe-wide development of state-of-the-art communications infrastructure. Our goal is to provide access to broadband for everyone in the EU. 
 
-Wir PIRATEN fordern Transparenz bei europäischen Entscheidungen auch im Bereich der Außen- und Verteidigungspolitik. Gerade bei Militäreinsätzen bedarf es einer besonderen demokratischen Kontrolle. Da die derzeitigen Strukturen der EU weit von einer angemessenen demokratischen Einflussmöglichkeit entfernt sind, sind wir PIRATEN derzeit gegen eine aktive Gemeinsame Sicherheits- und Verteidigungspolitik (GSVP), insbesondere was den Einsatz von bewaffneten Kräften im Ausland betrifft. Wir sind davon überzeugt, dass ein Bundestagsbeschluss als notwendige Bedingung für Einsätze von Bundeswehrsoldaten im Ausland keinesfalls wegfallen darf.
+While networks are improved and modernized, any monopoly over infrastructure must be avoided. 
 
-Eine gemeinsame, auf demokratischen Fundamenten fußende, europäische Außen‑ und Sicherheitspolitik muss den Menschen‑ und Bürgerrechten verpflichtet sein. Sie soll sich nicht an nationalen Einzelinteressen orientieren, sondern die Bedürfnisse aller Menschen im Blick haben.
+### Unlocking the Net: A Right to Interoperability 
 
-### Grundsätze für Handelsabkommen
+Commercial social and messaging platforms are well known to spy on their users, help advertisers manipulate them, and censor online communications. When leaving such platforms, Pirates want users to have the right to take their contacts to an alternative service and keep in touch with them. Interoperability obligation for messaging services under the Digital Markets Act shall be extended to social networks. 
 
-Wir PIRATEN machen es zur Auflage, dass bei allen Verhandlungen der Europäischen Union über Handelsabkommen die folgenden Bedingungen erfüllt sein müssen:
+### Security in the Digital Era
 
--   Privatisierungen nur nach Einholung eines Referendums;
--   Keine Absenkung von Schutzstandards;
--   Einklagbare soziale, ökonomische und ökologische Mindestandards;
--   Gewährung besonders günstiger Bedingungen für strukturell und wirtschaftlich schwache Handelspartner;
--   Ausländische Investitionen demokratiekonform und rechtsstaatlich schützen;
--   Kein Verbot der Regulierung von Finanzmärkten;
+With the Internet of Things, computers affect our world directly and physically (e.g., car or hospital technology). Devices and tools that are insecure and vulnerable to integrity and availability threats increasingly risk our lives and property. We can afford security disasters happening regularly. 
 
-#### Privatisierungen nur nach Einholung eines Referendums
+Pirates want to oblige commercial manufacturers of devices to provide regular security updates for a reasonable period. If patches of critical security vulnerabilities aren't provided within a reasonable timeframe after their discovery, commercial manufacturers shall be held liable. When a manufacturer decides to abandon a product that is still in widespread use, the source code and development tools must be made public to allow the community to maintain it. 
 
-Anstatt durch Handelsverträge Druck zur Privatisierung öffentlicher Dienstleistungen auszuüben, sollte die Entscheidung darüber, ob eine bestimmte Dienstleistung öffentlich oder privat betrieben wird, der demokratischen Kontrolle der jeweiligen Bevölkerung überlassen werden. Wir PIRATEN lehnen dementsprechend Privatisierungsbestimmungen, die sich allein aus Handelsabkommen ergeben, ab und fordern hierfür zwingend die Durchführung eines Referendums.
+Public authorities shall be obliged to disclose vulnerabilities they find or acquire. There shall be no backdoors in encryption technology as that would weaken and threaten the integrity and security of all systems.
 
-#### Keine Absenkung von Schutzstandards
 
-Wir PIRATEN fordern, dass durch ein Handelsabkommen bei keinem der Handelspartner Standards in den Bereichen Verbraucherschutz, Umweltschutz, Klimaschutz, Lebensmittelsicherheit, Tierschutz, Datenschutz, Arbeitsschutz und der sozialen Sicherungssysteme gesenkt werden dürfen.
+## Regional Development 
 
-#### Einklagbare soziale, ökonomische und ökologische Mindestandards
+We believe regional development is crucial in promoting economic growth and improving citizens' quality of life. Regional policy directly impacts people's lives, especially since there are still significant social and economic imbalances between European regions, both in the EU and non-EU countries. Regional development should be a priority in order to create a more just and united Europe based on principles of equity, participation, and ecological responsibility. 
 
-Handelsabkommen sollen verbindliche und einklagbare soziale, ökonomische und ökologische Mindeststandards festlegen, deren Verletzung zur Erhebung von Strafzöllen und anderen Anti-Dumping-Maßnahmen berechtigt.
+Regions, and even more so border regions, often face very specific challenges, such as environmental damages due to climate change, de-industrialisation due to the economic crisis, difficulty accessing healthcare and education, and demographic changes. 
 
-Wo schon internationale Standards der UN-Organisationen bestehen, wie beispielsweise die nach Wirtschaftsleistung abgestuften Arbeitsrechtrichtlinien der ILO (International Labor Organization), müssen sich beide Vertragspartner verpflichten, diese mindestens einzuhalten und als einklagbare Rechte vorzuhalten.
+Regional development should help European regions with the green transition. In order to ensure policies are sustainable and environmentally responsible, we support the financing of projects that promote the transition to a low-carbon economy, respecting climate targets. 
 
-#### Gewährung besonders günstiger Bedingungen für strukturell und wirtschaftlich schwache Handelspartner
+In the same spirit, the goal of successful regional development is also an ever-increasing cohesion of Europe's various regions. Large-scale projects like the Green Transition can only succeed if all regions receive the support that is adequate for their challenges. 
 
-Handelsabkommen mit Entwicklungsländern müssen deren strukturelle und wirtschaftliche Schwäche durch besonders günstige Bedingungen beim gegenseitigen Handel berücksichtigen. Dies soll sich insbesondere in den Regelungen über den Handel mit landwirtschaftlichen Produkten und Rohstoffen und bei Patentregelungen widerspiegeln. Hierfür wollen wir uns einsetzen.
+### Digital Transition 
 
-#### Ausländische Investitionen demokratiekonform und rechtsstaatlich schützen
+We also recognize the importance of the digital transition of European regions. The emphasis should be on promoting digital innovation in regional development. Therefore, we support connectivity projects providing access to digital infrastructure, such as high-speed internet and telecommunication networks, across all regions. 
 
-Wir PIRATEN fordern, dass ausländische Investoren beim Zugang zur Gerichtsbarkeit und der Möglichkeit Schadensersatz gegen einen Staat geltend machen zu können nicht gegenüber inländischen Investoren bevorzugt werden sollen.
+### Transportation 
 
-Sofern eine unabhängige, faire und in angemessener Zeit zu einer Entscheidung gelangende inländische Gerichtsbarkeit besteht, soll diese nach dem Prinzip des gesetzlichen Richters auch für Schadensersatzforderungen gegen den Staat zuständig sein.
+Because European regions often reach across borders, we also believe regional policies play an important role in developing regional transport projects. Therefore, we support deploying transnational transport projects that improve connections to and in less developed regions, such as high-speed railways. 
 
-Ist dies nicht der Fall, müssen Schiedsgerichte so besetzt sein, dass kein Interessenkonflikt bei den Schiedsrichtern entstehen kann. Alle Verhandlungen müssen öffentlich stattfinden und die Schiedssprüche müssen online frei zugänglich veröffentlicht werden. Es muss immer die Möglichkeit geben, die Entscheidung durch eine zweite Instanz überprüfen zu lassen.
+### Cross-border Cooperation 
 
-Beruhen die Schadensersatzforderungen auf einer im öffentlichen Interesse getroffenen, demokratisch legitimierten Entscheidung des beklagten Staates, soll kein Anspruch auf entgangenen Gewinn und Strafschadensersatz bestehen, sondern nur auf eine angemessene Entschädigung bei Enteignung materieller Güter.
+To achieve this, we call for an increase in the EU budget for regional development to help regions reduce disparities and foster cross-border cooperation. Supporting sustainable economic and social growth of European regions should be the EU's main investment area. The funds intended for regional development should be primarily used for long-term investments, whereas separate crisis management funds should provide timely short-term crisis support in times of need. 
 
-#### Kein Verbot der Regulierung von Finanzmärkten
+### Targeted policies for urban and rural regions 
 
-Handelsabkommen dürfen keine Regelungen enthalten, die es den Handelspartnern verwehren, ungebührliche Spekulation zu beschränken und zu besteuern. Wir werden uns dafür einsetzen, dass es den Handelspartnern in Krisensituationen möglich bleiben muss, Kapitalabflüsse zu verhindern oder zu beschränken, wenn hierdurch die Stabilität des heimischen Finanzmarktes gefährdet wird. Das Gleiche gilt auch, wenn dies zur Sicherung der Erfüllung einer Steuerpflicht erforderlich ist.
+These policies should be promoted in activities designed for specific types of regions, in which the EU should intensively cooperate with member states. A robust urban agenda should help European cities and metropolitan regions become greener and smarter, strengthen housing capacities, and improve the quality of urban life. Particular attention should be paid to the transnational coordination of policies focused on the development of rural areas.
 
-Gemeinsames Wahlprogramm der europäischen Piratenparteien für die Europawahl 2014
----------------------------------------------------------------------------------
+### Decentralisation and Empowerment 
 
-### Präambel
+In order to allow for bottom-up decision-making in our societies, regional authorities should be more empowered to develop their own local policy strategies relying on their unique strengths and resources. Regional authorities should also be more involved in the legislative process when it concerns their development. To this end, we encourage the cooperation of local representatives through EU platforms dealing with regional policy. We also strive to direct public funds as much as possible to regional authorities for distribution to local-led initiatives. 
 
-Die heutige Europäische Union ist in ihrer supranationalen Form eher ein Projekt ihrer Mitgliedstaaten als ihrer Bürger.
+Given the limited administrative capacity of regional authorities, we understand the need to reduce the bureaucracy needed for access to public funds and ask for additional financing for technical assistance to develop and report on large-scale and innovative projects. The funds and their allocation to projects should be based on concrete data to provide evidence-based decision-making. 
 
-Wir PIRATEN sind der Überzeugung, dass Europa sowohl im gemeinsamen Interesse aller Bürger Europas als auch der Mitgliedstaaten gestaltet werden sollte.
+### Just and transparent Funding for more Uplifted Regions 
 
-Wir PIRATEN in der Europäischen Union haben uns dieses Wahlprogramm gegeben und treten gemeinsam dafür ein, dass unsere Vision eines Vereinten Europas Wirklichkeit wird.
+However, this should not hamper the urgent need to improve transparency of end beneficiaries of public funds. This is crucial to avoid conflict of interest, fraud, and corruption. At the regional level, project evaluation criteria and implementation requirements should be objective and transparent. EU funds under shared management by Member States are particularly at risk of being abused because of the lack of information shared between the regional, national and EU levels. 
 
-Bereits seit der Gründung besteht in der Europäischen Union ein Demokratiedefizit, das auch im Laufe des weiteren Integrationsprozesses nicht behoben wurde.
+That is why we suggest fully using interoperable digital tools for budgetary control and publishing non-sensitive data on all public procurements, including the implementation reports on projects. Only full transparency will allow the public and the media investigators to follow the money in order to identify potential cases of abuse. 
 
-Ein wichtiges Ziel aller PIRATEN ist es, für ein vereintes Europa ein stabiles demokratisches Fundament zu bauen. Dafür ist es entscheidend, dass die politischen Prozesse viel bürgernäher werden.
+We also believe that regional development policies must be guided by the principles of social justice and inclusivity. This means that rules for the distribution of EU funds to regions should always comply with the Charter of Fundamental Rights, the rule of law and the European Code of Conduct. All citizens should have equal access to the benefits of regional development policies, and these policies should be designed to reduce inequality and promote territorial and social cohesion. 
 
-Es gilt, zusammen die Entwicklung eines gemeinsamen europäischen Raumes für Kultur, Politik und Gesellschaft voranzutreiben und dabei die vorhandenen reichen und vielfältigen Kulturen Europas zu schützen.
+### Citizen Participation as the Guarantee of Progress 
 
-Die EU muss dem für sie geltenden Subsidiaritätsprinzip gerecht werden. Entscheidungen sollen nicht auf EU-Ebene getroffen werden, wenn sie besser auf nationaler, regionaler oder lokaler Ebene gefällt werden können. Grundlegende Voraussetzungen für wirklich demokratische Entscheidungen sind ein gleichberechtigter und einfacher Zugang zu allen Informationen und gut informierte Bürger. Politischen Entscheidungen auf der europäischen Ebene müssen europaweite öffentliche Debatten vorausgehen, die es allen ermöglichen, sich angemessen zu beteiligen.
+Finally, regional development policies must be based on active citizen participation and democracy. This means involving citizens in the decision-making process and empowering them to shape the policies that affect their lives.
 
-Wir PIRATEN sind überzeugt, dass alle Menschen das Recht haben fair und gleich behandelt zu werden. Die Gesellschaft hat die Rechte von Minderheiten zu respektieren. Wir werden uns jeder Form von Diskriminierung widersetzen und uns Gruppierungen entgegenstellen, die Menschenrechte bekämpfen.
 
-Das Internet als Kommunikationsmedium bietet riesige Möglichkeiten, um einseitige Top-Down-Kommunikation in der Politik zu überwinden. Wir PIRATEN werden deshalb die Freiheit des Internets sowohl auf europäischer Ebene als auch weltweit entschlossen verteidigen.
+## Social Affairs and Healthcare 
 
-### Bürgerbeteiligung und Open Government
+Human rights conventions require these services be founded on the principles of respect, equality, and enabling access. 
 
-#### Demokratie Add-On für Europa
+All inhabitants of the EU have the right to the highest attainable standard of the quality of health care and health education, no matter how health systems have been structured (private, public or mixed). 
 
-Wir PIRATEN fordern, dass die existierenden EU-Verträge durch eine neue Regelung ersetzt werden, die Unklarheiten beseitigt und die notwendige demokratische Reform in der Europäischen Union umsetzt. Eine solche Neuregelung muss zwingend von den Bürgern der Union in einer Volksabstimmung angenommen werden.
+This includes preventive, curative and palliative health care, as well as mental health care. It also includes the underlying social determinants of health, such as safe food, potable water, basic sanitation and adequate housing, safe and healthy working conditions and a healthy environment. 
 
-Der gegenwärtige EU-Gesetzgebungsprozess wird von der vollziehenden Gewalt, insbesondere der Europäische Kommission, auf Kosten der gesetzgebenden Gewalt, dem Europäischen Parlament, dominiert. Wir PIRATEN wollen eine Änderung der Machtverteilung in den europäischen Institutionen erreichen, die die Legislative begünstigt.
+An adequate level of health care can only be provided if the health care workers are paid a decent wage and enough equipment and medicines are available. Training and employing enough medical professionals is necessary to reduce waiting lists and keep medical professionals working in the field. 
 
-Änderungen des EU-Primärrechts dürfen nur in Kraft treten, wenn eine Mehrheit aller EU-Bürger ihnen bei einer gleichzeitigen Abstimmung in ganz Europa zustimmt. Allein eine Vereinbarung auf Regierungsebene soll hierzu nicht mehr ausreichen. Die EU-Kommission bzw. die jeweilige Exekutive muss dafür sorgen, dass solche Abstimmungen auch kurzfristig durchgeführt werden können.
+Health care costs should either be paid for by public funds, public health insurance, or a combination of both. Health insurance should be mandatory, affordable for all EU citizens regardless of income level, and coordinated between EU countries. 
 
-#### Abschaffung von ungerechtfertigten Hürden bei der politischen Teilhabe
+## Availability & Comfort of the Patient 
 
-Wir PIRATEN wollen es den Bürgern ermöglichen, mehr direkten und größeren Einfluss auf politische Debatten und Entscheidungsprozesse zu nehmen - sowohl jeder Einzelne für sich als auch gemeinschaftlich. Wir fordern daher die Abschaffung von ungerechtfertigten Hürden für neue politische Parteien bei Wahlen - wie etwa die Auflage eine außergewöhnlich hohen Anzahl an Unterschriften zu sammeln.
+The Pirates want equal access to health care for every inhabitant of the EU, irrespective of the resources available to a state, and support: 
 
-#### Direktdemokratische Bürgerbeteiligung verbessern
+* No discrimination (direct or indirect) in access to health care, irrespective of the resources available to a state. 
+* Health goods and services should be accessible to everyone. States must ensure that no persons face barriers in accessing their right to health, including access to information about health and health services. 
+* Health goods and services affordable for everybody regardless of their income level. 
+* Health laws and policies designed and implemented in a transparent manner and with meaningful participation of persons affected by it. All health systems must include a framework for accountability, which should include access to effective judicial or other appropriate measures for violations of the right to health. 
+* Free access to prenatal care for all pregnant women, with a focus on both physical and mental well-being. 
+* Adequate perinatal care 
+* Free guidance by public health nurses and doctors, monitoring the physical and mental health and development of children in their families. 
+* Preventing and fighting poverty. Poverty leads to poor health in children through, e.g. poor diet, inadequate housing, stress, and feelings of inferiority. 
+* In order to ensure the mobility of nurses within the EU, all countries should conform to the same minimum academic standards in training. 
+* Easier cross-border care utilization. Improving opportunities to use health care systems abroad with the coverage of domestic health insurance companies.
+* Cross-border care should not lead to the implementation of policies that violate privacy, nor the decentralization of data or patients' control and consent over the use of their data. 
+* EU health card for the world: Negotiation of the validity of the European Health Insurance Card (Blue Card) in third countries.
 
-Wir PIRATEN streben einen gemeinsamen Standard für Bürgerinitiativen auf lokaler, regionaler, nationaler und europäischer Ebene an. Um den Bürgern mehr Einfluss zu geben, möchten wir, dass erfolgreiche Bürgerinitiativen durch ein anschließendes Referendum insbesondere auch Verfassungen und Gesetze ändern können, wenn dies nicht bereits durch den Gesetzgeber erfolgt.
+### Patents and Technology 
 
-### Transparenz
+Reducing the number and lifetime of patents for medicines or at least avoiding administrative prolongation of patents. Publicly funded medicines, including e.g. COVID-related vaccines, should be available under patent-free open-source licenses. 
 
-#### Offenlegung von Einflussnahme auf politische Entscheidungen
+The Pirates demand that Europe strengthens its sovereignty on active ingredient and medicines production. 
 
-Wir PIRATEN fordern die Offenlegung der Einflussnahme von Interessengruppen und Lobbyisten auf politische Entscheidungen, um so den demokratischen Prozess zu schützen und um die Grundlage von Entscheidungen transparent zu machen.
+Pirates demand that Europe improve its sovereignty in producing and developing biomedical equipment. 
 
-#### Whistle-Blower-Schutzgesetz
+Apps and equipment that measure biomedical data, including menstruation and fitness apps, should fully comply with the GDPR and never be used for biometric mass surveillance. 
 
-Wir PIRATEN befürworten eine allgemeine und umfassende Gesetzgebung, um Personen zu schützen, die Probleme aufdecken, die im öffentlichen Interesse liegen (“Whistle-Blowers”). Anwendungsfälle sollen hierbei unter anderem die Veröffentlichung von Korruptionsfällen, Insiderhandel, Verstöße gegen Moral und Standesethik und Menschenrechtsverletzungen sein.
+The European Pirate Party demands adequate data protection for the European Health Data Space. We understand that health data is useful for science, but it can be misused by, e.g. insurance companies and employers. 
 
-#### Transparenz des öffentlichen Sektors
+Health data must be anonymized and encrypted. To this end, it must be clearly defined where it is stored and when and by whom it may be used. 
 
-Der Staat, einschließlich solcher privater Unternehmen und Einrichtungen, die öffentliche Aufgaben wahrnehmen, muss transparent sein. Wir PIRATEN glauben, dass es ein Grundrecht der Bürger ist, ohne dies begründen zu müssen, alle Verträge und geldwerten Vorteile, die mit der Durchführung von Projekten und Dienstleistungen des öffentlichen Sektors oder der Regierung in Zusammenhang stehen, überprüfen zu können.
+### Right to Bodily Autonomy 
 
-### (Schutz der Privatsphäre und Bürgerrechte
+The European Pirate Party considers bodily autonomy to be an essential human right. Therefore, all medical procedures must be based on informed consent obtained without coercion. 
 
-#### Datenschutz und Überwachung
+Bodily autonomy implies that safe and legal abortion be available to all, no matter the reason for their choice. We also demand free access to contraceptives, including both male and female sterilization. 
 
-##### Sicherheit in Freiheit
+That all medical procedures must be based on informed consent obtained without coercion is particularly true for those related to sexual and reproductive health and rights. As such, we demand the criminalization of sex corrective procedures done on intersex infants unless it is absolutely medically necessary. 
 
-Der Ausbau der Bürgerrechte, und der Schutz unserer Freiheit ist ein besonders wichtiger Antrieb für uns PIRATEN.
+In addition, we demand an informed consent model for gender-affirming care, made affordable and accessible. Neither legal gender recognition nor access to medical or surgical sex reassignment should be made conditional on abusive requirements such as a psychiatric diagnosis, normative gender expression, or medical procedures. 
 
-Rechtswidrige und exzessive Überwachungsmaßnahmen inner- und außereuropäischer Staaten, sei es als Reaktion auf den Terrorismus oder andere Bedrohungen, stellen eine ernsthafte Bedrohung dar. Es besteht ein sofortiger Handlungsbedarf, um das Gleichgewicht zwischen Freiheit und Sicherheit und damit unser Recht auf Privatsphäre wieder herzustellen.
+We will work towards creating a safe and inclusive environment where everyone can freely express their gender identity and sexual orientation without fear of discrimination or violence.
 
-##### Gewährleistung der Privatsphäre jedes Einzelnen
+### Free Movement of Workers 
 
-Europäer blicken auf eine stolze Geschichte des Kampfes für ihre Grundrechte und für die Freiheit ihrer Mitbürger zurück.
+EU nationals working in another EU country have to overcome dozens of administrative obstacles to work in and fully integrate into another EU country -- especially different social security systems, different nature of the payment into these systems, registration in health care systems and many more. Therefore, the EU should encourage its member states to continue removing administrative barriers to the free movement of workers by harmonising social security systems and public healthcare systems, especially the harmonisation of payments into these systems and sharing the information between member states. 
 
-Um unsere Rechte und Freiheiten zu bewahren, und die Effizienz der Strafverfolgung sicher zu stellen, fordern wir PIRATEN, dass nur solche Personen überwacht und deren Daten gespeichert werden dürfen, die unter Verdacht stehen, eine Straftat vorzubereiten oder begangen zu haben. Solche Maßnahmen dürfen nur von einem Richter angeordnet werden und müssen der gerichtlichen Kontrolle unterliegen.
+### Fighting Discrimination 
 
-Ein angemessener Schutz vor Kriminalität ist eine wichtige Aufgabe des Staates. Es muss dabei aber gewährleistet sein, dass diese Verantwortung durch eine intelligente, rationale und evidenzbasierte Sicherheitspolitik erfüllt wird.
+We propose policies that promote equal rights and opportunities for all individuals regardless of gender or sexual orientation. We prioritize mainstreaming gender equality and LGBT+ rights. This would involve ending discrimination and violence against women and LGBT+ individuals, promoting reproductive health and rights, and ensuring equal pay and employment opportunities. We believe that recognition of same-sex marriage and parenthood should be enshrined. 
 
-Wir wollen die gängige Praxis, automatisiert Daten zu sammeln, zu speichern und abzugleichen, ohne dass es hierfür einen rechtfertigenden Anlass gibt, abschaffen.
+### Just Transition 
 
-Jeder, der staatlich überwacht wurde, soll nachträglich zeitnah hierüber informiert werden, um Missbrauch zu verhindern.
+As advocates of the digital and green transitions, we acknowledge the interconnectedness of social, digital, and environmental issues, especially in certain regions. Therefore, we promote adequate EU funding to the most impacted regions and for the development of new required skills. We push for life-long learning via up-skilling and re-skilling, for instance. Ensuring that science, technology, engineering and mathematics sectors are appropriately staffed, with a view to integrating underrepresented categories, is a priority. 
 
-##### Weg mit der Vorratsdatenspeicherung und anlasslosem Datenaustausch
+As part of the no-one left behind policy, we believe that providing funding to vulnerable persons/households for their transition regarding transport, heating, insulation, etc., is necessary. 
 
-Wir PIRATEN wollen die europäische Richtlinie zur Vorratsdatenspeicherung abschaffen.
+### Social Standards 
 
-Zudem sollte jeder das Recht haben zu wissen, welche Vorgaben im geschäftlichen Verkehr und öffentlichem Sektor für das Sammeln seiner persönlichen Informationen gelten, wie lang diese maximal gespeichert werden und welche Bedingungen allgemein auf die Speicherung Anwendung finden.
+Pirates defend the idea of universal access to education, knowledge, healthcare and adequate social protection. On the latter, we need to protect vulnerable groups from poverty and exclusion, including through policies that guarantee a minimum income and satisfactory social services. 
 
-Wir PIRATEN sind gegen den anlasslosen Austausch von persönlichen Daten innerhalb und außerhalb der EU. Dies schließt den Transfer von Passagier- und Bankdaten mit Drittstaaten wie den USA, die Eurosur-Grenzdatenerfassung und den Austausch von Daten aus nationalen Polizei-Datenbanken mit ein. Die Aushändigung persönlicher Daten an Staaten ohne wirksamen Grundrechtsschutz muss verboten werden.
+Workers shall be granted appropriate and good working conditions. Teleworking and platform work are becoming more prominent but still facing regulatory gaps. We must ensure that new forms of work are not enhancing employees' surveillance nor degrading their working conditions and rights. 
 
-Wir PIRATEN lehnen die Einführung obligatorischer Überwachungs-und Meldegeräte, wie z.B. "Smart Meters", ab.
+European countries shall ensure adequate wages for the employees working in European Economic Area. While we recognize that uniformly defining an adequate wage is impossible in current Europe, we believe employees shall be provided with transparent access to information and proper legal protection to be able to negotiate fair wages. No double standard for refugees and other non-citizens working in Europe shall be allowed. Further research and pilot projects for universal basic income are welcomed.
 
-Wir PIRATEN wollen strenge Standards für alle Industriesysteme einführen, die automatisch persönliche oder private Informationen verarbeiten (wie z.B. Zugangskontrollsysteme). Zu diesen Standards gehört es in jedem Fall, dass die Quellcodes dieser Systeme offengelegt werden, eine öffentliche Dokumentation erfolgt und ein Peer-Review-Verfahren etabliert wird.
+### European Pension Fund 
 
-##### Systematische Evaluierung von Überwachungsbefugnissen und -programmen
+Our goal is a truly social Europe with comparable social rules and comparable pension conditions for all Europeans. Pension regulation should not cause an even fiercer race of the poor against the very poor. 
 
-###### Verbot von Massenüberwachung
+Multiple countries face crises of national pension schemes due to demographic changes and migration between European countries. Therefore Pirates propose to establish a common European pension fund. The fund shall not be considered a replacement of national pension schemes but rather an additional complement to them to provide necessary minimum income where needed. No one in Europe shall face poverty in old age. The pensions shall be available fairly to everybody, without needless restrictions based on age or other criteria. 
 
-Der öffentliche Raum ist voll von Kameras, die die Bewegungen von Personen und Fahrzeugen überwachen, sowie Gesichter erkennen können und diese Informationen dann kombinieren, ohne Rücksicht darauf zu nehmen, dass hierdurch das Recht auf Privatsphäre ausgehöhlt werden kann. Untersuchungen zeigen, dass das Vorhandensein solcher Überwachungssysteme wenig Einfluss auf die Kriminalitätsrate hat und dass sich die Kriminalität bestenfalls an andere Orte verlagert. Wir PIRATEN befürworten daher vorrangig Polizeikräfte von solchen Überwachungsaufgaben zu befreien, damit sie stattdessen auf Streife gehen können.
+### Mental Health Care: Enhancing Prevention, Improving Care, and Promoting Education 
 
-###### Verbot der elektronischen Spionage und Sammlung von biometrischen Daten
+#### Introduction: 
 
-Routinekontrollen dürfen nicht unangemessen in die Privatsphäre eingreifen. Wir sind gegen den Einsatz von elektronischen Nackt-Scannern, weil sie die Menschenwürde verletzen. Auch widersetzen wir uns der Sammlung von Kommunikationsinhalten und Metadaten, der Einsichtnahme in private Daten auf elektronischen Geräten und anderen ähnlich invasiven Verfahren. Die Erfassung biometrischer Daten unschuldiger Menschen und deren Speicherung in zentralen Datenbanken zur Gefahrenabwehr lehnen wir ab.
+Effective mental health care requires a comprehensive approach encompassing prevention, care, and education. By addressing these aspects, we can strive for a society that supports individuals with mental health difficulties and promotes their well-being. This text explores key points in mental health care and highlights the need for greater accessibility, destigmatization, inclusion, and education. 
 
-###### Stopp neuer Überwachungspläne
+#### Prevention: 
 
-Wir PIRATEN wollen den fortschreitenden Abbau der Bürgerrechte, der in der jüngeren Geschichte dramatische Ausmaße angenommen hat, stoppen. Um unsere Sicherheit zu gewährleisten, brauchen wir keine neuen Gesetze. Die bestehenden Gesetze sind ausreichend.
+Prevention is paramount when it comes to mental health. To achieve this, we must focus on providing greater access to mental health services throughout communities. This necessitates establishing a well-developed service network readily available to all individuals, regardless of their geographical location. By ensuring that mental health services are accessible, we can effectively support those in need and mitigate the potential for mental health issues to escalate. 
 
-Insbesondere stellen wir uns gegen:
+In addition to accessible services, community care should be recognized as a valuable resource in promoting mental health. By fostering supportive community environments, we can create networks that help individuals overcome challenges and maintain their mental well-being. Simultaneously, it is essential to destigmatize the field of psychiatry, making it more attractive and encouraging individuals to pursue careers in this vital area of healthcare. 
 
--   die Weitergabe und Speicherung von elektronischen Flugpassagierdaten bei Reisen innerhalb der EU durch die Überwachungsbehörden ("EU PNR")
+#### Care: 
 
-<!-- -->
+When it comes to mental health care, prioritizing street work and outpatient care over residential services is crucial. Residential psychiatric services tend to be costly, so it is essential to involve field and prevention teams more extensively. This approach allows for earlier interventions, reducing the need for more intensive and expensive residential care. Furthermore, emphasizing the rights of psychiatric patients is essential to ensure their dignity, autonomy, and proper treatment within the healthcare system. 
 
--   das automatische "Profiling" von Menschen, um sie in Risikoklassen einzuordnen, sowie vergleichbare Methoden der massenhaften Analyse von Daten
+In order to promote greater inclusion in society, it is essential to create an environment that supports individuals with mental health difficulties. This entails providing adequate support throughout life, with particular attention to youth and seniors. Implementing early intervention and preventive measures can contribute significantly to improving mental health outcomes and reducing the long-term impact of mental health issues. 
 
-<!-- -->
+#### Education: 
 
--   das "Safe Harbor" Abkommen zwischen der EU und den USA zum Transfer von Daten in die USA.
+Addressing the affordability and availability of child and adolescent mental health care is imperative. Immediate action should be taken to ensure that these services are accessible to all who require them. Additionally, efforts should be made to simplify the process of preparing mental health experts, including support for the initiatives of organizations like the European Association for Psychotherapy. This will expand the availability of psychotherapy and make it more widely accessible. 
 
-###### Grundrechts-TÜV für neue Sicherheitsmaßnahmen
+Recognizing the importance of mental health, schools should prioritize it as a key aspect of education. Integrating mental health as a priority within the school curriculum can foster awareness, understanding, and emotional well-being among students. Moreover, empowering nurses by strengthening their specialization training in psychiatry can enhance the overall quality of mental health care delivery. 
 
-Wir PIRATEN wollen, dass die Europäische Agentur für Grundrechte (FRA) alle aktuellen und zukünftigen Sicherheits-Programme der EU systematisch untersucht. Die Vorgehensweise der EU-Sicherheitsbehörden muss eine evidenzbasierte Überprüfung erfahren, damit Nebenwirkungen vermieden, Alternativen herangezogen und die Vereinbarkeit mit unseren Grundrechten garantiert werden können. Wir müssen sicherstellen, dass die Europäische Agentur für Grundrechte die entsprechenden Befugnisse hat, um diese Aufgabe zu erfüllen.
+#### Conclusion: 
 
-Wir PIRATEN befürworten ein Moratorium für weitere Eingriffe in unsere Menschenrechte durch die Sicherheitsbehörden der EU im Namen der inneren Sicherheit, bis die systematische Überprüfung der bestehenden Befugnisse durch die FRA abgeschlossen ist.
+A comprehensive approach to mental health care encompasses prevention, care, and education. By providing greater access to services, destigmatizing the field, prioritizing community care, and promoting inclusion and early intervention, we can enhance mental health outcomes for individuals throughout their lives. Additionally, addressing the affordability and availability of mental health care, simplifying the education and recognition process, and integrating mental health into school curricula are vital steps in building a society that prioritizes mental well-being for all.
 
-##### Sicherheitsforschung und Überwachungssoftware
+## Space Programme 
 
-Wir PIRATEN unterstützen generell die Finanzierung von Forschung durch die EU. Jedoch zeigt die häufige Beteiligung von Regierungsbehörden bei Unternehmungen im Bereich Überwachung und Internetzensur, wie z. B. bei INDECT und CleanIT, die klare Absicht, solche Technologien als öffentlich finanzierte Werkzeuge für die Demontage der Bürgerrechte zu nutzen. Wir fordern, dass die EU keine Technologien finanziert, die dazu dienen, die Grundrechte einzuschränken.
+### Space as a Vital Factor 
 
-##### Europäische Datenschutzverordnung mit einem hohen Datenschutzniveau
+Satellite-based communication and navigation, Earth observation for weather forecast, disaster relief, pollution tracking, and orbital-based research are normal parts of our life today. Space has become a commercial factor. 
 
-Die EU-Datenschutzverordnung darf nicht zu einer Absenkung des Datenschutzstandards führen, sondern muss die entsprechenden Rechte der europäischen Bürger in allen europäischen Ländern stärken. Unternehmen in der EU darf es nicht möglich sein sich wirksamer Aufsicht und Kontrolle zu entziehen. Zum Beispiel darf es Facebook nicht gestattet sein, dadurch dass es seinen Sitz in Irland hat, Datenschutzvorschriften zu umgehen.
+The EU plays a vital yet relatively minor role in space technology. We want to stimulate this sector and open it up. This will generate a significant push for technology and collaboration between EU member states and other partner nations. 
 
-Auch Metadaten, die als Nebeneffekt der Verwendung von komplexen Informationssystemen entstehen, müssen als persönliche Daten behandelt werden. Es muss eine Möglichkeit angeboten werden, um eine Liste der Dritten, die Zugriff auf persönliche Daten erhalten, abfragen zu können. Dieser Abfragemechanismus muss der Methode entsprechen, die angewendet wurde, um die Einwilligung in die Datenweitergabe zu erhalten. Auch wenn die Zustimmung für den Austausch von personenbezogenen Daten gegeben wurde, darf der von der Datenweitergabe betroffenen Person der Zugriff auf eine Zusammenfassung aller an Dritte weitergegebenen Daten nicht verweigert werden.
+With the commercialization of space, new opportunities like space mining and colonisation of space arise. These will generate considerable economic advances. The EU needs to make sure to get its share of this development. 
 
-Die Verwendung personenbezogener Daten in Datenhandel, Werbung, Markt- oder Meinungsforschung darf nur mit der aktiven und informierten Zustimmung der betroffenen Person erfolgen.
+### EU Space Vision for the Future 
 
-Der direkte Zugang von Geheimdiensten zu personenbezogenen Daten und Live-Kommunikation der europäischen Bürger und Unternehmen über das Internet zeigt deutlich, dass es auf internationaler Ebene einen gewaltigen Handlungsbedarf gibt. Hier fordern wir PIRATEN, dass Maßnahmen ergriffen werden, um persönliche Daten, die Privatsphäre der Bürger und die freie Entfaltung ihrer Persönlichkeit zu schützen und Industriespionage in Zukunft zu verhindern.
+Due to technological advancement and commercialization, activities in space are no longer topics for the distant future. Interplanetary travel, planetary defence, space mining, production in space, colonisation of other planets, and even early concepts for interstellar space probes are issues that need to be addressed today. 
 
-##### Verbot willkürlicher persönlicher Identifikation im öffentlichen Raum
+The EU needs to define a clear vision, strategy, and objectives to ensure international cooperation, multilateral global governance and basic principles of the rule of law, justice and democracy in the space domain. We need to ensure the continued development of the EU Space Programme Agency that is politically and financially accountable to the EU public through the EU Institutions and receives an adequate EU-wide mandate for space development. 
 
-Wir PIRATEN sind dagegen, dass eine persönliche Identifikation verlangt werden darf, wenn die betroffene Person nicht verdächtigt wird, ein Verbrechen zu begehen. Das gilt insbesondere, wenn dies in Zusammenhang mit der Ausübung des Demonstrationsrechts auf einer Versammlung erfolgt. Wenn jemand nur deshalb ins Visier der Ordnungsbehörden gerät, weil er an einer Demonstration teilnimmt oder seinen Ansichten öffentlich Ausdruck verleiht, ist das Recht auf freie Meinungsäußerung in Gefahr.
+### Industrial Space Policy 
 
-#### Flüchtlingspolitik
+Worldwide, the activities in space are shifting from government agencies to private and commercial entities. 
 
-Der europäische Ansatz zur Asyl-und Flüchtlingspolitik muss auf der Anerkennung der Menschenrechte beruhen und die Vorgaben der Genfer Flüchtlingskonvention und der UN-Kinderrechtskonvention vollständig respektieren.
+In the current decade, the EU Space Programme should concentrate on stimulating development in the private sector. Public-funded research should primarily use commercial launch services and focus on high-risk aspects where it can break ground for disruptive technologies, like light sails for long-range missions and resource extraction in space. 
 
-EU-Nachbarschafts- und -entwicklungspolitik soll auf die nachhaltige Verbesserung der Lebensbedingungen und die Förderung der Menschenrechte in allen Partnerländern und Regionen ausgerichtet sein. Wir verurteilen alle Tendenzen, einen Unterdrückungsapparat zur Überwachung und Kontrolle in Europa zu schaffen.
+Independent EU launch capacities with full reusability have to be developed to ensure the EU has sufficient access to space and can stay in a leading position technologically and economically. 
 
-### Urheberrecht
+A legal framework is required to prevent the abuse and weaponisation of space assets. 
 
-Wir PIRATEN wollen ein faires und ausgewogenes Urheberrecht, das auf den Interessen der Gesamtgesellschaft basiert.
+### Law in Space 
 
-Wir streben die Abschaffung von Informationsmonopolen an. Die Europäische Union hat einer Reihe von Forderungen nachgegeben, diese Monopole zu schaffen, vermeintlich um damit Kreativschaffende und Erfinder zu mehr Produktivität zu motivieren. In der Praxis profitieren aber nur große Konzerne von den Regelungen, während der Rest des Marktes versagt. Das regelmäßige Drangsalieren von Individuen und kleinen und mittelständischen Unternehmen durch Verwertungsgesellschaften illustriert dieses Versagen ebenso wie der gesellschaftliche Verlust von verwaisten Werken. Unser Ziel ist es, eine Umgebung zu schaffen, in der Motivationsanreize und Informationsfreiheit Hand in Hand gehen.
+The Outer Space Treaty (OST) does not cover many critical legal issues regarding the use and commercialization of space. The EU, as a prime example of multiple nations working together for the common good, should take a leading role in pushing to expand the OST to cover important issues like space mining, space debris, and environmental aspects. 
 
-Um die soziale, technologische und wirtschaftliche Entwicklung unserer Gesellschaft voranzutreiben, gilt es den Zugang zu Informationen, Wissen und Kultur zu erleichtern. Wir PIRATEN fordern deshalb, dass das Kopieren, Speichern, Verwenden und Bereitstellen von literarischen und künstlerischen Werken für nichtkommerzielle Zwecke nicht nur legalisiert wird, sondern besonderen Schutz und Förderung durch den Gesetzgeber erfährt. Jeder soll in der Lage sein, unser kulturelles Erbe zu genießen und mit anderen zu teilen, ohne Gefahr zu laufen, deswegen rechtlich belangt oder zensiert zu werden.
+Space must be accessible and utilized for the good of all humankind. 
 
-Das durch das Urheberrecht eingeräumte Monopol im gewerblichen Bereich soll auf eine angemessene Zeitdauer beschränkt werden. Derivative Werke sollen grundsätzlich immer zulässig sein, abgesehen von vom Gesetzgeber ausdrücklich aufgezählten Ausnahmen, die nur einen minimalen Spielraum für eine Auslegung belassen.
+Environmental laws in space should address issues like pollution that can affect broad areas or reach inhabited or potentially inhabitable space objects, areas that can possibly be home to extraterrestrial life, and also protecting places that are of high importance to research, like the far side of the Moon which has exceptionally low radio frequency interference, making it a vital spot for radioastronomy. 
 
-Das Internet ist ein Medium, das keine Grenzen kennen sollte. Wir PIRATEN betrachten künstliche nationale Barrieren für Kulturgüter als ein Hindernis für den europäischen Binnenmarkt und fordern ihre Abschaffung. Im Bereich der Rechte an immateriellen Gütern und der Praxis bei deren Durchsetzung ist es erforderlich, einen anderen Ansatz zu wählen.
+### Space Debris
 
-Es muss verhindert werden, dass weitere Monopole in den Bereichen Information und Kultur geschaffen werden. Der Staat sollte Monopolrechte für immaterielle Güter nur gesetzlich einräumen oder aufrechterhalten, wenn hieran ein öffentliches Interesse besteht. Alle Monopolrechte müssen befristet sein, weder ihre Dauer noch ihr Umfang dürfen rückwirkend erweitert werden.
+Derelict satellites, rocket stages, and debris in orbit threaten space travel. The EU must push for international treaties that mandate removing space debris and prevent new space junk by controlled deorbiting of spent rocket stages and end-of-life satellites. Activities that generate space debris, like tests of anti-satellite systems, must be outlawed. 
 
-Die Schaffung von Gemeingütern, wie freier Software, freier Kulturgüter, offener Patentgemeinschaften und freiem und offenem Unterrichtsmaterial, muss gefördert und rechtlich geschützt werden.
+Research programs for technologies to remove space debris have to receive additional funding. 
 
-Das gesellschaftliche Leben findet zunehmend in digitalen Räumen statt und darf nicht durch Monopolrechte auf immaterielle Güter beschränkt werden. Die Einführung von "Fair Use"-Regeln soll dafür sorgen, dass soziale Interaktionen hiervon unberührt bleiben.
+### Planetary Defense 
 
-Europäische Verwertungsgesellschaften müssen umfassend transparent arbeiten, faire Beteiligungsrechte für ihre Mitglieder gewährleisten und Künstlern faire Vertragsbedingungen bieten.
+An impact of a major object can cause immense damage to Earth. Planetary defence against such events is of high importance. We want to increase the funding for projects to detect potentially dangerous near-earth objects and for technologies to deflect dangerous objects. 
 
-### Freie Software, freie Kultur und freies Wissen
+The activities for planetary defence must be coordinated and integrated internationally. 
 
-#### Freie Software
+### Near-Term Goals 
 
-PIRATEN sprechen sich für die Förderung von Software, die von jedermann verwendet, analysiert, verbreitet und modifiziert werden kann, aus. Freie Libre Open Source Software (FLOSS) ist wesentlich dafür, dass die Nutzer die Kontrolle über ihre eigenen technischen Systeme haben und leistet einen wesentlichen Beitrag zur Stärkung der Autonomie und Privatsphäre aller Nutzer.
+Expendable launch systems are becoming outdated fast, and the economic benefit of reusable systems is significant. The EU needs its own reusable launch capability to stay competitive and enable larger-scale projects. 
 
-#### Obligatorische Verwendung von freier Software in der öffentlichen Verwaltung
+Moreover, an independent crew transport capability, initially to the Earth's orbit, is needed. 
 
-Wir PIRATEN sind der Meinung, dass die Daten der Bürger wo immer möglich mit freier Software verarbeitet, verwaltet und gesichert werden sollten. Geschützte Software darf nur so lange eingesetzt werden, wie keine freie Software existiert oder geschaffen werden kann, die für den jeweiligen speziellen Zweck effektiv verwendet werden kann.
+Developing these systems on a domestic level will be necessary to keep up with the international development currently dominated by the USA and China. 
 
-Freie Software reduziert Verwaltungskosten, fördert das technische Know-How vor Ort und verbessert die Möglichkeit, Malware zu identifizieren. Wir werden dafür sorgen, dass im öffentlichen Sektor zukünftig freie Software zum Einsatz kommt, so dass keine Abhängigkeit von speziellen Anbietern mehr besteht.
+### Long-Term Goals 
 
-#### Freie Kultur
+The EU space programme should also fund goals that are or seem to be out of reach today. Working on far-flung targets, like building an interstellar probe, space elevator or space hook, will stimulate the development of radically new technologies and materials. To ensure civilian use for humankind's benefit as well as effective scientific and economic collaboration, such large and powerful space technologies should be developed with international partners. 
 
-Freie Kultur ist eine wichtige Quelle für Bildung und Kreativität in der Gesellschaft. Wir PIRATEN streben an, künstlerische Aktivitäten und kulturelle Vielfalt zu fördern, um für die derzeitige und zukünftige Generationen eine reichhaltige Bildungslandschaft und ein kreatives Umfeld zu gewährleisten.
+### Reaping Benefits of the Space Program
 
-#### Freies Wissen und freie Bildung
+The return on investment in space technologies is tenfold. The Pirates believe that investing in a large-scale space program will produce research results that have the potential to improve the lives of everyone. We want open-access principles to make the research findings broadly available. The application of space technology should benefit the everyday life of all people, like the already increasing internet coverage in remote areas and satellite-based navigation. 
 
-Wir PIRATEN sind der Überzeugung, dass der freie Wissens- und Informationsfluss wichtig ist und im Bereich der Bildung gefördert und garantiert werden muss. Bildungseinrichtungen sollten zunehmend auf Lehrquellen unter freien Lizenzen zugreifen, bei denen es keine Kopierbeschränkungen gibt.
+### Tell the Story 
 
-Der technologische Fortschritt schafft neue Möglichkeiten, Wissen und Lernkonzepte international zu entwickeln und zu teilen. Um diese Chancen zu nutzen, werden wir uns dafür engagieren, dass freie und offene Unterrichtsmaterialien entwickelt und gefördert werden.
+Space exploration is underrepresented in the media. A vital part of the EU Space Programme must be the communication of projects to the general public to raise awareness of the importance of space for the future of humankind.
 
-Die Verfügbarkeit von Bildungsmedien unter freien Lizenzen für alle ist grundlegend für einen barrierefreien Zugang zu Bildung, sowohl innerhalb als auch außerhalb der Grenzen der EU.
+## Transport 
 
-Wir PIRATEN sehen Innovation als Schlüssel für die Entwicklung unseres kulturellen und geistigen Reichtums. Wir fordern die Aufklärung der Bürger, Schüler und Studenten über ihr Recht auf Zugang zu Informationen und über die Verwendungsmöglichkeiten von freien Formaten und freier Software in allen Arten von Bildungseinrichtungen.
+### Transportation for all 
 
-Wir PIRATEN wollen die Digitalisierung und Veröffentlichung von Dokumenten fördern, die derzeit in öffentlichen Bibliotheken und Archiven in der EU aufbewahrt werden.
+Transport plays a crucial role in the European economy, ensuring the free movement of individuals and goods. However, it is also responsible for a large part of our emissions and is a major source of air pollution in our cities. 
 
-#### Förderung von Gemeingütern ("Commons")
+Decarbonising the transportation sector and achieving environmentally friendly, sustainable mobility is necessary for tackling the climate and energy crises, enhancing citizens' quality of life, and making our cities more livable spaces. The fundamentals of our mobility concept stand on the principles of sustainability, intermodality, and interconnectedness. We believe that it is essential for all Europeans to have easy access to fast, reliable, and environmentally friendly transportation. 
 
-Wir PIRATEN wollen darauf hinwirken, dass Bestimmungen in Handelsabkommen aufgenommen werden, die den Einsatz und die Entwicklung von offenen Formaten und Freier Libre Open Source Software (FLOSS) unterstützen und die die gegenseitige Anerkennung von neuartigen Lizenzmodellen, wie z.B. Creative Commons, fördern.
+We are committed to supporting public transport and rail networks. By investing in these modes of transportation, we aim to provide convenient, efficient, and sustainable mobility options for people across Europe. Enhancing public transport systems, such as buses, trams, and subways, will encourage more people to choose these alternatives over private vehicles, reducing congestion and emissions. 
 
-### Open Access und Open Data
+Additionally, by expanding and improving rail networks, we can offer faster and more reliable intercity and regional connections, making train travel an attractive option for commuters and long-distance travellers. Our goal is to create a robust, multi-modal and interconnected transport network that meets the needs of all individuals and contributes to a greener and more accessible Europe. 
 
-#### Open Access
+### Green cities 
 
-Die Ergebnisse von ganz oder teilweise öffentlich finanzierter Forschung müssen in Open-Access-Fachzeitschriften oder in anderer Form veröffentlicht werden, die für die breite Bevölkerung kostenlos und leicht zugänglich ist.
+Shared mobility and Energy Laziness Alternative fuels cannot save our planet while we continue to waste energy. We support the Shared Mobility Principles for Livable Cities Initiative: if you can walk somewhere, you should not drive, and if you can drive together, you should not ride solo. 
 
-#### Open Data
+These principles aim to increase public transportation usage, decrease the number of cars on the road, prioritize pedestrians and bicycles in green cities, and even save us billions of euros daily in productive time when commuters are stuck in traffic jams. 
 
-Alle Daten, die zur öffentlichen Nutzung erzeugt wurden, sollten unabhängig von ihrer Herkunft für eine breite Öffentlichkeit frei zugänglich sein, solange keine persönlichen Daten ohne Zustimmung der Betroffenen offenbart werden. Diese Daten sollen in einer geeigneten Form zugänglich gemacht werden, wozu immer auch eine solche gehört, die für die Datenverarbeitung geeignet ist. Der Zugang darf nicht durch Gebühren, besondere Lizenzbedingungen, aufwendige Zugangsverfahren oder durch technische Mittel begrenzt werden.
+#### Accessible and efficient public transportation 
 
-Wir PIRATEN streben ein Informationsfreiheitsgesetz auf EU-Ebene an, das kritische Bestandteile der aktuellen EU-Verordnung abschaffen soll, die Barrieren für den Zugang zu Information darstellen, wie beispielsweise die Definition des Begriffs "Dokument" und die Frist für die Einreichung von Beschwerden.
+Public transportation has to be affordable and accessible. Efficient public transportation systems, bicycle highways, and priority bus lanes reduce pollution and noise levels in cities. 
 
-### Patente
+In the long term, we envisage using bikes and public transport to access transport hubs, trains for domestic travel inside the EU, and planes primarily to reach overseas destinations. Sharing is caring! Our priority here is adequacy: the total cost of any solution (including long-term maintenance) has to be proportional to its overall public benefit. We support innovative solutions like autonomous truck trains, smart roads and parking lots, freight trams, or modular buses where appropriate. 
 
-#### Patente im Informationszeitalter
+#### Open Data for Greener Cities
 
-Patente sind in den meisten Fällen mehr Innovationshemmnis als Anreiz. Die Patentierung von Wissen in Gebieten wie Genetik und Biotechnologie, aber auch Software, stellt zudem eine unmittelbare Bedrohung für die Zukunft unserer Gesellschaft da.
+To encourage cities to achieve the status of European Green Cities, we will measure pollution and noise levels in cities and use this information to reward cities that demonstrate a commitment to environmental sustainability. We believe in an open data system for transportation accessible to all, with open data tools developed for companies and regional governments to link into easily. We will ensure the security and privacy of personal data while making transportation data accessible to all. We will use open standards to ensure the interoperability of transportation systems across all EU countries. This will make transportation in Europe function similarly within individual member states. We aim to promote the development of a transportation system that is efficient, accessible, and environmentally friendly. 
 
-Monopole auf Pflanzen oder Saatgut und kostspielige Rechtsstreitigkeiten um - häufig für Trivialitäten ausgestellte - Patente, zeigen schon heute wie sowohl Erfinder als auch Konsumenten für diese Entwicklung bezahlen müssen. Das Patentsystem muss reformiert oder ersetzt werden. Dabei muss ein neuer Ansatz gewählt werden, der dazu führt, dass freiere und fairere Märkte geschaffen werden anstatt Innovationen weiterhin zu behindern.
+#### Supporting alternative fuels infrastructure 
 
-#### Patente und das Gemeinwohl sollen wieder in ein ausgeglichenes Verhältnis zueinander gebracht werden
+Whilst individual cars remain the primary source of air pollution in cities and should not be the preferred mode of transportation, we respect the freedom of choice of each individual. The automotive industry has the means to become a leader in the transition towards clean mobility. Enshrining the right to park and right to charge principles and fair access to install charging infrastructure on existing fossil fuels filling stations along the TEN-T network in European legislation will ensure smoother adoption of clean technologies and accelerate the decarbonisation of the European transportation sector.
 
-Wir PIRATEN sind der Auffassung, dass es Patente nicht deshalb gibt, um großen Unternehmen die Möglichkeit zu bieten, den Wettbewerb mit einer ständig wachsenden Flut trivialer und übermäßig weit gefasster Patente zu ersticken.
+### Local Cross-border Travel 
 
-Deshalb wollen wir den fortgesetzten und zunehmenden Missbrauch von Patenten stoppen.
+We believe that efficient and accessible transportation can connect the various regions of Europe. We will expand and improve upon existing transnational connections that will go beyond the traditional national transportation schemes. The EU should support and safeguard the development of fair transport solutions in border regions that allow efficient and organic movement across national borders. Utilizing both proven and sustainable transport modes such as rail as well as new dynamic options (bicycle and car sharing systems, on-demand public transport), we will strive towards boosting the peripheral regions of EU countries that are often the most underdeveloped and under-connected in their respective countries. 
 
-#### Patente in der Informationsgesellschaft
+#### European High-Speed Rail Network 
 
-Wirtschaftlicher Erfolg in der Informationsgesellschaft ist nicht mehr ausschließlich abhängig von technischen Erfindungen, sondern basiert insbesondere auf der Entwicklung von Wissen und dem Austausch von Informationen. Der Versuch, diese Faktoren heute über das Patentsystem zu regulieren, steht unseren Forderungen nach Freiheit des Wissens und der menschlichen Kultur diametral entgegen.
+We believe that the future of transportation in Europe should prioritize modern, efficient, and sustainable systems that can connect us all. That is why we propose to support policies that prioritise the expansion of a high-speed rail network that would connect all EU capitals, utilizing new materials and technologies to make travel more silent and connect to existing rail networks. 
 
-Patente sollten niemals für triviale, unwesentliche "Erfindungen", für Computerprogramme, Geschäftsmodelle, Tiere, Pflanzen und natürlich vorkommende Stoffe gewährt werden. Solche Patente behindern die Entwicklung einer Informationsgesellschaft und führen zur Privatisierung von Gemeingütern. Kleine und mittelgroße IT-Unternehmen in ganz Europa beweisen, dass Patente auf Software keine Voraussetzung für wirtschaftlichen Erfolg sind. Innovation muss fair belohnt , aber dazu müssen nicht unbedingt Monopolrechte gewährt werden, die die Innovation bremsen und den Zugang zu lebenswichtigen Gütern negativ beeinflussen.
+A high-speed rail network would significantly improve travel efficiency in Europe, reducing travel times and increasing productivity. This would have positive impacts on businesses, lowering costs and improving productivity. It would also greatly enhance the accessibility of remote regions, making it easier for people to travel to and from areas that may have previously been difficult to reach. This would positively impact the local economies of these areas, making it easier for people to visit these regions for tourism or leisure. 
 
-Die EU, ihre Mitgliedsstaaten und andere Industrieländer sollten weniger entwickelte Länder nicht dazu zwingen, Patentbestimmungen zu akzeptieren, die sich wahrscheinlich nachteilig auf die Grundbedürfnisse, die Gesundheit und die Bildung ihrer Bevölkerung oder ihre Entwicklungsmöglichkeiten auswirken würden.
+In addition to these benefits, an interconnected high-speed rail network will help to reduce traffic congestion on roads and highways, improving overall transportation efficiency and reducing travel times. By reducing the number of cars on the road, a high-speed rail network will also positively impact the environment, reducing carbon emissions and promoting sustainable travel. 
 
-#### Patente, Arzneimittel und Gesundheit
+### Simple Rules and Smart Technologies 
 
-Wir PIRATEN sind gegen den häufigen Missbrauch von Patentrechten, wie die Einführung von minimalen Veränderungen von Medikamenten, deren Patentschutz ausläuft, um hierdurch den Patentschutz zu verlängern. Wettbewerbsfeindliche Praktiken wie Geldzahlungen an Konkurrenten, damit sie die Vermarktung von Generika verzögern, sollten aktiv verhindert werden.
+European transport rules are full of exceptions. In order to get these rules aligned, competitive salary and working conditions for all professional drivers across the continent must be implemented, including truck driving ban harmonization. We support progressive legislation for autonomous, driverless cars to settle liability issues and keep the EU on the top of the automotive innovation ladder. Different modes of transport should be made legally equal, have a transparent system of subsidies, and their cost should reflect all applicable externalities. 
 
-Wir befürworten den Aufbau und die Finanzierung von Alternativmethoden, einen Anreiz für pharmazeutische Innovation zu schaffen, um so Patente in diesem Bereich zunehmend zu ersetzen. Es ist unser Ziel, den direkten Zusammenhang zwischen der Belohnung für Fortschritte und dem Preis des Endprodukts aufzubrechen, um zu gewährleisten, dass Medikamente für alle erschwinglich sind.
+#### Big Brother on the Road 
 
-Universitäten und Forschungsinstitute sollen zum Zwecke der wissenschaftlichen Forschung in den Bereichen Gesundheit und Medizin nicht durch Patente belastet werden.
+We aim for a single, publicly controlled, easy-to-use toll satellite system for commercial transport on highways, allowing the use of open-source apps, enabling the processing of anonymized big data, and thus improving both municipal and interstate traffic management. We insist that eCall and other similar movement recording devices remain optional and their data strictly anonymous so that participation in any such transport monitoring activity remains a transparent tool of choice with public benefits rather than a compulsory means of government surveillance using outsourced contractors and opaque control mechanisms. 
 
-#### Internationale Regulierung geistiger Monopole
+#### Ride-hailing Legislation 
 
-Wir PIRATEN streben eine Revision des TRIPS-Abkommens an, durch die Monopole auf immaterielle Güter beschränkt werden sollen. Wir werden uns für solche Beschränkungen bei allen Handelsabkommen einsetzen, die vergleichbare oder sogar weitergehende Regelungen zu Patenten und Urheberrechten enthalten.
-
-### Internationale Handelspolitik
-
-#### Grundsätze für Handelsabkommen
-
-Wir PIRATEN machen es zur Auflage, dass bei allen Verhandlungen der Europäischen Union über Handelsabkommen die folgenden Bedingungen erfüllt sein müssen:
-
--   Stärkere Beteiligung des Europäischen Parlaments;
--   Umfassender Zugang zu Informationen und öffentlichen Anhörungen;
--   Achtung der Selbstbestimmung und der Privatsphäre, und
--   die Berücksichtigung der Interessen von kleinen und mittelgroßen Unternehmen.
-
-##### Stärkere Beteiligung des Europäischen Parlaments
-
-Handelsabkommen enthalten wichtige politische Entscheidungen, die nach ihrer Verabschiedung nur noch schwer zu ändern sind. Daher sollte das Europäische Parlament als einziges Organ in der EU mit direktem demokratischen Mandat bei der Handelspolitik in gleichberechtigter Weise neben der Europäischen Kommission eingebunden sein.
-
-Das Europäische Parlament sollte durch seinen Ausschuss für Internationalen Handel (INTA) als gleichberechtigter Partner der Europäischen Kommission an den Verhandlungen von Handelsabkommen teilnehmen.
-
-##### Umfassender Zugang zu Informationen und öffentlichen Anhörungen
-
-Alle Dokumente zu den Verhandlungen über Handelsabkommen sollen sowohl dem Europäischen Parlament als auch der Öffentlichkeit zugänglich gemacht werden. Alle Verhandlungen und Anhörungen der Interessengruppen sollen öffentlich durchgeführt werden. Wir fordern, dass alle Ergebnisse der Konsultationen, insbesondere Stellungnahmen von Interessengruppen, unverzüglich und vollständig veröffentlicht werden.
-
-##### Achtung der Selbstbestimmung und der Privatsphäre
-
-Wir PIRATEN betrachten das Recht auf Privatsphäre und Selbstbestimmung der Menschen als eine Selbstverständlichkeit. Daher muss es auch im Zusammenhang mit Handelsabkommen respektiert und gefördert werden.
-
-Da diese Grundsätze für alle Menschen gelten, muss die EU sicherstellen, dass sie auch von ihren Handelspartnern nicht gebrochen werden dürfen.
-
-##### Berücksichtigung der Interessen der kleinen und mittelgroßen Unternehmen
-
-Im Moment berücksichtigen Handelsabkommen vor allem die Interessen der global handelnden großen Unternehmen, während die kleinen und mittleren Unternehmen selten davon profitieren. Stattdessen werden KMU's hierdurch zunehmend vom Markt verdrängt. Wir wollen das ändern.
-
-### Netzpolitik
-
-Die digitale Revolution hat die sozialen und wirtschaftlichen Strukturen in ganz Europa verändert. Freier und gleicher Zugang zum Internet ist heute eine Grundvoraussetzung für die zivilgesellschaftliche Teilnahme.
-
-Jeder Bürger sollte die Möglichkeit haben, auch anonym Zugang zum Internet zu erhalten.
-
-Wir PIRATEN wollen ein Recht auf "digitale Teilhabe" in die Europäische Charta der Grundrechte mit aufnehmen.
-
-#### Netzneutralität
-
-Das Prinzip der Netzneutralität muss zu Europäischem Recht erhoben werden, um starke Anreize für Investitionen, fairen Wettbewerb und die Gleichbehandlung Aller im digitalen Raum zu setzen.
-
-Jeder muss Zugang zu einer Internetverbindung erhalten können, die keinen Dienstleister oder Wettbewerber diskriminiert und von keinem diskriminiert wird. Maßnahmen zum Management des Internetdatenverkehrs sollen nur aus technischen Gründen in besonderen Ausnahmefällen gestattet werden. Sie müssen zudem in einer nachvollziehbaren und transparenten Art und Weise durchgeführt werden.
-
-Diskriminierungsfreier Zugang zum Internet muss in der gesamten EU sichergestellt sein. Wir lehnen Maßnahmen der Telekommunikationsgesellschaften ab, welche den freien Zugang einschränken oder gefährden.
-
-Wir beziehen uns dabei speziell auf aktuelle Vorschläge der EU-Kommission ("Kroes Telekom-Paket"), welche aufgrund der Lobbyarbeit von Providern und Telekommunikationsunternehmen keine rechtliche Verpflichtung beinhalten, das Prinzip der Netzneutralität zu gewährleisten.
-
-#### Ausbau der Netzinfrastruktur
-
-Wir PIRATEN unterstützen nachdrücklich den europaweiten Ausbau modernster Kommunikationsinfrastruktur. Unser Ziel ist es, Breitbandzugang für alle Einwohner der EU vorzuhalten.
-
-Beim Ausbau und Modernisierung der Netze muss aber die Schaffung von Infrastrukturmonopolen unbedingt vermieden werden.
+Large EU metropolitan areas are currently in legal limbo regarding the ride-hailing apps (e.g. Taxify, UBER), thereby hindering further research and development of those projects. We believe that the legislation has to reflect the current technology development and that one common framework for ride-hailing apps needs to exist on the EU level, allowing precise satellite navigation and similar technologies to be recognized as a certified system for calculating distances. Legalizing ride-hailing apps will greatly benefit rural areas and less wealthy individuals and offer more certainty to gig workers.
