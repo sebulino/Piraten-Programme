@@ -1,8 +1,8 @@
 # Wahlprogramm zur Bundestagswahl 2025 der Piratenpartei Deutschland
 
-# **Freiheit und Grundrechte** {#freiheit_und_grundrechte}
+# **Freiheit und Grundrechte**
 
-## Privatsphäre wahren, Datenschutz und informationelle Selbstbestimmung stärken {#privatsphäre_wahren_datenschutz_und_informationelle_selbstbestimmung_stärken}
+## Privatsphäre wahren, Datenschutz und informationelle Selbstbestimmung stärken
 
 Wir PIRATEN setzen uns für einen starken Datenschutz und das Prinzip der informationellen Selbstbestimmung ein. Dies umfasst nicht nur die sparsame Erhebung, zweckgebundene Verarbeitung und Nutzung sowie die eingeschränkte Weitergabe von personenbezogenen Daten, sondern ebenso die Stärkung der Rechte des Einzelnen, grundsätzlich selbst über die Preisgabe und Verwendung personenbezogener Daten zu bestimmen. Im Sinne des Prinzips der Informationssicherheit muss die Vertraulichkeit bei Übertragung und Zugriff sowie die Integrität der gespeicherten Daten gewährleistet sein.
 
@@ -10,7 +10,7 @@ Wir lehnen die verdachtsunabhängige Durchleuchtung der Bürgerinnen und Bürger
 
 Damit auch in der Informationsgesellschaft die Privatsphäre gewahrt bleibt, streben wir die Umsetzung der folgenden Maßnahmen an:
 
-### Gesetzes-TÜV im Bundestag {#gesetzes_tüv_im_bundestag}
+### Gesetzes-TÜV im Bundestag
 
 Die Piratenpartei setzt sich für eine unabhängige wissenschaftliche Überprüfung bestehender und zukünftiger Inhalte von Beschlüssen des Bundestages ein. Indem wir eine unabhängige Institution schaffen, die frei von Wirtschafts- und Parteiinteressen neue Gesetzesvorhaben überprüft, werden die Bürgerrechte gestärkt und die Chance, dass zukünftige Gesetze sicher verfassungskonform erlassen werden, steigt.
 
