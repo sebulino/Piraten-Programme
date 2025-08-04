@@ -682,7 +682,7 @@ An adequate level of health care can only be provided if the health care workers
 
 Health care costs should either be paid for by public funds, public health insurance, or a combination of both. Health insurance should be mandatory, affordable for all EU citizens regardless of income level, and coordinated between EU countries. 
 
-## Availability & Comfort of the Patient 
+### Availability & Comfort of the Patient 
 
 The Pirates want equal access to health care for every inhabitant of the EU, irrespective of the resources available to a state, and support: 
 
@@ -861,7 +861,9 @@ Additionally, by expanding and improving rail networks, we can offer faster and 
 
 ### Green cities 
 
-Shared mobility and Energy Laziness Alternative fuels cannot save our planet while we continue to waste energy. We support the Shared Mobility Principles for Livable Cities Initiative: if you can walk somewhere, you should not drive, and if you can drive together, you should not ride solo. 
+#### Shared mobility and Energy Laziness 
+
+Alternative fuels cannot save our planet while we continue to waste energy. We support the Shared Mobility Principles for Livable Cities Initiative: if you can walk somewhere, you should not drive, and if you can drive together, you should not ride solo. 
 
 These principles aim to increase public transportation usage, decrease the number of cars on the road, prioritize pedestrians and bicycles in green cities, and even save us billions of euros daily in productive time when commuters are stuck in traffic jams. 
 
