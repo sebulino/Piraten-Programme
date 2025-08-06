@@ -1,5 +1,7 @@
-# Landwirtschaft, Forstwirtschaft und Fischerei
----------------------------------------------
+# Grundsatzprogramm der Piratenpartei Deutschland
+Datum: Januar 2025
+
+## Landwirtschaft, Forstwirtschaft und Fischerei 
 
 Wir wollen eine Landwirtschaft, Forstwirtschaft und Fischerei, die den Erhalt der natürlichen Ressourcen in den Mittelpunkt stellt. Der Boden ist unsere Lebensgrundlage und kann nicht beliebig vermehrt werden. Auf sauberes Wasser und reine Luft können wir nicht verzichten. Patente auf Lebewesen darf es nicht geben.
 
@@ -17,4 +19,6 @@ Die Tierhaltungsbedingungen und Produktionsprozesse müssen sich an den Lebensbe
 
 ### Agrarsubventionen
 
-Wir wollen, dass auf Bundes- und EU-Ebene keine öffentlichen Gelder in Form von Agrarsubventionen ohne Gegenleistung in den Bereichen Klima-, Umwelt-, Natur- sowie Tier- und Artenschutz vergeben werden.
+Wir wollen, dass auf Bundes- und EU-Ebene keine öffentlichen Gelder in Form von Agrarsubventionen ohne Gegenleistung in den Bereichen Klima-, Umwelt-, Natur- sowie Tier- und Artenschutz vergeben werden. 
+
+

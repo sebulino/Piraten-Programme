@@ -1,5 +1,7 @@
-# Kunst und Kultur
-----------------
+# Grundsatzprogramm der Piratenpartei Deutschland
+Datum: Januar 2025
+
+## Kunst und Kultur 
 
 ### Kulturpolitik
 
@@ -14,3 +16,5 @@ Wir setzen uns zum Ziel, allen Menschen die Teilhabe an Kultur zu ermöglichen, 
 Wir verstehen kulturelle Bildung als lebensbegleitenden Möglichkeitsraum, in dem Kunst und Kultur erlebt, erfahren und ausprobiert werden kann. Diesen Raum gilt es nicht nur in der institutionellen Bildung zu verteidigen und auszubauen, sondern überall da, wo wir gemeinsam Kulturerfahrungen machen.
 
 Das Internet und die zunehmende Virtualisierung erweitern den Möglichkeitsraum der kulturellen Erfahrung. Wir Piraten treiben die Entwicklung neuer Modelle der Partizipation, neuer Freiheiten des Wissens, und neuer Ideen der Vernetzung voran. Dabei setzen wir uns auch in der Kulturpolitik für Demokratisierung, Mitgestaltung und Transparenz ein.
+
+

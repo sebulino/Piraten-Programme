@@ -1,6 +1,6 @@
-# Parteiprogramm — Grundsatzprogramm der Piratenpartei Deutschland
+# Grundsatzprogramm der Piratenpartei Deutschland
 
-Stand Januar 2025
+Datum: Januar 2025
 
 ## Präambel
 

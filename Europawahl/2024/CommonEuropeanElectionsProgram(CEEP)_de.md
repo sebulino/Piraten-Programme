@@ -1,4 +1,7 @@
-# Gemeinsames Europäisches Wahlprogramm (CEEP) der Piratenparteien zur Europawahl 2024 - deutsche Übersetzung
+# Gemeinsames Europäisches Wahlprogramm (CEEP) - deutsche Übersetzung
+
+Datum: Dezember 2023
+
 Die englische Version ist die bindende.
 
 

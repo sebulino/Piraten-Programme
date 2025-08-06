@@ -1,7 +1,9 @@
-# Arbeit und Soziales
--------------------
+# Grundsatzprogramm der Piratenpartei Deutschland
+Datum: Januar 2025
 
-### Recht auf sichere Existenz und gesellschaftliche Teilhabe
+## Arbeit und Soziales 
+
+### Recht auf sichere Existenz und gesellschaftliche Teilhabe 
 
 Die Würde des Menschen zu achten und zu schützen ist das wichtigste Gebot des Grundgesetzes. Ein Mensch kann nur in Würde leben, wenn für seine Grundbedürfnisse gesorgt und ihm gesellschaftliche Teilhabe in allen Bereichen möglich ist. Deswegen steht die Piratenpartei zu dem aus dem Grundgesetz abgeleiteten, bestehenden Recht eines jeden auf sichere Existenz und gesellschaftliche Teilhabe.
 
@@ -17,7 +19,7 @@ Die Piratenpartei ist der Überzeugung, dass der Digitale Wandel das bisherige W
 
 Die Piratenpartei will alle bestehenden Rentensysteme, berufsständischen Versorgungssysteme und Pensionen im öffentlichen Dienst zu einer Rentenkasse zusammenführen. Alle steuerpflichtigen Einkommen und Kapitalerträge werden zur Zahlung von Rentenbeiträgen verpflichtet. Dabei sollen sich die Rentenbezüge innerhalb einer Mindest- und Maximalrente bewegen. Die Rentenkasse ist für die Rente zweckgebunden.
 
-#### Grundsätzliche Vorgehensweise zur Grundrente
+#### Grundsätzliche Vorgehensweise zur Grundrente 
 
 Alle bestehenden Rentensysteme, berufsständische Versorgungssysteme und Pensionen im öffentlichen Dienst werden zu einer Rentenkasse zusammengeführt.
 
@@ -30,3 +32,4 @@ Die Rentenbezüge bewegen sich in einem Korridor von Mindest- bis Maximalrente.
 Die Renten werden jährlich um einen Faktor, der die Inflationsrate berücksichtigt angepasst. Dieser Faktor berücksichtigt außerdem die Änderung weiterer Kosten, wie zum Beispiel Gesundheitskosten.
 
 Die staatliche Rentenkasse verwaltet sich eigenverantwortlich, ohne direkten Zugriff durch den Staat. Der Staat schafft den gesetzlichen Rahmen. Die Rentenkasse ist für die Rente zweckgebunden!
+
