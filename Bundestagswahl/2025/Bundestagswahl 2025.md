@@ -1,5 +1,5 @@
 # Wahlprogramm zur Bundestagswahl 2025 der Piratenpartei Deutschland
-_Januar 2025_
+Datum: Januar 2025
 
 ## **Freiheit und Grundrechte**
 
