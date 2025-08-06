@@ -1,6 +1,6 @@
 # Grundsatzprogramm der Piratenpartei Deutschland
 
-Datum: Januar 2025
+Datum: Juli 2025
 
 ## Präambel
 
@@ -246,6 +246,10 @@ Bei dieser rasanten Entwicklung darf niemand einfach zurückgelassen werden. Auc
 Die freie Kommunikation über digitale Netzwerke ermöglicht unserer Gesellschaft die klassischen Freiheitsrechte wie die Meinungsfreiheit und die freie Entfaltung der Persönlichkeit zu stärken. Sie schafft informierte Bürger und stärkt den demokratischen Diskurs, während neue Wirtschaftsbereiche entstehen und zum Wohlstand der Gesellschaft beitragen. Anstrengungen zur Etablierung freier Kommunikationsnetzwerke sind daher auch in anderen Ländern zu begrüßen und zu unterstützen. Sie ermöglichen weltweit demokratischere Regierungsformen, informiertere und tolerantere Gesellschaften und damit stabilere Strukturen. Der Aufbau freier Kommunikationsnetzwerke muss - wo immer sinnvoll - zu einem Teil der deutschen Entwicklungshilfe werden.
 
 Freie Kommunikationsnetzwerke werden weltweit immer wieder von Zensurbestrebungen bedroht. Diese richten sich dabei in der Regel gegen die eigene Bevölkerung und gegen die Freiheit der eigenen Bürger. Zensur darf auch in anderen Ländern in keinem Fall von der Bundesrepublik Deutschland unterstützt werden. Die technischen Voraussetzungen dafür dürfen nicht selbst geschaffen und bei anderen nicht akzeptiert werden. Initiativen - politischer wie technischer Natur - zur Untergrabung von Filtersystemen sind im Rahmen außenpolitischer Möglichkeiten zu unterstützen.
+
+#### Modernisierung des Öffentlichkeitsgebotes
+
+Die Piraten fordern eine Modernisierung des Öffentlichkeitsgebotes von Kommunalvertretungen. Bis auf wenige Ausnahmen ist die Öffentlichkeit von Sitzungen herzustellen, um Transparenz und Teilhabe zu ermöglichen. Die Digitalisierung ermöglicht, die bisherige althergebrachte Saalöffentlichkeit erheblich zu erweitern, wenn die Sitzungen gestreamt und später abrufbar werden. Das Öffentlichkeitsgebot von Gemeinderatssitzungen hat heute eine größere Bedeutung als noch vor einigen Jahrzehnten. Die Sitzungen des Gemeinderats sollten grundsätzlich öffentlich sein und für die Bürgerinnen und Bürger zugänglich sein, sei es physisch vor Ort oder digital über Livestreams oder Aufzeichnungen. Veröffentlichung von Informationen: Entscheidungsdokumente, Tagesordnungen, Protokolle und andere relevante Unterlagen sollten öffentlich zugänglich gemacht werden, idealerweise online auf der Website der Gemeinde. Es sollten Mechanismen zur aktiven Beteiligung der Bürgerinnen und Bürger an den Entscheidungsprozessen geschaffen werden, wie zum Beispiel Bürgerforen, Bürgerversammlungen oder Online-Konsultationen.
 
 
 ## Bildung und Forschung
