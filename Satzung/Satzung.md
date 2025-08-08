@@ -1,141 +1,230 @@
 # Satzung
 
-_Letzter Stand: Geändert auf dem Bundesparteitag 2018.2_
+## Abschnitt A: Grundlagen {#abschnitt_a_grundlagen}
 
+### § 1 - Name, Sitz und Tätigkeitsgebiet {#name_sitz_und_tätigkeitsgebiet}
+(1) 
+Die Piratenpartei Deutschland (PIRATEN) ist eine Partei im Sinne des Grundgesetzes der Bundesrepublik Deutschland und des Parteiengesetzes.
+Sie vereinigt Piraten ohne Unterschied der Staatsangehörigkeit, des Standes, der Herkunft, der ethnischen Zugehörigkeit, des Geschlechts, der sexuellen Orientierung und des Bekenntnisses, die beim Aufbau und Ausbau eines demokratischen Rechtsstaates und einer modernen freiheitlichen Gesellschaftsordnung geprägt vom Geiste sozialer Gerechtigkeit mitwirken wollen.
+Totalitäre, diktatorische und faschistische Bestrebungen jeder Art lehnt die Piratenpartei Deutschland entschieden ab.
 
-## Abschnitt A: Grundlagen
----
+(2)  
+Die Piratenpartei Deutschland führt einen Namen und eine Kurzbezeichnung.
+Der Name lautet: Piratenpartei Deutschland.
+Die offizielle Abkürzung des Parteinamens lautet: PIRATEN.
+Landesverbände führen den Namen Piratenpartei Deutschland verbunden mit dem Namen des jeweiligen Bundeslandes.
 
+(3)  
+Der Sitz der Partei ist Berlin.
 
+(4)  
+Das Tätigkeitsgebiet der Piratenpartei Deutschland ist die Bundesrepublik Deutschland.
 
-### § 1 - Name, Sitz und Tätigkeitsgebiet
+(5)  
+Die in der Piratenpartei Deutschland organisierten Mitglieder werden geschlechtsneutral als Piraten bezeichnet.
 
- <span id="A.1.1">(1)</span> Die Piratenpartei Deutschland (PIRATEN) ist eine Partei im Sinne des Grundgesetzes der Bundesrepublik Deutschland und des Parteiengesetzes. Sie vereinigt Piraten ohne Unterschied der Staatsangehörigkeit, des Standes, der Herkunft, der ethnischen Zugehörigkeit, des Geschlechts, der sexuellen Orientierung und des Bekenntnisses, die beim Aufbau und Ausbau eines demokratischen Rechtsstaates und einer modernen freiheitlichen Gesellschaftsordnung geprägt vom Geiste sozialer Gerechtigkeit mitwirken wollen. Totalitäre, diktatorische und faschistische Bestrebungen jeder Art lehnt die Piratenpartei Deutschland entschieden ab.
-
-<span id="A.1.2">(2)</span> Die Piratenpartei Deutschland führt einen Namen und eine Kurzbezeichnung. Der Name lautet: Piratenpartei Deutschland. Die offizielle Abkürzung des Parteinamens lautet: PIRATEN. Landesverbände führen den Namen Piratenpartei Deutschland verbunden mit dem Namen des jeweiligen Bundeslandes.
-
-<span id="A.1.3">(3)</span> Der Sitz der Partei ist Berlin.
-
-<span id="A.1.4">(4)</span> Das Tätigkeitsgebiet der Piratenpartei Deutschland ist die Bundesrepublik Deutschland.
-
-<span id="A.1.5">(5)</span> Die in der Piratenpartei Deutschland organisierten Mitglieder werden geschlechtsneutral als Piraten bezeichnet.
-
-<span id="A.2">
 
 ### § 2 - Mitgliedschaft
 
-</span> <span id="A.2.1">(1)</span> Mitglied der Piratenpartei Deutschland kann jede/r werden, der/die das 14. Lebensjahr vollendet hat und die Grundsätze sowie die Satzung der Piratenpartei Deutschland anerkennt.
+  
+(1)  
+Mitglied der Piratenpartei Deutschland kann jede/r werden, der/die das 14. Lebensjahr vollendet hat und die Grundsätze sowie die Satzung der Piratenpartei Deutschland anerkennt.
 
-<span id="A.2.2">(2)</span> Mitglied der Piratenpartei Deutschland können nur natürliche Personen sein. Die Bundespartei führt ein zentrales Piratenverzeichnis.
+(2)  
+Mitglied der Piratenpartei Deutschland können nur natürliche Personen sein.
+Die Bundespartei führt ein zentrales Piratenverzeichnis.
 
-<span id="A.2.3">(3)</span> Die gleichzeitige Mitgliedschaft in der Piratenpartei Deutschland und bei einer anderen (mit ihr im Wettbewerb stehenden) Partei oder Wählergruppe ist nicht ausgeschlossen. Die Mitgliedschaft in einer Organisation oder Vereinigung, deren Zielsetzung den Zielen der Piratenpartei Deutschland widerspricht, ist nicht zulässig.
+(3)  
+Die gleichzeitige Mitgliedschaft in der Piratenpartei Deutschland und bei einer anderen (mit ihr im Wettbewerb stehenden) Partei oder Wählergruppe ist nicht ausgeschlossen.
+Die Mitgliedschaft in einer Organisation oder Vereinigung, deren Zielsetzung den Zielen der Piratenpartei Deutschland widerspricht, ist nicht zulässig.
 
-<span id="A.3">
+### § 3 - Erwerb der Mitgliedschaft {#erwerb_der_mitgliedschaft}
 
-### § 3 - Erwerb der Mitgliedschaft
+  
+(1)  
+Die Mitgliedschaft in der Piratenpartei Deutschland wird auf Grundlage dieser Satzung erworben.
+Die Mitgliedschaft wird zunächst unmittelbar bei der Bundespartei erworben.
+Nach der Gründung niederer Gliederungen wird
 
-</span> <span id="A.3.1">(1)</span> Die Mitgliedschaft in der Piratenpartei Deutschland wird auf Grundlage dieser Satzung erworben. Die Mitgliedschaft wird zunächst unmittelbar bei der Bundespartei erworben. Nach der Gründung niederer Gliederungen wird
+1. die Mitgliedschaft bei der niedrigsten Parteigliederung erworben, die den nach [Abs. 3 Satz 2](#A.3.3 "Abs. 3 Satz 2"){.wikilink} bestimmten Wohnort umfasst.
+2. jeder Pirat entsprechend seinem angezeigten Wohnsitz automatisch Mitglied dieser Gliederung.
 
-1.  <span id="A.3.1.1"></span>die Mitgliedschaft bei der niedrigsten Parteigliederung erworben, die den nach [Abs. 3 Satz 2](#A.3.3 "wikilink") bestimmten Wohnort umfasst.
-2.  <span id="A.3.1.2"></span>jeder Pirat entsprechend seinem angezeigten Wohnsitz automatisch Mitglied dieser Gliederung.
+(2)  
+Über die Aufnahme entscheidet der Vorstand der zuständigen Gliederung, so lange die Satzung der Gliederung nichts anderes bestimmt. Aufnahmeanträge von ehemaligen Piraten, die rechtswirksam aus der Partei ausgeschlossen wurden, oder die während eines gegen sie gerichteten Parteiausschlussverfahrens die Partei verlassen haben, sowie Aufnahmeanträge von Personen von denen ein früherer Aufnahmeantrag abgelehnt wurde, müssen zusätzlich vom Bundesvorstand genehmigt werden. Der Bundesvorstand soll dabei die zuständige Gliederung anhören. Die Mitgliedschaft beginnt nach Annahme des Aufnahmeantrages mit der Entrichtung des ersten Mitgliedsbeitrages.
 
-<span id="A.3.2">(2)</span> Über die Aufnahme entscheidet der Vorstand der zuständigen Gliederung, so lange die Satzung der Gliederung nichts anderes bestimmt. Aufnahmeanträge von ehemaligen Piraten, die rechtswirksam aus der Partei ausgeschlossen wurden, oder die während eines gegen sie gerichteten Parteiausschlussverfahrens die Partei verlassen haben, sowie Aufnahmeanträge von Personen von denen ein früherer Aufnahmeantrag abgelehnt wurde, müssen zusätzlich vom Bundesvorstand genehmigt werden. Der Bundesvorstand soll dabei die zuständige Gliederung anhören. Die Mitgliedschaft beginnt nach Annahme des Aufnahmeantrages mit der Entrichtung des ersten Mitgliedsbeitrages.
+(2a)  
+Jeder Pirat gehört grundsätzlich der Parteigliederung an, in dessen Zuständigkeitsgebiet er seinen Wohnsitz hat.
+Bei nachvollziehbaren Gründen, die den Organisationsinteressen nicht entgegen stehen, kann der Pirat die Zugehörigkeit in einer Parteigliederung seiner Wahl frei bestimmen.
+Der Antrag zur Aufnahme in eine andere Gliederung erfolgt in Schriftform und wird von der nächsthöheren Gliederung entschieden.
+Ein ablehnender Bescheid muss in Schriftform begründet werden und kann im Einspruchsverfahren zur letzten Entscheidung dem Schiedsgericht vorgelegt werden.
 
-<span id="A.3.2a">(2a)</span> Jeder Pirat gehört grundsätzlich der Parteigliederung an, in dessen Zuständigkeitsgebiet er seinen Wohnsitz hat. Bei nachvollziehbaren Gründen, die den Organisationsinteressen nicht entgegen stehen, kann der Pirat die Zugehörigkeit in einer Parteigliederung seiner Wahl frei bestimmen. Der Antrag zur Aufnahme in eine andere Gliederung erfolgt in Schriftform und wird von der nächsthöheren Gliederung entschieden. Ein ablehnender Bescheid muss in Schriftform begründet werden und kann im Einspruchsverfahren zur letzten Entscheidung dem Schiedsgericht vorgelegt werden.
+(2b)  
+Der Vorstand des zuständigen Landesverbandes ist berechtigt über die Mitgliedschaft selbstständig zu entscheiden, wenn von der zuständigen Untergliederung innerhalb von 4 Wochen keine Rückmeldung über die Aufnahme oder Ablehnung des Antragsstellers an den Landesvorstand vorliegt. Nach 2 Monaten ohne jegliche Rückmeldung des zuständigen Landesvorstandes an die Bundesmitgliederverwaltung per E-Mail darf der Bundesvorstand über die Aufnahme entscheiden.
 
-<span id="A.3.2b">(2b)</span> Mit der Aufnahme in eine andere Gliederung verliert der Pirat das aktive und passive Wahlrecht in der alten Gliederung. Eventuell bekleidete Posten müssen freigegeben werden. Doppelmitgliedschaften sind unzulässig.
+(2b)  
+Mit der Aufnahme in eine andere Gliederung verliert der Pirat das aktive und passive Wahlrecht in der alten Gliederung.
+Eventuell bekleidete Posten müssen freigegeben werden.
+Doppelmitgliedschaften sind unzulässig.
 
-<span id="A.3.3">(3)</span> Die Aufnahme setzt voraus, dass der/die BewerberIn im Bereich der aufnehmenden Gliederung einen Wohnsitz hat und nicht schon Pirat ist. Hat ein Pirat mehrere Wohnsitze, bestimmt er selbst, wo er Pirat ist.
+(3)  
+Die Aufnahme setzt voraus, dass der/die BewerberIn im Bereich der aufnehmenden Gliederung einen Wohnsitz hat und nicht schon Pirat ist.
+Hat ein Pirat mehrere Wohnsitze, bestimmt er selbst, wo er Pirat ist.
 
-<span id="A.3.4">(4)</span> Bei einem Wohnsitzwechsel in das Gebiet einer anderen Gliederung geht die Mitgliedschaft über, sofern der Pirat nicht angibt, in seiner bisherigen Gliederung bleiben zu wollen. Der Pirat hat den Wohnsitzwechsel unverzüglich der zuständigen Mitgliederverwaltung anzuzeigen.
+(4)  
+Bei einem Wohnsitzwechsel in das Gebiet einer anderen Gliederung geht die Mitgliedschaft über, sofern der Pirat nicht angibt, in seiner bisherigen Gliederung bleiben zu wollen. Der Pirat hat den Wohnsitzwechsel unverzüglich der zuständigen Mitgliederverwaltung anzuzeigen.
 
-<span id="A.3.5">(5)</span> Über Aufnahmeanträge von Personen, die ihren Wohnsitz außerhalb Deutschlands haben, entscheidet der Bundesvorstand.
+(5)  
+Über Aufnahmeanträge von Personen, die ihren Wohnsitz außerhalb Deutschlands haben, entscheidet der Bundesvorstand.
 
-<span id="A.3.6">(6)</span> Jeder Pirat erhält einen Mitgliedsausweis.
+(6)  
+Jeder Pirat erhält einen Mitgliedsausweis.
 
-<span id="A.4">
 
-### § 4 - Rechte und Pflichten der Piraten
+### § 4 - Rechte und Pflichten der Piraten {#rechte_und_pflichten_der_piraten}
 
-</span> <span id="A.4.1">(1)</span> Jeder Pirat hat das Recht und die Pflicht, im Rahmen dieser Satzung und der Satzung seines Landesverbandes die Zwecke der Piratenpartei Deutschland zu fördern und sich an der politischen und organisatorischen Arbeit der Piratenpartei Deutschland zu beteiligen. Jeder Pirat hat das Recht an der politischen Willensbildung, an Wahlen und Abstimmungen im Rahmen der Satzung teilzunehmen. In Vorstandspositionen der Piratenpartei Deutschland dürfen nur Mitglieder der Piratenpartei Deutschland gewählt werden; in Vorstandspositionen der nachgeordneten Gliederungen dürfen nur Mitglieder der Piratenpartei der entsprechenden Gliederung gewählt werden. (Passives Wahlrecht). Für den Bundesvorstand ist die Mitgliedschaft in einer weiteren Partei ausgeschlossen. Bei der Kandidatur für ein Amt sind bereits bekleidete Ämter bekanntzugeben.
+  
+(1)  
+Jeder Pirat hat das Recht und die Pflicht, im Rahmen dieser Satzung und der Satzung seines Landesverbandes die Zwecke der Piratenpartei Deutschland zu fördern und sich an der politischen und organisatorischen Arbeit der Piratenpartei Deutschland zu beteiligen.
+Jeder Pirat hat das Recht an der politischen Willensbildung, an Wahlen und Abstimmungen im Rahmen der Satzung teilzunehmen.
+In Vorstandspositionen der Piratenpartei Deutschland dürfen nur Mitglieder der Piratenpartei Deutschland gewählt werden; in Vorstandspositionen der nachgeordneten Gliederungen dürfen nur Mitglieder der Piratenpartei der entsprechenden Gliederung gewählt werden. (Passives Wahlrecht).
+Für den Bundesvorstand ist die Mitgliedschaft in einer weiteren Partei ausgeschlossen.
+Bei der Kandidatur für ein Amt sind bereits bekleidete Ämter bekanntzugeben.
 
-<span id="A.4.2">(2)</span> Interna können per mehrheitlichem Beschluss als Verschlusssache deklariert werden. Über Verschlusssachen ist Verschwiegenheit zu wahren. Verschlusssachen können per mehrheitlichem Beschluss von diesem Status befreit werden.
+(2)  
+Interna können per mehrheitlichem Beschluss als Verschlusssache deklariert werden.
+Über Verschlusssachen ist Verschwiegenheit zu wahren.
+Verschlusssachen können per mehrheitlichem Beschluss von diesem Status befreit werden.
 
-<span id="A.4.3">(3)</span> Alle Piraten haben gleiches Stimmrecht.
+(3)  
+Alle Piraten haben gleiches Stimmrecht.
 
-<span id="A.4.4">(4)</span> Die Ausübung des Stimmrechts ist nur möglich, wenn der Pirat Mitglied des Gebietsverbandes ist, seinen ersten Mitgliedsbeitrag nach Eintritt geleistet hat, sowie mit seinen Mitgliedsbeiträgen nicht mehr als drei Monate im Rückstand ist. Auf Parteitagen ist die Ausübung des Stimmrechts nur möglich, wenn alle Mitgliedsbeiträge entrichtet wurden.
+(4)  
+Die Ausübung des Stimmrechts ist nur möglich, wenn der Pirat Mitglied des Gebietsverbandes ist und alle fälligen Mitgliedsbeiträge ab Eintritt entrichtet wurden.
 
-<span id="A.4.5">(5)</span> Jeder Pirat ist jederzeit zum sofortigen Austritt aus der Partei berechtigt (Textform erforderlich). Bereits bezahlte Beiträge werden nicht zurückerstattet. <span id="A.5">
+(5)  
+Jeder Pirat ist jederzeit zum sofortigen Austritt aus der Partei berechtigt (Textform erforderlich). Bereits bezahlte Beiträge werden nicht zurückerstattet.
 
-### § 5 - Beendigung der Mitgliedschaft
 
-</span> <span id="A.5.1">(1)</span> Die Mitgliedschaft endet durch Tod, Austritt, Streichung, Verlust oder Aberkennung der Wählbarkeit oder des Wahlrechts oder dem Ausschluss aus der Partei.
+### § 5 - Beendigung der Mitgliedschaft {#beendigung_der_mitgliedschaft}
 
-<span id="A.5.2">(2)</span> Bei Beendigung der Mitgliedschaft ist der Mitgliedsausweis zurückzugeben. Ein Anspruch auf Rückzahlung von Beiträgen besteht nicht.
+  
+(1)  
+Die Mitgliedschaft endet durch Tod, Austritt, Streichung, Verlust oder Aberkennung der Wählbarkeit oder des Wahlrechts oder dem Ausschluss aus der Partei.
 
-<span id="A.6">
+(2)  
+Bei Beendigung der Mitgliedschaft ist der Mitgliedsausweis zurückzugeben.
+Ein Anspruch auf Rückzahlung von Beiträgen besteht nicht.
 
 ### § 6 - Ordnungsmaßnahmen
 
-</span> <span id="A.6.1">(1)</span> Verstößt ein Pirat gegen die Satzung oder gegen Grundsätze oder Ordnung der Piratenpartei Deutschland und fügt ihr damit Schaden zu, so kann der Bundesvorstand folgende Ordnungsmaßnahmen anordnen: Verwarnung, Verweis, Enthebung von einem Parteiamt, Aberkennung der Fähigkeit ein Parteiamt zu bekleiden, Ausschluss aus der Piratenpartei Deutschland. Der Vorstand muss dem Mitglied vor dem Beschluss der Ordnungsmaßnahme eine Anhörung gewähren. Der Beschluss ist dem Mitglied in Schriftform unter Angabe von Gründen zu überstellen.
+(1)  
+Verstößt ein Pirat gegen die Satzung oder gegen Grundsätze oder Ordnung der Piratenpartei Deutschland und fügt ihr damit Schaden zu, so kann der Bundesvorstand folgende Ordnungsmaßnahmen anordnen: Verwarnung, Verweis, Enthebung von einem Parteiamt, zeitweiliger Ausschluss zur Ausübung einzelner, mehrerer oder aller Rechte aus der Mitgliedschaft für höchstens ein Jahr, Ausschluss aus der Piratenpartei Deutschland. Der Vorstand muss dem Mitglied vor dem Beschluss der Ordnungsmaßnahme eine Anhörung gewähren. Der Beschluss ist dem Mitglied in Schriftform unter Angabe von Gründen zu überstellen.
 
-<span id="A.6.2">(2)</span> Ein Pirat kann nur dann ausgeschlossen werden, wenn er vorsätzlich gegen die Satzung oder erheblich gegen die Grundsätze oder die Ordnung der Piratenpartei Deutschland verstößt und ihr damit schweren Schaden zufügt. Der Ausschluss wird vom Bundesvorstand beim zuständigen Schiedsgericht beantragt. In dringenden und schwerwiegenden Fällen, die sofortiges Eingreifen erfordern, kann der Vorstand das Mitglied von der Ausübung seiner Rechte bis zur Entscheidung des Schiedsgerichts ausschließen.
+(2)  
+Ein Pirat kann nur dann ausgeschlossen werden, wenn er vorsätzlich gegen die Satzung oder erheblich gegen die Grundsätze oder die Ordnung der Piratenpartei Deutschland verstößt und ihr damit schweren Schaden zufügt. Der Ausschluss wird vom Bundesvorstand beim zuständigen Schiedsgericht beantragt. In dringenden und schwerwiegenden Fällen, die sofortiges Eingreifen erfordern, kann der Vorstand das Mitglied von der Ausübung seiner Rechte bis zur Entscheidung des Schiedsgerichts ausschließen.
 
-<span id="A.6.3">(3)</span> Untergliederungen können in ihren Satzungen eigene Regelungen zu Ordnungsmaßnahmen treffen. Auch Ordnungsmaßnahmen einer Untergliederung wirken für die Gesamtpartei.
+(3)  
+Untergliederungen können in ihren Satzungen eigene Regelungen zu Ordnungsmaßnahmen treffen. Auch Ordnungsmaßnahmen einer Untergliederung wirken für die Gesamtpartei.
 
-<span id="A.6.4">(4)</span> Die Mitgliedschaft ruht im Falle eines Ausschlusses bis zum Abschluss eines möglichen Berufungsverfahrens.
+(4)  
+Die Mitgliedschaft ruht im Falle eines Ausschlusses bis zum Abschluss eines möglichen Berufungsverfahrens.
 
-<span id="A.6.5">(5)</span> Die parlamentarischen Gruppen der Piratenpartei Deutschland sind gehalten, einen rechtskräftig ausgeschlossenen oder einen ausgetretenen Piraten aus ihrer Gruppe auszuschließen.
+(5)  
+Die parlamentarischen Gruppen der Piratenpartei Deutschland sind gehalten, einen rechtskräftig ausgeschlossenen oder einen ausgetretenen Piraten aus ihrer Gruppe auszuschließen.
 
-<span id="A.6.6">(6)</span> Verstößt ein Gebietsverband schwerwiegend gegen die Grundsätze oder die Ordnung der Piratenpartei Deutschland sind folgende Ordnungsmaßnahmen gegen nachgeordnete Gebietsverbände sind möglich: Auflösung, Ausschluss, Amtsenthebung des Vorstandes nachgeordneter Gebietsverbände. Als schwerwiegender Verstoß gegen die Ordnung und die Grundsätze der Partei ist es zu werten, wenn die Gebietsverbände die Bestimmungen der Satzung beharrlich missachten, Beschlüsse übergeordneter Parteiorgane nicht durchführen oder in wesentlichen Fragen gegen die politische Zielsetzung der Partei handeln. Die Ordnungsmaßnahmen werden vom Vorstand eines höheren Gebietsverbandes getroffen. Die Mitgliederversammlung des die Ordnungsmaßnahme treffenden Gebietsverbandes hat die Ordnungsmaßnahme am nächsten Parteitag mit einfacher Mehrheit zu bestätigen, ansonsten tritt die Maßnahme außer Kraft. Gegen die Ordnungsmaßnahme ist die Anrufung des nach der Schiedsgerichtsordnung zuständigen Schiedsgerichtes zuzulassen.
+(6)  
+Verstößt ein Gebietsverband schwerwiegend gegen die Grundsätze oder die Ordnung der Piratenpartei Deutschland sind folgende Ordnungsmaßnahmen gegen nachgeordnete Gebietsverbände sind möglich: Auflösung, Ausschluss, Amtsenthebung des Vorstandes nachgeordneter Gebietsverbände.
+Als schwerwiegender Verstoß gegen die Ordnung und die Grundsätze der Partei ist es zu werten, wenn die Gebietsverbände die Bestimmungen der Satzung beharrlich missachten, Beschlüsse übergeordneter Parteiorgane nicht durchführen oder in wesentlichen Fragen gegen die politische Zielsetzung der Partei handeln.
+Die Ordnungsmaßnahmen werden vom Vorstand eines höheren Gebietsverbandes getroffen.
+Die Mitgliederversammlung des die Ordnungsmaßnahme treffenden Gebietsverbandes hat die Ordnungsmaßnahme am nächsten Parteitag mit einfacher Mehrheit zu bestätigen, ansonsten tritt die Maßnahme außer Kraft.
+Gegen die Ordnungsmaßnahme ist die Anrufung des nach der Schiedsgerichtsordnung zuständigen Schiedsgerichtes zuzulassen.
 
-<span id="A.6.7">(7)</span> Über die Ordnungsmaßnahmen i.S.d. § 6 Absatz 6 entscheidet der Bundesparteitag auf Antrag des Bundesvorstandes mit einfacher Mehrheit.
+(7)  
+Über die Ordnungsmaßnahmen i.S.d. § 6 Absatz 6 entscheidet der Bundesparteitag auf Antrag des Bundesvorstandes mit einfacher Mehrheit.
 
-<span id="A.6.8">(8)</span> Das Schiedsgericht kann statt der verhängten oder beantragten auch eine mildere Ordnungsmaßnahme aussprechen.
+(8)  
+Das Schiedsgericht kann statt der verhängten oder beantragten auch eine mildere Ordnungsmaßnahme aussprechen.
 
-<span id="A.7">
 
 ### § 7 - Gliederung
 
-</span> <span id="A.7.1">(1)</span> Die Piratenpartei Deutschland gliedert sich in Landesverbände. Die Landesverbände können nach ihren örtlichen Bedürfnissen Untergliederungen schaffen. Innerhalb der staatsrechtlichen Grenzen eines Landes gibt es nur einen Landesverband.
+  (1)  
+Die Piratenpartei Deutschland gliedert sich in Landesverbände.
+Die Landesverbände können nach ihren örtlichen Bedürfnissen Untergliederungen schaffen.
+Innerhalb der staatsrechtlichen Grenzen eines Landes gibt es nur einen Landesverband.
 
-<span id="A.7.2">(2)</span> Die weitere Untergliederung der Landesverbände erfolgt in Orts-, Kreis- und Bezirksverbände, die deckungsgleich mit den politischen Grenzen der Regierungsbezirke, Kreise, kreisfreien Städte und Gemeinden sind.
+(2)  
+Die weitere Untergliederung der Landesverbände erfolgt in Orts-, Kreis- und Bezirksverbände, die deckungsgleich mit den politischen Grenzen der Regierungsbezirke, Kreise, kreisfreien Städte und Gemeinden sind.
 
-<span id="A.7.3">(3)</span> Gebietsverbände und Auslandsgruppen sollen sich nicht wirtschaftlich betätigen, ausgenommen hiervon sind der Bundesverband und die Landesverbände.
+(3)  
+(entfallen)
 
-<span id="A.8">
+### § 7a - Mindestanforderungen an die Kommunikation der unmittelbar dem Bundesverband nachgeordneten Gliederungen an den Bundesverband {#a___mindestanforderungen_an_die_kommunikation_der_unmittelbar_dem_bundesverband_nachgeordneten_gliederungen_an_den_bundesverband}
 
-### § 8 - Bundespartei und Landesverbände
+(1)  
+Wenn eine unmittelbar dem Bundesverband nachgeordnete Gliederung zu einer Mitgliederversammlung einlädt, dann ist der Vorstand des Bundesverbandes hierüber unverzüglich zu informieren. Die Information hat den Wortlaut der Einladung, Zeitpunkt und Form des Versandes sowie die vorläufige Tagesordnung zu enthalten.
 
-</span> <span id="A.8.1">(1)</span> Die Landesverbände sind verpflichtet, alles zu tun, um die Einheit der Piratenpartei Deutschland zu sichern, sowie alles zu unterlassen, was sich gegen die Grundsätze, die Ordnung oder das Ansehen der Piratenpartei Deutschland richtet. Sie haben auch ihre Organe zu einer gleichen Verhaltensweise anzuhalten.
+(2)  
+Wenn eine unmittelbar dem Bundesverband nachgeordnete Gliederung eine Mitgliederversammlung durchgeführt hat, dann ist eine von Versammlungsleitung und Protokollierendem unterzeichnete Abschrift des Protokolls der Mitgliederversammlung beim Vorstand des Bundesverbandes zu hinterlegen. Dies hat innerhalb von zwei Wochen nach der Mitgliederversammlung zu erfolgen. Diese Frist kann durch den Vorstand des Bundesverbandes auf acht Wochen verlängert werden, wenn innerhalb der zweiwöchigen Frist eine Abschrift in Textform übersandt wird
 
-<span id="A.8.2">(2)</span> Verletzen Landesverbände, ihnen nachgeordnete Gebietsverbände oder Organe diese Pflichten, ist der Bundesvorstand berechtigt und verpflichtet, die Landesverbände zur Einhaltung dieser Pflichten aufzufordern.
+(3)  
+Sofern auf einer Mitgliederversammlung einer unmittelbar dem Bundesverband nachgeordneten Gliederung eine Vorstandswahl stattgefunden hat, sind dem Vorstand des Bundesverbandes die Namen und Mitgliedsnummern sowie Kommunikationsadressen (E-Mail und Telefonnummer) der Mitglieder des Gliederungsvorstandes unverzüglich mitzuteilen.
 
-<span id="A.9">
+(4)  
+Sofern Mitglieder eines Gliederungsvorstandes aus diesem Vorstand ausscheiden, ist dies dem Vorstand des Bundesverbandes unverzüglich durch den verbliebenen Vorstand anzuzeigen. Sollte der gesamte Vorstand zurücktreten, ist diese Mitteilung durch das Mitglied vorzunehmen, das bisher den Vorsitz des Gliederungsvorstandes innehatte.
 
-### § 9 - Organe der Bundespartei
+(5)  
+Wenn im Verbandsgebiet einer dem Bundesverband unmittelbar nachgeordneten Gliederung bzw. dieser nachgeordneten Gliederungen Ordnungsmaßnahmen angeordnet werden, dann hat sie unmittelbar nachgeordnete Gliederung hierüber den Vorstand des Bundesverbandes unverzüglich zu informieren. Diese Information enthält Angaben dazu, gegen wen die Ordnungsmaßnahme gerichtet ist, den Zeitpunkt der Anordnung und die Art und den Umfang der Ordnungsmaßnahme. Des Weiteren ist seitens des anordnenden Organs eine Dokumentation der mit der OM befassten Sitzungen mit ihren wesentlichen Inhalten zu übermitteln. Dabei muss aus der Dokumentation nachvollziehbar sein, in welchem Umfang den mit der Ordnungsmaßnahme Belegten Gelegenheit zu rechtlichem Gehör gewährt wurde und welche Abwägungen für den Beschluss zur Anordnung erheblich waren.
 
-</span> <span id="A.9.1">(1)</span> Organe sind der Vorstand, der Bundesparteitag, das Bundesschiedsgericht und die Gründungsversammlung.
+(6)  
+Die dem Bundesverband nachgeordneten Gliederungen haben geeignete Maßnahmen zu ergreifen, um ihrer Berichtspflicht nachkommen zu können. Sofern die jeweilige dem Bundesverband unmittelbar nachgeordnete Gliederung keine satzungsmäßige Verpflichtung ihrer Untergliederung geschaffen hat, tritt die Regelung nach §7a (5) erst zum 31.12.2020 in Kraft. Ab diesem Zeitpunkt gilt für alle Untergliederungen eines solchen Verbandes ohne eigene Satzungsregelung die Regelung nach §7a (5) in der Weise, dass sie der für sie zuständigen, dem Bundesverband unmittelbar nachgeordneten Gliederung in geeigneter Weise berichten, um diese in die Lage zu versetzten, den an den Bundesvorstand geschuldeten Bericht zu erstatten.
 
-<span id="A.9.2">(2)</span> Die Gründungsversammlung tagt nur einmal, und zwar am 10.09.2006.
 
-<span id="A.9a">
+### § 8 - Bundespartei und Landesverbände {#bundespartei_und_landesverbände}
 
-#### § 9a - Der Bundesvorstand
+  
+(1)  
+Die Landesverbände sind verpflichtet, alles zu tun, um die Einheit der Piratenpartei Deutschland zu sichern, sowie alles zu unterlassen, was sich gegen die Grundsätze, die Ordnung oder das Ansehen der Piratenpartei Deutschland richtet.
+Sie haben auch ihre Organe zu einer gleichen Verhaltensweise anzuhalten.
 
-</span> <span id="A.9a.1">(1)</span> Der Bundesvorstand besteht aus dem Vorsitzenden und dessen Stellvertreter, dem politischen Geschäftsführer und optional dessen Stellvertreter, dem Schatzmeister und optional dessen Stellvertreter, und dem Generalsekretär und dessen erstem, und optional zweitem Stellvertreter. Die Vorsitzenden und politischen Geschäftsführer sind für die politische Leitung und politische Außenvertretung, die Schatzmeister für die Finanzangelegenheiten, und die Generalsekretäre für die innerparteiliche Organisation und Verwaltung zuständig. Scheidet ein Amtsträger aus dem Vorstand aus, übernimmt dessen Stellvertreter sein Amt.
+(2)  
+Verletzen Landesverbände, ihnen nachgeordnete Gebietsverbände oder Organe diese Pflichten, ist der Bundesvorstand berechtigt und verpflichtet, die Landesverbände zur Einhaltung dieser Pflichten aufzufordern.
 
-<span id="A.9a.2">(2)</span> Zur Durchführung der Beschlüsse des Vorstandes sowie zur Erledigung der laufenden und der besonders dringlichen Vorstandsgeschäfte ist der Bundesvorsitzende allein berechtigt, die Piratenpartei Deutschland nach außen zu vertreten. Kann der Vorsitzende dieser Aufgabe nicht nachkommen, so geht die Vertretung auf den Stellvertreter über. Sollte dieser ebenfalls der Aufgabe nicht nachkommen können, so geht die Vertretung auf den Schatzmeister über. Die Vertretung gegenüber Banken und sonstsigen Kreditinstituten erfolgt durch den Schatzmeister und seine Stellvertreter; falls keine stellvertretenden Schatzmeister gewählt sind oder der Schatzmeister seinen Aufgaben nicht mehr nachkommen kann, zusätzlich durch den Vorsitzenden. Diese Personen haben diesbezüglich Alleinvertretungsrecht und können Untervollmachten erteilen. Er führt die Geschäfte auf Grundlage der Beschlüsse der Parteiorgane.
 
-<span id="A.9a.3">(3)</span> Die Mitglieder des Bundesvorstands werden vom Bundesparteitag mindestens einmal im Kalenderjahr gewählt. Der Bundesvorstand bleibt bis zur Wahl eines neuen Bundesvorstands im Amt. Ist ein Vorstandsamt durch Rücktritt oder eine geheim abzustimmende Abwahl unbesetzt, so kann dieses vom Bundesparteitag durch Nachwahl neu besetzt werden. Die Amtszeit eines nachgewählten Vorstandsmitgliedes endet spätestens mit der Neuwahl des Vorstandes.
+### § 9 - Organe der Bundespartei {#organe_der_bundespartei}
 
-<span id="A.9a.4">(4)</span> Der Bundesvorstand tritt mindestens zweimal jährlich zusammen. Er wird vom Bundesvorsitzenden oder bei dessen Verhinderung von einem seiner Stellvertreter schriftlich mit einer Frist von zwei Wochen unter Angabe der Tagesordnung und des Tagungsortes einberufen. Bei außerordentlichen Anlässen kann die Einberufung auch kurzfristiger erfolgen.
+(1)  
+Organe sind der Vorstand, der Bundesparteitag, das Bundesschiedsgericht, das Föderale Gericht und die Gründungsversammlung.
 
-<span id="A.9a.5">(5)</span> Auf Antrag eines Zehntels der Piraten kann der Bundesvorstand zum Zusammentritt aufgefordert und mit aktuellen Fragestellungen befasst werden.
+(2)  
+Die Gründungsversammlung tagt nur einmal, und zwar am 10.09.2006.
 
-<span id="A.9a.6">(6)</span> Der Bundesvorstand beschließt über alle organisatorischen und politischen Fragen im Sinne der Beschlüsse des Bundesparteitages bzw. der Gründungsversammlung.
 
-<span id="A.9a.7">(7)</span> Der Bundesvorstand gibt sich eine Geschäftsordnung und veröffentlicht diese angemessen. Sie umfasst u.a. Regelungen zu:
+### § 9a - Der Bundesvorstand {#a___der_bundesvorstand}
+
+(1)  
+Der Bundesvorstand besteht aus mindestens drei Personen: dem Vorsitzenden, dem Schatzmeister, dem stellvertretenden Vorsitzenden. Darüber hinaus können ein stellvertretender Schatzmeister sowie bis zu fünf Beisitzer gewählt werden.
+
+(2)  
+Zur Durchführung der Beschlüsse des Vorstandes sowie zur Erledigung der laufenden und der besonders dringlichen Vorstandsgeschäfte ist der Bundesvorsitzende allein berechtigt, die Piratenpartei Deutschland nach außen zu vertreten. Kann der Vorsitzende dieser Aufgabe nicht nachkommen, so geht die Vertretung auf den Stellvertreter über. Sollte dieser ebenfalls der Aufgabe nicht nachkommen können, so geht die Vertretung auf den Schatzmeister über. Die Vertretung gegenüber Banken und sonstigen Kreditinstituten erfolgt durch den Schatzmeister und seine Stellvertreter; falls keine stellvertretenden Schatzmeister gewählt sind oder der Schatzmeister seinen Aufgaben nicht mehr nachkommen kann, zusätzlich durch den Vorsitzenden. Diese Personen haben diesbezüglich Alleinvertretungsrecht und können Untervollmachten erteilen. Er führt die Geschäfte auf Grundlage der Beschlüsse der Parteiorgane.
+
+(3)  
+Die Mitglieder des Bundesvorstands werden vom Bundesparteitag mindestens einmal im Kalenderjahr gewählt. Der Bundesvorstand bleibt bis zur Wahl eines neuen Bundesvorstands im Amt. Ist ein Vorstandsamt durch Rücktritt oder eine geheim abzustimmende Abwahl unbesetzt, so kann dieses vom Bundesparteitag durch Nachwahl neu besetzt werden. Die Amtszeit eines nachgewählten Vorstandsmitgliedes endet spätestens mit der Neuwahl des Vorstandes.
+
+(4)  
+Der Bundesvorstand tritt mindestens zweimal jährlich zusammen.
+Er wird vom Bundesvorsitzenden oder bei dessen Verhinderung von einem seiner Stellvertreter schriftlich mit einer Frist von zwei Wochen unter Angabe der Tagesordnung und des Tagungsortes einberufen.
+Bei außerordentlichen Anlässen kann die Einberufung auch kurzfristiger erfolgen.
+
+(5)  
+Auf Antrag eines Zehntels der Piraten kann der Bundesvorstand zum Zusammentritt aufgefordert und mit aktuellen Fragestellungen befasst werden.
+
+(6)  
+Der Bundesvorstand beschließt über alle organisatorischen und politischen Fragen im Sinne der Beschlüsse des Bundesparteitages bzw. der Gründungsversammlung.
+
+(7)  
+Der Bundesvorstand gibt sich eine Geschäftsordnung und veröffentlicht diese angemessen.
+Sie umfasst u.a. Regelungen zu:
 
 1.  Verwaltung der Mitgliederdaten und deren Zugriff und Sicherung
 2.  Aufgaben und Kompetenzen der Vorstandsmitglieder
@@ -145,727 +234,924 @@ _Letzter Stand: Geändert auf dem Bundesparteitag 2018.2_
 6.  Beurkundung von Beschlüssen des Vorstandes
 7.  Die genaue Amtsbezeichnung der weiteren Mitglieder nach (1)
 
-<span id="A.9a.8">(8)</span> Die Führung der Bundesgeschäftsstelle wird durch den Vorstand beauftragt und beaufsichtigt.
+(8)  
+Die Führung der Bundesgeschäftsstelle wird durch den Vorstand beauftragt und beaufsichtigt.
 
-<span id="A.9a.9">(9)</span> Der Bundesvorstand liefert zum Parteitag einen schriftlichen Tätigkeitsbericht ab. Dieser Umfasst alle Tätigkeitsgebiete der Vorstandsmitglieder, wobei diese in Eigenverantwortung des Einzelnen erstellt werden. Wird der Vorstand insgesamt oder ein Vorstandsmitglied nicht entlastet, so kann der Bundesparteitag oder der neue Vorstand gegen ihn Ansprüche gelten machen. Tritt ein Vorstandsmitglied zurück, hat dieser unverzüglich einen Tätigkeitsbericht zu erstellen und dem Vorstand zuzuleiten.
+(9)  
+Der Bundesvorstand liefert zum Parteitag einen schriftlichen Tätigkeitsbericht ab.
+Dieser Umfasst alle Tätigkeitsgebiete der Vorstandsmitglieder, wobei diese in Eigenverantwortung des Einzelnen erstellt werden.
+Wird der Vorstand insgesamt oder ein Vorstandsmitglied nicht entlastet, so kann der Bundesparteitag oder der neue Vorstand gegen ihn Ansprüche gelten machen.
+Tritt ein Vorstandsmitglied zurück, hat dieser unverzüglich einen Tätigkeitsbericht zu erstellen und dem Vorstand zuzuleiten.
 
-<span id="A.9a.10">(10)</span> Tritt ein Vorstandsmitglied zurück bzw. kann dieses seinen Aufgaben nicht mehr nachkommen, so geht seine Kompetenz wenn möglich auf ein anderes Vorstandsmitglied über. Der Bundesvorstand gilt als nicht handlungsfähig, wenn
+(10)  
+Tritt ein Vorstandsmitglied zurück bzw. kann dieses seinen Aufgaben nicht mehr nachkommen, so geht seine Kompetenz wenn möglich auf ein anderes Vorstandsmitglied über. Der Bundesvorstand gilt als nicht handlungsfähig, wenn
 
 1.  der Vorstand höchstens vier handlungsfähige Mitglieder besitzt.
 2.  der Vorstand sich selbst für handlungsunfähig erklärt.
 
 In einem solchen Fall ist unverzüglich eine außerordentliche Mitgliederversammlung einzuberufen und vom restlichen Bundesvorstand zur Weiterführung der Geschäfte eine kommissarische Vertretung zu ernennen. Diese endet mit der Neuwahl des gesamten Vorstandes.
 
-<span id="A.9a.11">(11)</span> Tritt der gesamte Vorstand geschlossen zurück oder kann seinen Aufgaben nicht mehr nachkommen, so führt der dienstälteste Landesverbandsvorstand kommissarisch die Geschäfte bis ein von ihm einberufener außerordentlicher Parteitag schnellstmöglich stattgefunden und einen neuen Bundesvorstand gewählt hat.
+(11)  
+Tritt der gesamte Vorstand geschlossen zurück oder kann seinen Aufgaben nicht mehr nachkommen, so führt der dienstälteste Landesverbandsvorstand kommissarisch die Geschäfte bis ein von ihm einberufener außerordentlicher Parteitag schnellstmöglich stattgefunden und einen neuen Bundesvorstand gewählt hat.
 
-<span id="A.9b">
 
-#### § 9b - Der Bundesparteitag
+### § 9b - Der Bundesparteitag {#b___der_bundesparteitag}
 
-</span> <span id="A.9b.1">(1)</span> Der Bundesparteitag ist die Mitgliederversammlung auf Bundesebene.
+(1)  
+Der Bundesparteitag ist die Mitgliederversammlung auf Bundesebene.
 
-<span id="A.9b.2">(2)</span> Der Bundesparteitag tagt mindestens einmal jährlich. Die Einberufung erfolgt aufgrund Vorstandsbeschluss oder wenn ein Zehntel der Piraten es beantragen. Der Vorstand lädt jedes Mitglied mindestens 6 Wochen vorher ein; die Einladung erfolgt in Textform oder durch Veröffentlichung auf der Website <http://www.piratenpartei.de>. Sofern die Einladung weder in Textform noch auf der Website rechtzeitig erfolgen kann, erfolgt die Einladung durch den Bundesanzeiger. Die Einladung hat Angaben zum Tagungsort, Tagungsbeginn, vorläufiger Tagesordnung und der Angabe, wo weitere, aktuelle Veröffentlichungen gemacht werden, zu enthalten. Spätestens 2 Wochen vor dem Parteitag sind die Tagesordnung in aktueller Fassung, die geplante Tagungsdauer und alle bis dahin dem Vorstand eingereichten Anträge im Wortlaut zu veröffentlichen.
+(1a)  
+Er findet als Präsenzveranstaltung oder als Onlineveranstaltung statt.\
+(1b)  
+Onlineparteitage tagen online und öffentlich.\
+(1c)  
+Geheime Abstimmungen und Wahlen können nur auf einem Präsenzparteitag stattfinden.\
 
-<span id="A.9b.3">(3)</span> Ist der Bundesvorstand handlungsunfähig, kann ein außerordentlicher Bundesparteitag einberufen werden. Dies geschieht mit einer Frist von zwei Wochen unter Angabe der Tagesordnung und des Tagungsortes. Er dient ausschließlich der Wahl eines neues Vorstandes.
+(2)  
+Der Bundesparteitag tagt mindestens einmal jährlich. Die Einberufung erfolgt aufgrund Vorstandsbeschluss oder wenn ein Zehntel der Piraten es beantragen. Der Vorstand lädt jedes Mitglied mindestens 8 Wochen vorher ein; die Einladung erfolgt in Textform oder durch Veröffentlichung auf der Website <http://www.piratenpartei.de>. Sofern die Einladung weder in Textform noch auf der Website rechtzeitig erfolgen kann, erfolgt die Einladung durch den Bundesanzeiger. Die Einladung hat Angaben zum Tagungsort, Tagungsbeginn, vorläufiger Tagesordnung und der Angabe, wo weitere, aktuelle Veröffentlichungen gemacht werden, zu enthalten. Spätestens 2 Wochen vor dem Parteitag sind die Tagesordnung in aktueller Fassung, die geplante Tagungsdauer und alle bis dahin dem Vorstand eingereichten Anträge im Wortlaut zu veröffentlichen.
 
-<span id="A.9b.4">(4)</span> Der Bundesparteitag nimmt den Tätigkeitsbericht des Bundesvorstandes entgegen und entscheidet daraufhin über seine Entlastung.
+(3)  
+Ist der Bundesvorstand handlungsunfähig, kann ein außerordentlicher Bundesparteitag einberufen werden.
+Dies geschieht mit einer Frist von zwei Wochen unter Angabe der Tagesordnung und des Tagungsortes.
+Er dient ausschließlich der Wahl eines neues Vorstandes.
 
-<span id="A.9b.5">(5)</span> Der Bundesparteitag beschließt über die Schiedsgerichtsordnung und die Finanzordnung, die Teil dieser Satzung sind.
+(4)  
+Der Bundesparteitag nimmt den Tätigkeitsbericht des Bundesvorstandes entgegen und entscheidet daraufhin über seine Entlastung.
 
-<span id="A.9b.6">(6)</span> Über den Parteitag, die Beschlüsse und Wahlen wird ein Ergebnisprotokoll gefertigt, das von der Protokollführung, der Versammlungsleitung und dem neu gewählten Vorsitzenden oder dem stellvertretenden Vorsitzenden unterschrieben wird. Das Wahlprotokoll wird durch den Wahlleiter und mindestens zwei Wahlhelfer unterschrieben und dem Protokoll beigefügt.
+(5)  
+Der Bundesparteitag beschließt über die Schiedsgerichtsordnung und die Finanzordnung, die Teil dieser Satzung sind.
 
-<span id="A.9b.7">(7)</span> Der Bundesparteitag wählt zwei Rechnungsprüfer, die den finanziellen Teil des Tätigkeitsberichtes des Vorstandes vor der Beschlussfassung über ihn prüfen. Das Ergebnis der Prüfung wird dem Parteitag verkündet und zu Protokoll genommen. Danach sind die Rechnungsprüfer aus ihrer Funktion entlassen.
+(6)  
+Über den Parteitag, die Beschlüsse und Wahlen wird ein Ergebnisprotokoll gefertigt, das von der Protokollführung, der Versammlungsleitung und dem neu gewählten Vorsitzenden oder dem stellvertretenden Vorsitzenden unterschrieben wird.
+Das Wahlprotokoll wird durch den Wahlleiter und mindestens zwei Wahlhelfer unterschrieben und dem Protokoll beigefügt.
 
-<span id="A.9b.8">(8)</span> Der Bundesparteitag wählt mindestens zwei Kassenprüfer. Diesen obliegen die Vorprüfung des finanziellen Tätigkeitsberichtes für den folgenden Bundesparteitag und die Vorprüfung, ob die Finanzordnung und das PartG eingehalten wird. Sie haben das Recht, kurzfristig Einsicht in alle finanzrelevanten Unterlagen zu verlangen, die ihnen dann vollständig zu übergeben sind. Sie sind angehalten, etwa zwei Wochen vor dem Bundesparteitag die letzte Vorprüfung der Finanzen durchzuführen. Die Amtszeit der Kassenprüfer ist deckungsgleich mit der Amtszeit der Mitglieder des Bundesvorstandes.
+(7)  
+Der Bundesparteitag wählt zwei Rechnungsprüfer, die den finanziellen Teil des Tätigkeitsberichtes des Vorstandes vor der Beschlussfassung über ihn prüfen.
+Das Ergebnis der Prüfung wird dem Parteitag verkündet und zu Protokoll genommen.
+Danach sind die Rechnungsprüfer aus ihrer Funktion entlassen.
 
-<span id="A.9b.9">(9)</span> Die Entscheidungen des Bundesparteitags werden mit einfacher Mehrheit der abgegebenen gültigen Stimmen beschlossen. Bei Stimmengleichheit gilt ein Antrag als abgelehnt. Stimmenthaltungen werden als ungültige Stimmen gewertet.
+(8)  
+Der Bundesparteitag wählt mindestens zwei Kassenprüfer.
+Diesen obliegen die Vorprüfung des finanziellen Tätigkeitsberichtes für den folgenden Bundesparteitag und die Vorprüfung, ob die Finanzordnung und das PartG eingehalten wird.
+Sie haben das Recht, kurzfristig Einsicht in alle finanzrelevanten Unterlagen zu verlangen, die ihnen dann vollständig zu übergeben sind.
+Sie sind angehalten, etwa zwei Wochen vor dem Bundesparteitag die letzte Vorprüfung der Finanzen durchzuführen.
+Die Amtszeit der Kassenprüfer ist deckungsgleich mit der Amtszeit der Mitglieder des Bundesvorstandes.
 
-<span id="A.10">
+(9)  
+Die Entscheidungen des Bundesparteitags werden mit einfacher Mehrheit der abgegebenen gültigen Stimmen beschlossen. Bei Stimmengleichheit gilt ein Antrag als abgelehnt. Stimmenthaltungen werden als ungültige Stimmen gewertet.
 
-### § 10 - Bewerberaufstellung für die Wahlen zu Volksvertretungen
+(10)  
+Der Bundesvorstand kann vorsehen, dass Piraten am Parteitag ohne Anwesenheit am Versammlungsort teilnehmen, und Mitgliederrechte im Wege der elektronischen Kommunikation ausüben können oder müssen.
+In diesem Fall erfolgt die Schlussabstimmung bei Satzungsänderungen und bei Wahlen nach § 9 Absatz 4 des Parteiengesetzes in einem geheim abzustimmenden Basisentscheid.
 
-</span> <span id="A.10.1">(1)</span> Für die Aufstellung der Bewerber für Wahlen zu Volksvertretungen gelten die Bestimmungen der Wahlgesetze und der Satzungen der Bundespartei und der zuständigen Gebietsverbände.
+### § 10 - Bewerberaufstellung für die Wahlen zu Volksvertretungen {#bewerberaufstellung_für_die_wahlen_zu_volksvertretungen}
 
-<span id="A.10.2">(2)</span> Landeslistenbewerber sollen ihren Wohnsitz im entsprechenden Bundesland haben, Kreisbewerber im entsprechenden Wahlkreis.
+  
+(1)  
+Für die Aufstellung der Bewerber für Wahlen zu Volksvertretungen gelten die Bestimmungen der Wahlgesetze und der Satzungen der Bundespartei und der zuständigen Gebietsverbände.
 
-<span id="A.11">
+(2)  
+Landeslistenbewerber sollen ihren Wohnsitz im entsprechenden Bundesland haben, Kreisbewerber im entsprechenden Wahlkreis.
 
-### § 11 - Zulassung von Gästen
+### § 11 - Zulassung von Gästen {#zulassung_von_gästen}
 
-</span> <span id="A.11.1">(1)</span> Sämtliche Mitgliederversammlungen des Bundesverbandes und seiner Gliederungen auf allen Ebenen haben grundsätzlich öffentlich stattzufinden. Ein Ausschluss der Öffentlichkeit kann nur zeitweise erfolgen und nur zum Schutz von Persönlichkeitsrechten.
+(1)  
+Sämtliche Mitgliederversammlungen des Bundesverbandes und seiner Gliederungen auf allen Ebenen haben grundsätzlich öffentlich stattzufinden. Ein Ausschluss der Öffentlichkeit kann nur zeitweise erfolgen und nur zum Schutz von Persönlichkeitsrechten.
 
-<span id="A.11.2">(2)</span> Gäste besitzen kein Stimmrecht, können aber auf Beschluss der Versammlung Rederecht erhalten.
+(2)  
+Gäste besitzen kein Stimmrecht, können aber auf Beschluss der Versammlung Rederecht erhalten.
 
-<span id="A.12">
 
-### § 12 - Besondere Antragsformen und Antragseinreichung
+### § 12 - Besondere Antragsformen und Antragseinreichung {#besondere_antragsformen_und_antragseinreichung}
 
-</span> <span id="A.12.1">(1)</span> Änderungen der Bundessatzung können nur von einem Bundesparteitag mit einer 2/3 Mehrheit der abgegebenen gültigen Stimmen beschlossen werden. Besteht das dringende Erfordernis einer Satzungsänderung zwischen zwei Parteitagen, so kann die Satzung auch geändert werden, wenn mindestens 2/3 der Piraten sich mit dem Antrag/den Anträgen auf Änderung schriftlich einverstanden erklären.
+  (1)  
+Änderungen der Bundessatzung werden vom Bundesparteitag mit einer 2/3 Mehrheit der abgegebenen gültigen Stimmen beschlossen. Besteht das dringende Erfordernis einer Satzungsänderung zwischen zwei Parteitagen, so kann die Satzung auch durch einen Basisentscheid mit einer 2/3 Mehrheit geändert werden.
 
-<span id="A.12.2">(2)</span> Über einen Antrag auf Satzungsänderung auf einem Bundesparteitag kann nur abgestimmt werden, wenn er mindestens vier Wochen vor Beginn des Bundesparteitages beim Bundesvorstand eingegangen ist und dies im Wortlaut von fünf Piraten beantragt wurde.
+(2)  
+Über einen Antrag auf Satzungsänderung auf einem Bundesparteitag kann nur abgestimmt werden, wenn er mindestens sieben Wochen vor Beginn des Bundesparteitages beim Bundesvorstand eingegangen ist und dies im Wortlaut von fünf Piraten beantragt wurde, die zum Zeitpunkt der Antragseinreichung Mitglied der Piratenpartei Deutschland sind. Sofern ein Antrag in direkter Konkurrenz zu einem anderen bereits gestellten Antrag eingereicht werden soll, so ist dies bis fünf Wochen vor dem Beginn des Bundesparteitags möglich. Anträge zur Satzung können nach Einreichung bis zwei Wochen vor Beginn des Bundesparteitages noch durch die Antragsteller verändert werden. Dabei muss der wesentliche Inhalt bestehen bleiben.
 
-<span id="A.12.3">(3)</span> Die Regelungen aus Absatz 1 und 2 gelten ebenso für eine Änderung des Programms der Piratenpartei Deutschland.
+(3)  
+Die Regelungen aus Absatz 1 und 2 gelten ebenso für eine Änderung des Programms der Piratenpartei Deutschland.
+In einem Basisentscheid sind Schlussabstimmungen zu Satzungsänderungen geheim abzustimmen.
 
-<span id="A.12.4">(4)</span> Jeder Antrag kann auf dem Parteitag vor der Abstimmung durch einen der Antragsteller oder dessen/deren Bevollmächtigten geändert werden. Geändert werden können einzelne Wörter und Formulierungen, Textpassagen können gestrichen oder ergänzt werden. Dabei darf die grundsätzliche Intention des Antrags nicht verändert werden. Der geänderte Antrag muss der Sitzungsleitung schriftlich vorliegen und mindestens 60 Minuten vor der Abstimmung erneut vorgestellt werden. Änderungen sind hervorzuheben. Der Parteitag entscheidet mit einfacher Mehrheit, ob er über den ursprünglichen oder den geänderten Antrag abstimmen möchte.
+(4)  
+(aufgehoben)
 
-<span id="A.12.5">(5)</span> In allen übrigen Fragen der Antragseinreichung vor dem Bundesparteitag gilt eine Antragsordnung. Diese kann mit Wirkung zum nächsten Bundesparteitag mit einfacher Mehrheit geändert werden.
+(5)  
+In allen übrigen Fragen der Antragseinreichung vor dem Bundesparteitag gilt eine Antragsordnung. Diese kann mit Wirkung zum nächsten Bundesparteitag mit einfacher Mehrheit geändert werden.
 
-<span id="A.12.6">(6)</span> Mit der Annahme, formellen Prüfung und Aufbereitung der Anträge ist eine Antragskommission befasst, die im Wege der Beauftragung durch den Bundesvorstand zusammengesetzt wird. Diese Beauftragung gilt dauerhaft und endet durch Entzug der Beauftragung durch den jeweils amtierenden Bundesvorstand oder Rückgabe der Beauftragung. Die Antragskommission berichtet dem Bundesvorstand und unterbreitet ggf. auch Vorschläge zur Verbesserung der Abläufe im Zusammenhang mit Anträgen.
+(6)  
+Mit der Annahme, formellen Prüfung und Aufbereitung der Anträge ist eine Antragskommission befasst, die im Wege der Beauftragung durch den Bundesvorstand zusammengesetzt wird. Diese Beauftragung gilt dauerhaft und endet durch Entzug der Beauftragung durch den jeweils amtierenden Bundesvorstand oder Rückgabe der Beauftragung. Die Antragskommission berichtet dem Bundesvorstand und unterbreitet ggf. auch Vorschläge zur Verbesserung der Abläufe im Zusammenhang mit Anträgen.
 
-<span id="A.12.7">(7)</span> Anträge, die eine Satzungsbeiordnung, nicht aber die auf diese bezogenen Regelungen in der Satzung, betreffen, benötigen fünf Antragsteller und unterliegen keiner Antragsfrist, sofern die Satzung oder ersatzweise die Beiordnung selbst dies für die Beiordnung nicht anders regelt.
+(7)  
+Anträge, die eine Satzungsbeiordnung, nicht aber die auf diese bezogenen Regelungen in der Satzung, betreffen, benötigen fünf Antragsteller und unterliegen keiner Antragsfrist, sofern die Satzung oder ersatzweise die Beiordnung selbst dies für die Beiordnung nicht anders regelt.
 
-<span id="A.13">
 
-### § 13 - Auflösung und Verschmelzung
+### § 13 - Auflösung und Verschmelzung {#auflösung_und_verschmelzung}
 
-</span> <span id="A.13.1">(1)</span> Die Auflösung der Bundespartei oder ihre Verschmelzung mit einer anderen Partei kann nur durch einen Beschluss des Bundesparteitages mit einer Mehrheit von 3/4 der zum Bundesparteitag Stimmberechtigten beschlossen werden.
+(1)  
+Die Auflösung der Bundespartei oder ihre Verschmelzung mit einer anderen Partei kann nur durch einen Beschluss des Bundesparteitages mit einer Mehrheit von 3/4 der zum Bundesparteitag Stimmberechtigten beschlossen werden.
 
-<span id="A.13.2">(2)</span> Die Auflösung eines Landesverbandes kann durch einen Beschluss des Bundesparteitages mit einer Mehrheit von 3/4 der zum Bundesparteitag Stimmberechtigten beschlossen werden.
+(2)  
+Die Auflösung eines Landesverbandes kann durch einen Beschluss des Bundesparteitages mit einer Mehrheit von 3/4 der zum Bundesparteitag Stimmberechtigten beschlossen werden.
 
-<span id="A.13.3">(3)</span> Ein Beschluss über Auflösung oder Verschmelzung muss durch eine Urabstimmung unter den Piraten bestätigt werden. Die Piraten äußern ihren Willen im Zusammenhang mit der Urabstimmung schriftlich.
+(3)  
+Ein Beschluss über Auflösung oder Verschmelzung muss durch eine Urabstimmung unter den Piraten bestätigt werden. Die Piraten äußern ihren Willen im Zusammenhang mit der Urabstimmung schriftlich.
 
-<span id="A.13.4">(4)</span> Über einen Antrag auf Auflösung oder Verschmelzung kann nur abgestimmt werden, wenn er mindestens vier Wochen vor Beginn des Bundesparteitages beim Bundesvorstand eingegangen ist.
+(4)  
+Über einen Antrag auf Auflösung oder Verschmelzung kann nur abgestimmt werden, wenn er mindestens vier Wochen vor Beginn des Bundesparteitages beim Bundesvorstand eingegangen ist.
 
-<span id="A.13.5">(5)</span> Die Landesverbände haben eine Bestimmung in ihrer Satzung aufzunehmen, wonach Beschlüsse über ihre Auflösung oder Verschmelzung zur Rechtskraft der Zustimmung eines Bundesparteitages bedürfen.
+(5)  
+Die Landesverbände haben eine Bestimmung in ihrer Satzung aufzunehmen, wonach Beschlüsse über ihre Auflösung oder Verschmelzung zur Rechtskraft der Zustimmung eines Bundesparteitages bedürfen.
 
-<span id="A.14">
-
-### § 14 - Verbindlichkeit dieser Bundessatzung
+### § 14 - Verbindlichkeit dieser Bundessatzung {#verbindlichkeit_dieser_bundessatzung}
 
 Die Satzungen der Landesverbände und ihrer Untergliederungen müssen mit den grundsätzlichen Regelungen dieser Satzung übereinstimmen.
 
-<span id="A.15">
 
 ### § 15 - Parteiämter
 
-</span> <span id="A.15.1">(1)</span> Die nicht beruflich ausgeübten Funktionen und Tätigkeiten in der Piratenpartei Deutschland und seiner Untergliederungen sind Ehrenämter. Eine Vergütung soll nur in begründeten Ausnahmefällen erfolgen und bedarf eines Vorstandsbeschlusses.
+(1)
+Die nicht beruflich ausgeübten Funktionen und Tätigkeiten in der Piratenpartei
+Deutschland und seiner Untergliederungen sind Ehrenämter. Eine Vergütung soll nur in begründeten Ausnahmefällen erfolgen und bedarf eines Vorstandsbeschlusses.
 
-<span id="A.15.2">(2)</span> Notwendige Kosten und Auslagen, die einem Amtsträger, einem Beauftragten oder einem Bewerber bei öffentlichen Wahlen, durch Ausübung des Amtes, des Auftrages oder der Kandidatur erwachsen, werden auf Antrag und nach Vorlage der notwendigen Nachweise erstattet. Durch Vorstandsbeschluss kann eine pauschale Aufwandsvergütung festgesetzt werden.
+(2)  
+Notwendige Kosten und Auslagen, die einem Amtsträger, einem Beauftragten
+oder einem Bewerber bei öffentlichen Wahlen, durch Ausübung des Amtes, des
+Auftrages oder der Kandidatur erwachsen, werden auf Antrag und nach Vorlage der notwendigen Nachweise erstattet. Durch Vorstandsbeschluss kann eine pauschale Aufwandsvergütung festgesetzt werden.
 
-<span id="A.15.3">(3)</span> Höhe und Umfang der Erstattungen werden vom Bundesvorstand und von den Landesverbänden für ihren jeweiligen Zuständigkeitsbereich einheitlich geregelt. Abweichende Regelungen der nachgeordneten Gliederungen dürfen die Regelungen des Landesverbandes nicht überschreiten.
+(3)  
+Höhe und Umfang der Erstattungen werden vom Bundesvorstand und von den Landesverbänden für ihren jeweiligen Zuständigkeitsbereich einheitlich geregelt.
+Abweichende Regelungen der nachgeordneten Gliederungen dürfen die Regelungen des Landesverbandes nicht überschreiten.
 
-<span id="A.16">
 
-### § 16 - Basisentscheid und Basisbefragung
+### § 16 - Basisentscheid und Basisbefragung {#basisentscheid_und_basisbefragung}
 
-</span> <span id="A.16.1">(1)</span> Die Mitglieder fassen in einem Basisentscheid einen Beschluss, der einem des Bundesparteitags gleichsteht. Ein Beschluss zu Sachverhalten, die dem Bundesparteitag vorbehalten sind oder eindeutig dem Parteiprogramm widersprechen, gilt als Basisbefragung mit lediglich empfehlenden Charakter. Urabstimmungen gemäß §6 (2) Nr.11 PartG werden in Form eines Basisentscheids durchgeführt, zu dem alle stimmberechtigten Mitglieder in Textform eingeladen werden. Die nachfolgenden Bestimmungen für Anträge bzw. Abstimmungen gelten sinngemäß auch für Personen bzw. Wahlen.
+(1)  
+Die Mitglieder fassen in einem Basisentscheid einen Beschluss, der einem des Bundesparteitags gleichsteht. Ein Beschluss zu Sachverhalten, die dem Bundesparteitag vorbehalten sind oder eindeutig dem Parteiprogramm widersprechen, gilt als Basisbefragung mit lediglich empfehlenden Charakter. Urabstimmungen gemäß §6 (2) Nr.11 PartG werden in Form eines Basisentscheids durchgeführt, zu dem alle stimmberechtigten Mitglieder in Textform eingeladen werden. Die nachfolgenden Bestimmungen für Anträge bzw. Abstimmungen gelten sinngemäß auch für Personen bzw. Wahlen.
 
-<span id="A.16.2">(2)</span> Teilnahmeberechtigt sind alle persönlich identifizierten, am Tag der Teilnahme stimmberechtigten Mitglieder gemäß §4(4), die mit ihren Mitgliedsbeiträgen nicht im Rückstand sind. Um für Quoren und Abstimmungen berücksichtigt zu werden, müssen sich die teilnahmeberechtigten Mitglieder zur Teilnahme anmelden.
+(2)  
+Teilnahmeberechtigt sind alle persönlich identifizierten, am Tag der Teilnahme stimmberechtigten Mitglieder gemäß §4(4), die mit ihren Mitgliedsbeiträgen nicht im Rückstand sind. Um für Quoren und Abstimmungen berücksichtigt zu werden, müssen sich die teilnahmeberechtigten Mitglieder zur Teilnahme anmelden.
 
-<span id="A.16.3">(3)</span> Über einen Antrag wird nur abgestimmt, wenn er innerhalb eines Zeitraums ein Quorum von Teilnehmern als Unterstützer erreicht oder vom Bundesparteitag eingebracht wird. Der Bundesvorstand darf organisatorische Anträge einbringen. Konkurrierende Anträge zu einem Sachverhalt können rechtzeitig vor der Abstimmung eingebracht und für eine Abstimmung gebündelt werden. Eine erneute Abstimmung über den gleichen oder einen sehr ähnlichen Antrag ist erst nach Ablauf einer Frist zulässig, es sei denn die Umstände haben sich seither maßgeblich geändert. Über bereits erfüllte, unerfüllbare oder zurückgezogene Anträge wird nicht abgestimmt. Der Bundesparteitag soll die bisher nicht abgestimmten Anträge behandeln.
+(3)  
+Über einen Antrag wird nur abgestimmt, wenn er innerhalb eines Zeitraums ein Quorum von Teilnehmern als Unterstützer erreicht oder vom Bundesparteitag eingebracht wird. Der Bundesvorstand darf organisatorische Anträge einbringen. Konkurrierende Anträge zu einem Sachverhalt können rechtzeitig vor der Abstimmung eingebracht und für eine Abstimmung gebündelt werden. Eine erneute Abstimmung über den gleichen oder einen sehr ähnlichen Antrag ist erst nach Ablauf einer Frist zulässig, es sei denn die Umstände haben sich seither maßgeblich geändert. Über bereits erfüllte, unerfüllbare oder zurückgezogene Anträge wird nicht abgestimmt. Der Bundesparteitag soll die bisher nicht abgestimmten Anträge behandeln.
 
-<span id="A.16.4">(4)</span> Vor einer Abstimmung werden die Anträge angemessen vorgestellt und zu deren Inhalt eine für alle Teilnehmer zugängliche Debatte gefördert. Die Teilnahme an der Debatte und Abstimmung muss für die Mitglieder zumutbar und barrierefrei sein. Anträge werden nach gleichen Maßstäben behandelt. Mitglieder bzw. Teilnehmer werden rechtzeitig über mögliche Abstimmungstermine bzw. die Abstimmungen in Textform informiert.
+(4)  
+Vor einer Abstimmung werden die Anträge angemessen vorgestellt und zu deren Inhalt eine für alle Teilnehmer zugängliche Debatte gefördert. Die Teilnahme an der Debatte und Abstimmung muss für die Mitglieder zumutbar und barrierefrei sein. Anträge werden nach gleichen Maßstäben behandelt. Mitglieder bzw. Teilnehmer werden rechtzeitig über mögliche Abstimmungstermine bzw. die Abstimmungen in Textform informiert.
 
-<span id="A.16.5">(5)</span> Die Teilnehmer haben gleiches Stimmrecht, das sie selbstständig und frei innerhalb des Abstimmungszeitraums ausüben. Abstimmungen außerhalb des Parteitags erfolgen entweder pseudonymisiert oder geheim. Bei pseudonymisierter Abstimmung kann jeder Teilnehmer die unverfälschte Erfassung seiner eigenen Stimme im Ergebnis überprüfen und nachweisen. Bei personellen Sachverhalten oder auf Antrag einer Minderheit muss die Abstimmung geheim erfolgen. In einer geheimen Abstimmung sind die einzelnen Schritte für jeden Teilnehmer ohne besondere Sachkenntnisse nachvollziehbar und die Stimmabgabe erfolgt nicht elektronisch. Die Manipulation einer Abstimmung oder die Veröffentlichung von Teilergebnissen vor Abstimmungsende sind ein schwerer Verstoß gegen die Ordnung der Partei.
+(5)  
+Die Teilnehmer haben gleiches Stimmrecht, das sie selbstständig und frei innerhalb des Abstimmungszeitraums ausüben. Abstimmungen außerhalb des Parteitags erfolgen entweder pseudonymisiert oder geheim. Bei pseudonymisierter Abstimmung kann jeder Teilnehmer die unverfälschte Erfassung seiner eigenen Stimme im Ergebnis überprüfen und nachweisen. Statt einer pseudonymisierten Abstimmung kann auch eine anonyme, mit Hilfe von kryptographischen Verfahren nachvollziehbare, elektronische Abstimmung durchgeführt werden. Bei personellen Sachverhalten oder auf Antrag einer Minderheit muss die Abstimmung geheim erfolgen. In einer geheimen Abstimmung sind die einzelnen Schritte für jeden Teilnehmer ohne besondere Sachkenntnisse nachvollziehbar und die Stimmabgabe erfolgt nicht elektronisch. Die Manipulation einer Abstimmung oder die Veröffentlichung von Teilergebnissen vor Abstimmungsende sind ein schwerer Verstoß gegen die Ordnung der Partei.
 
-<span id="A.16.6">(6)</span> Das Nähere regelt die [Entscheidsordnung](Entscheidsordnung "wikilink"), welche durch den Bundesparteitag beschlossen wird und auch per Basisentscheid geändert werden kann.
+(6)  
+Das Nähere regelt die [Entscheidsordnung](Entscheidsordnung "Entscheidsordnung"){.wikilink}, welche durch den Bundesparteitag beschlossen wird und auch per Basisentscheid geändert werden kann.
 
-<span id="A.17">
 
 ### § 17 - Beschlussfassung
 
-</span> <span id="A.17.1">(1)</span> Zur Beschlussfassung ist die einfache Mehrheit der teilnehmenden Organmitglieder notwendig.
+(1)  
+Zur Beschlussfassung ist die einfache Mehrheit der teilnehmenden Organmitglieder notwendig.
 
-<span id="A.17.2">(2)</span> Erlass und Änderung der Geschäftsordnung eines Organs erfordern 2/3 aller Organsmitglieder.
+(2)  
+Erlass und Änderung der Geschäftsordnung eines Organs erfordern 2/3 aller Organsmitglieder.
 
-<span id="A.17.3">(3)</span> Die Organe können durch Geschäftsordnung vorsehen, dass Umlaufbeschlüsse mit einfacher Mehrheit aller Organmitglieder gefasst werden können, sofern sie sicherstellen, dass jedes Organmitglied eine Beratung vor der Beschlussfassung verlangen kann.
+(3)  
+Die Organe können durch Geschäftsordnung vorsehen, dass Umlaufbeschlüsse mit einfacher Mehrheit aller Organmitglieder gefasst werden können, sofern sie sicherstellen, dass jedes Organmitglied eine Beratung vor der Beschlussfassung verlangen kann.
 
-<span id="A.17.4">(4)</span> Die Organe können einzelne Beschlusskompetenzen durch Geschäftsordnung auf Ausschüsse, einzelne Organmitglieder oder Beauftragte delegieren.
+(4)  
+Die Organe können einzelne Beschlusskompetenzen durch Geschäftsordnung auf Ausschüsse, einzelne Organmitglieder oder Beauftragte delegieren.
 
-<span id="A.17.5">(5)</span> Die Bestimmungen dieses Paragraphen gelten für alle Organe des Bundesverbands und aller Gliederungen mit Ausnahme der Parteitage. Die Absätze 1, 3 und 4 sind auf die rechtsprechenden Beschlüsse der Schiedsgerichte nicht anwendbar.
+(5)  
+Die Bestimmungen dieses Paragraphen gelten für alle Organe des Bundesverbands und aller Gliederungen mit Ausnahme der Parteitage. Die Absätze 1, 3 und 4 sind auf die rechtsprechenden Beschlüsse der Schiedsgerichte nicht anwendbar.
 
-<span id="A.17.6">(6)</span> Die Gliederungen können durch Satzung von den Bestimmungen dieses Paragraphen abweichen.
+(6)  
+Die Gliederungen können durch Satzung von den Bestimmungen dieses Paragraphen abweichen.
 
-<span id="B">
 
-## Abschnitt B: Finanzordnung
---------------------------
-
-</span><span id="B.1">
+## Abschnitt B: Finanzordnung {#abschnitt_b_finanzordnung}
 
 #### § 1 Zuständigkeit
 
-</span> Dem Schatzmeister obliegen die Verwaltung der Finanzen und die Führung der Bücher. <span id="B.A">
+Dem Schatzmeister obliegen die Verwaltung der Finanzen und die Führung der Bücher.
 
-### A. RECHENSCHAFTSBERICHT
+### A. RECHENSCHAFTSBERICHT {#a._rechenschaftsbericht}
 
-</span><span id="B.2">
+#### § 2 Rechenschaftsbericht Bundesverband {#rechenschaftsbericht_bundesverband}
 
-#### § 2 Rechenschaftsbericht Bundesverband
+Der Bundesschatzmeister sorgt für die fristgerechte Vorlage des Rechenschaftsberichts gemäß dem fünften Abschnitt des Parteiengesetzes bei dem Präsidenten des Deutschen Bundestages. Zu diesem Zweck legen die Schatzmeister der Landesverbände ihm bis spätestens zum 31. Mai eines jeden Jahres die Rechenschaftsberichte der Landesverbände vor.
 
-</span> Der Bundesschatzmeister sorgt für die fristgerechte Vorlage des Rechenschaftsberichts gemäß dem fünften Abschnitt des Parteiengesetzes bei dem Präsidenten des Deutschen Bundestages. Zu diesem Zweck legen die Schatzmeister der Landesverbände ihm bis spätestens zum 31. Mai eines jeden Jahres die Rechenschaftsberichte der Landesverbände vor. <span id="B.3">
+#### § 3 Rechenschaftsbericht Landesverband {#rechenschaftsbericht_landesverband}
 
-#### § 3 Rechenschaftsbericht Landesverband
-
-</span> Die Untergliederungen legen ihren Landesverbänden jährlich bis zum 31. März Rechenschaft über ihr Vermögen, ihre Einnahmen und ihre Ausgaben nach Maßgabe der Bestimmungen des § 24 Parteiengesetz ab. <span id="B.4">
+Die Untergliederungen legen ihren Landesverbänden jährlich bis zum 31. März Rechenschaft über ihr Vermögen, ihre Einnahmen und ihre Ausgaben nach Maßgabe der Bestimmungen des § 24 Parteiengesetz ab.
 
 #### § 4 Durchgriffsrecht
 
-</span> Der Schatzmeister kontrolliert die ordnungsgemäße Buchführung seiner unmittelbaren Gliederungen. Er hat das Recht auch in deren Gliederungen die ordnungsgemäße Buchführung zu kontrollieren und gewährleistet damit, dass jederzeit die zur Erstellung des Prüfvermerks für den Rechenschaftsbericht nach § 29 Abs.3 Parteiengesetz vorgeschriebenen Stichproben möglich sind. Ist die rechtzeitige Abgabe des Rechenschaftsberichtes gemäß Parteiengesetz auf Bundesebene gefährdet, so hat der jeweils höhere Gebietsverband das Recht und die Pflicht durch geeignete Maßnahmen die ordnungsgemäße Buchführung seiner Gliederungen zu gewährleisten. <span id="B.B">
+Der Schatzmeister kontrolliert die ordnungsgemäße Buchführung seiner unmittelbaren Gliederungen. Er hat das Recht auch in deren Gliederungen die ordnungsgemäße Buchführung zu kontrollieren und gewährleistet damit, dass jederzeit die zur Erstellung des Prüfvermerks für den Rechenschaftsbericht nach § 29 Abs.3 Parteiengesetz vorgeschriebenen Stichproben möglich sind. Ist die rechtzeitige Abgabe des Rechenschaftsberichtes gemäß Parteiengesetz auf Bundesebene gefährdet, so hat der jeweils höhere Gebietsverband das Recht und die Pflicht durch geeignete Maßnahmen die ordnungsgemäße Buchführung seiner Gliederungen zu gewährleisten.
 
-### B. MITGLIEDSBEITRAG
+### B. MITGLIEDSBEITRAG {#b._mitgliedsbeitrag}
 
-</span><span id="B.5">
+#### § 5 Höhe Mitgliedsbeitrag {#höhe_mitgliedsbeitrag}
 
-#### § 5 Höhe Mitgliedsbeitrag
+(1)  
+Jedes Mitglied legt im Rahmen seines Einkommens eine Beitragsstufe fest. Der Mitgliedsbeitrag ist je nach gewählter Zahlungsweise monatlich, quartalsweise oder jährlich fällig. Eine monatliche Zahlweise ist nur zulässig, sofern der Mitgliedsbeitrag im Lastschriftverfahren bezahlt wird und mind. 36,00 € beträgt. In begründeten Ausnahmefällen kann nach Absprache mit dem Bundesvorstand monatliche Zahlung durch Dauerauftrag/Überweisung vereinbart werden.
 
-</span><span id="B.5.1"> (1)</span> Jedes Mitglied legt im Rahmen seines Einkommens eine Beitragstufe fest. Ab dem Beitragsjahr 2018 sind pro Kalenderjahr die Stufen 72,- Euro und 48,- Euro wählbar (2017: nur eine Stufe mit 48,- Euro). Erfolgt keine Auswahl durch das Mitglied, so wird das Mitglied in die höchste Beitragstufe eingeordnet. Der Mitgliedsbeitrag ist zum 1. Januar eines jeden Jahres fällig.
+(2)  
+Bei Eintritt im Laufe eines Jahres ist der anteilige Jahresmitgliedsbeitrag pro Monat zu berechnen. Die Berechnung erfolgt monatsgenau, beginnend mit dem Monat, in dem der Eintritt stattfindet.
 
-<span id="B.5.2">(2)</span> Bei Eintritt im Laufe eines Jahres ist der anteilige Jahresmitgliedsbeitrag pro Monat zu berechnen. Die Berechnung erfolgt monatsgenau, beginnend mit dem Monat in dem der Eintritt stattfindet.
+(3)  
+Für 2024 sind weiterhin die Beitragsstufen 72,00 € und 48,00 € wählbar. Erfolgt keine Auswahl durch das Mitglied, so wird das Mitglied in die Beitragsstufe 72,00 € eingeordnet.
 
-<span id="B.5.3">(3)</span> Die Piratenpartei empfiehlt ihren Mitgliedern zusätzlich zum festgelegten Mitgliedsbeitrag einen freiwilligen Mitgliedsbeitrag in Höhe von 1% ihres Jahresnettoeinkommens.
+(4)  
+Ab 2025 gelten die folgenden Beitragsstufen (Jahresbeitrag):
 
-<span id="B.5.4">(4)</span> (entfallen)
+` 72,00 € (ab  1.000 € Monatsnettoeinkommen)`\
+`120,00 € (ab  2.000 € Monatsnettoeinkommen)`\
+`180,00 € (ab  2.500 € Monatsnettoeinkommen)`\
+`240,00 € (ab  3.000 € Monatsnettoeinkommen)`\
+`360,00 € (ab  4.000 € Monatsnettoeinkommen)`\
+`480,00 € (ab  5.000 € Monatsnettoeinkommen)`\
+`600,00 € (ab  6.000 € Monatsnettoeinkommen)`
 
-<span id="B.5.5">(5)</span> Die Höhe des ermäßigten Beitrags beträgt 12,- Euro pro Kalenderjahr. Eine Ermäßigung ist jährlich neu bei dem zuständigen Landesverband zu beantragen, sofern die jeweilige Landessatzung nichts Abweichendes hierzu regelt. Abweichend davon kann der Landesvorstand in begründeten Einzelfällen eine mehrjährige Ermäßigung mit dem Mitglied vereinbaren.
+(5)  
+Bei der Einordnung in eine Beitragsstufe dürfen familiäre Verpflichtungen berücksichtigt werden.
 
-<span id="B.5.6">(6)</span> (entfallen)
+(6)  
+Die Piratenpartei empfiehlt ihren Mitgliedern grundsätzlich einen freiwilligen Mitgliedsbeitrag in Höhe von 1% ihres Jahresnettoeinkommens.
 
-<span id="B.6">
+(7)  
+Für Bestandsmitglieder, die sich nicht in eine Stufe einordnen und bisher nicht freiwillig einen höheren Beitrag geleistet haben, beträgt der Mitgliedsbeitrag 120,00 € für 2025 und 240,00 € ab 2027.
 
-#### § 6 Aufteilung Mitgliedsbeitrag
+(8)  
+Für Minderjährige beträgt der Beitrag 12,00 €.
 
-</span><span id="B.6.1"> (1)</span> Der Mitgliedsbeitrag ist vom zuständigen Landesverband aufzuteilen. 40% des Beitrages erhält der Bundesverband.
+(9)  
+Auf Antrag kann der Mitgliedsbeitrag auf bis zu 12,00 € gemindert werden. Der Antrag ist zu begründen. Eine Ermäßigung ist jährlich neu bei dem zuständigen Landesverband zu beantragen. Abweichend davon kann der Bundesvorstand in begründeten Einzelfällen eine mehrjährige Ermäßigung mit dem Mitglied vereinbaren.
 
-<span id="B.6.2">(2)</span> Ist in der Satzung des Landesverbandes keine anderslautende Verteilungsregelung getroffen, gilt folgender Verteilungsschlüssel des Mitgliedbeitrages: Der Landesverband erhält 20%. Der für das Mitglied zuständige Bezirksverband erhält 10%. Der für das Mitglied zuständige Kreisverband erhält 10%. Der für das Mitglied zuständige Ortsverband erhält 20%.
+(10)  
+In Härtefällen kann der Mitgliedsbeitrag auf bis zu 1,00 € gemindert werden. Über Härtefälle entscheidet auf Antrag der Bundesvorstand. Der Antrag ist zu begründen. Die Härtefallregelung ist jährlich neu zu beantragen.
 
-<span id="B.6.3">(3)</span> Sollte im Falle einer Aufteilung nach § 6 Abs. (2) kein für das Mitglied zuständiger Ortsverband und/oder Kreisverband und/oder Bezirksverband existieren, fällt der ihm zustehende Anteil an die nächsthöhere Gliederung.
 
-<span id="B.6.4">(4)</span> (entfallen)
+#### § 6 Aufteilung Mitgliedsbeitrag {#aufteilung_mitgliedsbeitrag}
 
-<span id="B.7">
+(1)  
+Der Mitgliedsbeitrag ist grundsätzlich an den Bundesverband zu bezahlen. Nimmt ausnahmsweise eine Untergliederung einen Mitgliedsbeitrag ein, hat sie diesen unverzüglich an den Bundesverband weiterzuleiten.
+
+(2)  
+Der Mitgliedsbeitrag wird zwischen dem zuständigen Landesverband und dem Bundesverband zu je 50% aufgeteilt.
+
+(3)  
+Der Schatzmeister-Club kann mit 2/3 Mehrheit eine abweichende Aufteilung der Mitgliedsbeiträge beschließen. Dabei kann der Anteil des Bundesverbandes nicht unter 50% sinken.
+
+(4)  
+Die Landesverbände können in ihren Satzungen Regelungen zur Aufteilung ihres Anteils zwischen Ihnen und ihren Untergliederungen treffen. Diese Aufteilung wird vom Bundesverband bei der Auszahlung der Beiträge berücksichtigt.
+
+(5)  
+Landesverbände, die keine Regelung in ihrer Satzung haben, haben anderweitig für eine angemessene finanzielle Ausstattung ihrer Untergliederungen zu sorgen.
+
 
 #### § 7 Verzug
 
-</span><span id="B.7.1"> (1)</span> Ein Mitglied befindet sich im Verzug, wenn der Mitgliedsbeitrag nicht zur Fälligkeit entrichtet wurde.
+(1) Ein Mitglied befindet sich im Verzug, wenn der Mitgliedsbeitrag nicht vollständig zur Fälligkeit entrichtet wurde.
 
-<span id="B.7.2">(2)</span> Ein Mitglied, das sich mit seinem Beitrag um mehr als 12 Monate im Verzug befindet, kann aus der Mitgliederdatenbank gestrichen werden und verliert dadurch seine Mitgliedschaft in allen Gliederungen der Piratenpartei. Vor der Streichung ist das Mitglied mindestens zweimal zu mahnen. Zwischen den Mahnungen muss ein Abstand von mindestens 30 Tagen liegen.
+(2)  
+Ein Mitglied, das sich um mehr als 12 Monate im Verzug befindet, kann aus der Mitgliederdatenbank gestrichen werden und verliert dadurch seine Mitgliedschaft in allen Gliederungen der Piratenpartei. Vor der Streichung ist das Mitglied mindestens zweimal zu mahnen. Zwischen den Mahnungen muss ein Abstand von mindestens 30 Tagen liegen.
 
-<span id="B.7.3">(3)</span> Zuständig für die Streichungen ist der Bundesverband.
+(2a)  
+Sowohl die Landesverbände als auch der Bundesverband dürfen ein Mitglied bzgl. des Verzugs mahnen.
 
-<span id="B.7.4">(4)</span> Die Streichung ist dem Mitglied mitzuteilen. Gegen die Streichung ist Widerspruch beim zuständigen Schiedsgericht zulässig.
+(3)  
+Zuständig für die Streichungen ist der Bundesverband.
 
-<span id="B.8">
+(4)  
+Die Streichung ist dem Mitglied mitzuteilen. Gegen die Streichung ist Widerspruch beim zuständigen Schiedsgericht zulässig.
 
 #### § 8 Beitragsabführung
 
-</span> Der dem Bund zustehende Beitragsanteil der eingehenden Mitgliedsbeiträge ist pro Quartal abzuführen.
+  
+Der Bundesverband führt den Untergliederungen zustehende Beitragsanteile quartalsweise ab. Die Abführung kann ausgesetzt werden, sofern eine Untergliederung ihre Buchhaltungsunterlagen für das Vorjahr noch nicht vollständig abgegeben hat.
 
-<span id="B.9">
+#### § 9 Weiterführende Regelungen {#weiterführende_regelungen}
+  
+Das Nähere regeln die Gliederungen in eigener Zuständigkeit.
 
-#### § 9 Weiterführende Regelungen
+### C. SPENDEN {#c._spenden}
 
-</span> Das Nähere regeln die Gliederungen in eigener Zuständigkeit.
-
-<span id="B.C">
-
-### C. SPENDEN
-
-</span><span id="B.10">
 
 #### § 10 Vereinnahmung
+ 
+Bundesebene, Landesverbände und weitere Teilgliederungen sind berechtigt, Spenden anzunehmen. Ausgenommen sind Spenden, die im Sinne von § 25 Parteiengesetz unzulässig sind. Können unzulässige Spenden nicht zurückgegeben werden, sind diese über die Landesverbände und die Bundesebene unverzüglich an den Präsidenten des Deutschen Bundestages weiterzuleiten.
+ 
+Erbschaften und Vermächtnisse werden ohne Begrenzung angenommen.
 
-</span><span id="B.10.1">(1)</span> Bundesebene, Landesverbände und weitere Teilgliederungen sind berechtigt, Spenden anzunehmen. Ausgenommen sind Spenden, die im Sinne von § 25 Parteiengesetz unzulässig sind. Können unzulässige Spenden nicht zurückgegeben werden, sind diese über die Landesverbände und die Bundesebene unverzüglich an den Präsidenten des Deutschen Bundestages weiterzuleiten.
-
-<span id="B.10.2">(2)</span> Erbschaften und Vermächtnisse werden ohne Begrenzung angenommen.
-
-<span id="B.11">
 
 #### § 11 Veröffentlichung
 
-</span> <span id="B.11.1">(1)</span> Spenden an einen oder mehrere Gebietsverbände, deren Gesamtwert 10.000 Euro pro Jahr übersteigt, sind im öffentlich zugänglichen Rechenschaftsbericht des Gebietsverbandes, der sie vereinnahmt hat, unter Angabe des Namens und der Anschrift des Spenders bzw. der Spenderin zu verzeichnen.
+(1)  
+Spenden an einen oder mehrere Gebietsverbände, deren Gesamtwert 10.000 Euro pro Jahr übersteigt, sind im öffentlich zugänglichen Rechenschaftsbericht des Gebietsverbandes, der sie vereinnahmt hat, unter Angabe des Namens und der Anschrift des Spenders bzw. der Spenderin zu verzeichnen.
 
-<span id="B.11.1">(2)</span> Alle Einzelspenden über 1000 € werden unverzüglich unter Angabe von Spendernamen, Summe und ggf. Verwendungszweck veröffentlicht. <span id="B.12">
+(2)  
+Alle Einzelspenden über 1000 € werden unverzüglich unter Angabe von Spendernamen, Summe und ggf. Verwendungszweck veröffentlicht.
 
 #### § 12 Strafvorschrift
 
-</span> Hat ein Gebietsverband unzulässige Spenden vereinnahmt, ohne sie gemäß Nr. 10 an den Präsidenten des Deutschen Bundestages weiterzuleiten, oder erlangte Spenden nach Nr. 11 nicht im Rechenschaftsbericht veröffentlicht, so verliert er gemäß § 31a Parteiengesetz den ihm nach der jeweiligen Beschlusslage zustehenden Anspruch auf staatliche Teilfinanzierung in Höhe des Zweifachen der rechtswidrig erlangten oder nicht veröffentlichten Spenden.
-
-<span id="B.13">
+  
+Hat ein Gebietsverband unzulässige Spenden vereinnahmt, ohne sie gemäß Nr. 10 an den Präsidenten des Deutschen Bundestages weiterzuleiten, oder erlangte Spenden nach Nr. 11 nicht im Rechenschaftsbericht veröffentlicht, so verliert er gemäß § 31a Parteiengesetz den ihm nach der jeweiligen Beschlusslage zustehenden Anspruch auf staatliche Teilfinanzierung in Höhe des Zweifachen der rechtswidrig erlangten oder nicht veröffentlichten Spenden.
 
 #### § 13 Spendenbescheinigung
 
-</span> Spendenbescheinigungen werden von der vereinnahmenden Gliederung ausgestellt.
-
-<span id="B.14">
+  
+Spendenbescheinigungen werden von der vereinnahmenden Gliederung ausgestellt.
 
 #### § 14 Aufteilung
 
-</span> Jeder Gliederung stehen die bei ihr eingegangenen Spenden ungeteilt zu, sofern eine Zweckbindung nichts anderes vorschreibt. <span id="B.D">
+  
+Jeder Gliederung stehen die bei ihr eingegangenen Spenden ungeteilt zu, sofern eine Zweckbindung nichts anderes vorschreibt.
 
-### D. STAATLICHE TEILFINANZIERUNG
+### D. STAATLICHE TEILFINANZIERUNG {#d._staatliche_teilfinanzierung}
 
-</span> <span id="B.15">
 
-#### § 15 staatliche Teilfinanzierung
+#### § 15 staatliche Teilfinanzierung {#staatliche_teilfinanzierung}
 
-</span><span id="B.15.1"> (1)</span> Der Bundesschatzmeister beantragt jährlich zum 31. Januar für die Bundesebene und die Landesverbände die Auszahlung der staatlichen Mittel.
+(1) Der Bundesschatzmeister beantragt jährlich zum 31. Januar für die Bundesebene und die Landesverbände die Auszahlung der staatlichen Mittel.
 
-<span id="B.15.2"> (2)</span> Der Bundesschatzmeister führt jährlich bis spätestens zum 31. März den innerparteilichen Finanzausgleich durch.
+(2)  
+Der Bundesschatzmeister führt jährlich bis spätestens zum 31. März den innerparteilichen Finanzausgleich durch.
 
-<span id="B.15.3"> (3)</span> Landesverbände, deren Festsetzungsbeträge nach § 19a Abs. 6 PartG für das Anspruchsjahr die Summe aus
+(3)  
+Landesverbände, deren Festsetzungsbeträge nach § 19a Abs. 6 PartG für das Anspruchsjahr die Summe aus
 
 1.  Eigeneinnahmen nach § 24 Abs. 4 Nr. 1 bis 7 PartG des entsprechenden Rechenschaftsjahres und
 2.  Einnahmen des wirtschaftlichen Geschäftsbetriebes des Bundesverbandes, die eindeutig dem jeweiligen Landesverband zuzuordnen sind
 
 übersteigen, wobei Einnahmen aus Unternehmenstätigkeit (§ 24 Abs. 4 Nummer 5 PartG) nur in Höhe des nach Abzug der Ausgaben (§ 24 Abs. 5 Nummer 2 Buchstabe f PartG) verbleibenden Betrages zu berücksichtigen sind, zahlen den sich daraus ergebenden Differenzbetrag zu 100% in den innerparteilichen Finanzausgleich.
 
-<span id="B.15.4"> (4)</span> Der Bundesverband beteiligt sich am innerparteilichen Finanzausgleich mit dem vollständigen Bundesanteil des Festsetzungsbetrages nach § 19a (6) PartG für das Anspruchsjahr.
+(4)  
+Der Bundesverband beteiligt sich am innerparteilichen Finanzausgleich mit dem vollständigen Bundesanteil des Festsetzungsbetrages nach § 19a (6) PartG für das Anspruchsjahr.
 
-<span id="B.15.5"> (5)</span> Kosten für die Grundversorgung, die der Bundesverband für die Gesamtpartei zur Verfügung stellt, werden vorrangig aus dem innerparteilichen Finanzausgleich bedient. Der Schatzmeisterclub legt Art und Umfang hierzu fest.
+(5)  
+Kosten für die Grundversorgung, die der Bundesverband für die Gesamtpartei zur Verfügung stellt, werden vorrangig aus dem innerparteilichen Finanzausgleich bedient. Der Schatzmeisterclub legt Art und Umfang hierzu fest.
 
-<span id="B.15.6"> (6)</span> Der Bundesverband erhält aus dem nach Absatz 5 verbleibenden innerparteilichen Finanzausgleich 15% des um die Kosten aus Absatz 5 reduzierten Festsetzungsbetrages für die Gesamtpartei, soweit diese von den Einzahlungen bedient werden können.
+(6)  
+Der Bundesverband erhält aus dem nach Absatz 5 verbleibenden innerparteilichen Finanzausgleich 15% des um die Kosten aus Absatz 5 reduzierten Festsetzungsbetrages für die Gesamtpartei, soweit diese von den Einzahlungen bedient werden können.
 
-<span id="B.15.7"> (7)</span> Die nach der Abzug aus Absatz 6 verbliebenen Mittel des innerparteilichen Finanzausgleichs an Landesverbände werden wie folgt verteilt:
+(7)  
+Die nach der Abzug aus Absatz 6 verbliebenen Mittel des innerparteilichen Finanzausgleichs an Landesverbände werden wie folgt verteilt:
+
+:   \(a\) Die Mittel werden zunächst an die nicht einzahlenden Landesverbände verteilt: Hierfür wird zunächst der Betrag zu 50% in gleichen Teilen allen 16 Landesverbänden zugerechnet. Weitere 25% werden an alle Landesverbände anteilig nach der Fläche der Bundesländer und die restlichen 25% anteilig nach der Einwohnerzahl der Bundesländer zugerechnet. Anschließend werden die Anteile für die einzahlenden Landesverbände entsprechend dem Proporz dieses Schlüssels auf die restlichen Landesverbände verteilt, so dass die einzahlenden Landesverbände keine Mittel, aber alle verbliebenen Mittel an die nicht einzahlenden Landesverbände zugeteilt werden. Bei dieser Zuteilung ist der Betrag jedes einzelnen Landesverbands durch dessen Eigeneinnahmen nach § 24 (4) Nr. 1 bis 7 PartG des entsprechenden Rechenschaftsjahres nach oben begrenzt.
+:   \(b\) Sind bei der Zuteilung gemäß (a) über die Eigeneinnahmen einzelner Landesverbände hinausgehende Mittel angefallen, so wird diese Summe auf alle 16 Landesverbänden verteilt. Dabei wird zunächst der Betrag zu 50% in gleichen Teilen allen 16 Landesverbänden zugerechnet. Weitere 25% werden an alle Landesverbände anteilig nach der Fläche der Bundesländer und die restlichen 25% anteilig nach der Einwohnerzahl der Bundesländer zugerechnet.
 
 
-(a) Die Mittel werden zunächst an die nicht einzahlenden Landesverbände verteilt: Hierfür wird zunächst der Betrag zu 50% in gleichen Teilen allen 16 Landesverbänden zugerechnet. Weitere 25% werden an alle Landesverbände anteilig nach der Fläche der Bundesländer und die restlichen 25% anteilig nach der Einwohnerzahl der Bundesländer zugerechnet. Anschließend werden die Anteile für die einzahlenden Landesverbände entsprechend dem Proporz dieses Schlüssels auf die restlichen Landesverbände verteilt, so dass die einzahlenden Landesverbände keine Mittel, aber alle verbliebenen Mittel an die nicht einzahlenden Landesverbände zugeteilt werden. Bei dieser Zuteilung ist der Betrag jedes einzelnen Landesverbands durch dessen Eigeneinnahmen nach § 24 (4) Nr. 1 bis 7 PartG des entsprechenden Rechenschaftsjahres nach oben begrenzt.
+### E. ETAT {#e._etat}
 
-(b) Sind bei der Zuteilung gemäß (a) über die Eigeneinnahmen einzelner Landesverbände hinausgehende Mittel angefallen, so wird diese Summe auf alle 16 Landesverbänden verteilt. Dabei wird zunächst der Betrag zu 50% in gleichen Teilen allen 16 Landesverbänden zugerechnet. Weitere 25% werden an alle Landesverbände anteilig nach der Fläche der Bundesländer und die restlichen 25% anteilig nach der Einwohnerzahl der Bundesländer zugerechnet.
-
-<span id="B.E">
-
-### E. ETAT
-
-</span><span id="B.16">
 
 #### § 16 Haushaltsplan
 
-</span><span id="B.16.1"> (1)</span> Der Schatzmeister stellt jedes Kalenderjahr vorab einen Haushaltsplan auf, der vom Vorstand beschlossen wird. Ist es absehbar, dass der Haushaltsansatz nicht ausreicht, hat der Schatzmeister unverzüglich einen Nachtragshaushalt einzubringen.
+(1) Der Schatzmeister stellt jedes Kalenderjahr vorab einen Haushaltsplan auf, der vom Vorstand beschlossen wird. Ist es absehbar, dass der Haushaltsansatz nicht ausreicht, hat der Schatzmeister unverzüglich einen Nachtragshaushalt einzubringen.
 
-<span id="B.16.2"> (2)</span> Der Schatzmeister ist bis zu dessen Verabschiedung an die Grundsätze einer vorläufigen Haushaltsführung gebunden. <span id="B.17">
+(2)  
+Der Schatzmeister ist bis zu dessen Verabschiedung an die Grundsätze einer vorläufigen Haushaltsführung gebunden.
+
 
 #### § 17 Zuordnung
 
-</span> Eine Ausgabe, die beschlossen ist, muss durch einen entsprechenden Etattitel auch möglich sein. Beschlüsse, die mit finanziellen Auswirkungen verbunden sind und für deren Deckung kein entsprechender Etattitel vorgesehen ist, sind nur über die Umwidmung von anderen Etatposten auszuführen.
+  
+Eine Ausgabe, die beschlossen ist, muss durch einen entsprechenden Etattitel auch möglich sein. Beschlüsse, die mit finanziellen Auswirkungen verbunden sind und für deren Deckung kein entsprechender Etattitel vorgesehen ist, sind nur über die Umwidmung von anderen Etatposten auszuführen.
 
-<span id="B.18">
 
 #### § 18 Überschreitung
 
-</span> Wird der genehmigte Etat nicht eingehalten, dann muss der Haushalt des Folgejahres durch Veranschlagung oder über eine Haushaltssperre um denselben Betrag bei den Ausgaben reduziert werden.
+  
+Wird der genehmigte Etat nicht eingehalten, dann muss der Haushalt des Folgejahres durch Veranschlagung oder über eine Haushaltssperre um denselben Betrag bei den Ausgaben reduziert werden.
 
-<span id="B.19">
 
-#### § 19 Weiterführende Regelungen
+#### § 19 Weiterführende Regelungen {#weiterführende_regelungen_1}
 
-</span> Entsprechend dieser Regelung erlassen die Landesverbände und weitere Teilgliederungen die im Sinne des Parteiengesetzes notwendigen ergänzenden Regelungen.
+  
+Entsprechend dieser Regelung erlassen die Landesverbände und weitere Teilgliederungen die im Sinne des Parteiengesetzes notwendigen ergänzenden Regelungen.
 
-<span id="B.F">
 
-### F. Fachausschuss für Finanzen (Schatzmeisterclub)
+### F. Fachausschuss für Finanzen (Schatzmeisterclub) {#f._fachausschuss_für_finanzen_schatzmeisterclub}
 
-</span><span id="B.20">
 
-#### § 20 Mitglieder des Schatzmeisterclubs
+#### § 20 Mitglieder des Schatzmeisterclubs {#mitglieder_des_schatzmeisterclubs}
 
-</span> Der Schatzmeisterclub besteht aus je einem für Finanzen zuständigem Vorstandsmitglied des Bundesverbandes und der Landesverbände (= bis zu 17 stimmberechtigte Mitglieder). Die Mitglieder können ihr Stimmrecht durch einen Vertreter wahrnehmen lassen.
+  
+Der Schatzmeisterclub besteht aus je einem für Finanzen zuständigem Vorstandsmitglied des Bundesverbandes und der Landesverbände (= bis zu 17 stimmberechtigte Mitglieder). Die Mitglieder können ihr Stimmrecht durch einen Vertreter wahrnehmen lassen.
 
-<span id="B.21">
 
-#### § 21 Innere Ordnung des Schatzmeisterclubs
+#### § 21 Innere Ordnung des Schatzmeisterclubs {#innere_ordnung_des_schatzmeisterclubs}
 
-</span> Der Schatzmeisterclub gibt sich eine Geschäftsordnung und veröffentlicht diese angemessen. Der Geschäftsordnung muss eine Mehrheit von mindestens 3/4 der Mitglieder zustimmen.
+  
+Der Schatzmeisterclub gibt sich eine Geschäftsordnung und veröffentlicht diese angemessen. Der Geschäftsordnung muss eine Mehrheit von mindestens 3/4 der Mitglieder zustimmen.
 
-<span id="B.22">
 
-#### § 22 Sitzungen des Schatzmeisterclubs
+#### § 22 Sitzungen des Schatzmeisterclubs {#sitzungen_des_schatzmeisterclubs}
 
-</span> <span id="B.22.1">(1)</span> Eines der Mitglieder lädt zu den Sitzungen ein. Die Ladung erfolgt in Textform spätestens am fünfzehnten Tag vor dem Sitzungstermin, und enthält Angaben zum Anlass der Einberufung, den genauen Sitzungsort, Datum und Uhrzeit des Beginns der Sitzung, sowie eine vorläufige Tagesordnung und die Angabe, wo weitere, aktuelle Veröffentlichungen gemacht werden.
+(1) Eines der Mitglieder lädt zu den Sitzungen ein. Die Ladung erfolgt in Textform spätestens am fünfzehnten Tag vor dem Sitzungstermin, und enthält Angaben zum Anlass der Einberufung, den genauen Sitzungsort, Datum und Uhrzeit des Beginns der Sitzung, sowie eine vorläufige Tagesordnung und die Angabe, wo weitere, aktuelle Veröffentlichungen gemacht werden.
 
-<span id="B.22.2">(2)</span> Der Schatzmeisterclub tagt mindestens zweimal jährlich.
+(2) Der Schatzmeisterclub tagt mindestens zweimal jährlich.
 
-<span id="B.22.3">(3)</span> Der Schatzmeisterclub muss einberufen werden, wenn dies von seinem Bundesverbandsmitglied oder mindestens drei seiner Landesverbandsmitglieder gefordert wird.
+(3) Der Schatzmeisterclub muss einberufen werden, wenn dies von seinem Bundesverbandsmitglied oder mindestens drei seiner Landesverbandsmitglieder gefordert wird.
 
-<span id="B.22.4">(4)</span> Der Schatzmeisterclub ist beschlussfähig, wenn mindestens 2/3 seiner Mitglieder oder deren Vertreter anwesend sind.
+(4) Der Schatzmeisterclub ist beschlussfähig, wenn mindestens 2/3 seiner Mitglieder oder deren Vertreter anwesend sind.
 
-<span id="B.22.5">(5)</span> Über die Beschlüsse und Empfehlungen des Schatzmeisterclubs ist ein Ergebnisprotokoll anzufertigen und zeitnah zu veröffentlichen.
+(5) Über die Beschlüsse und Empfehlungen des Schatzmeisterclubs ist ein Ergebnisprotokoll anzufertigen und zeitnah zu veröffentlichen.
 
-<span id="B.23">
 
-#### § 23 Aufgaben und Kompetenzen des Schatzmeisterclubs
+#### § 23 Aufgaben und Kompetenzen des Schatzmeisterclubs {#aufgaben_und_kompetenzen_des_schatzmeisterclubs}
 
-</span> Zu den Aufgaben des Schatzmeisterclubs gehört die Festlegung von Art und Umfang der Grundversorgung der Gesamtpartei. Der Schatzmeisterclub hat das Recht Beauftragte zu benennen, die die jeweils infrage kommenden Tätigkeitsfelder zu analysieren haben. Sie untersuchen Kostenstrukturen, Arbeitsprozesse und Rentabilität und erarbeiten gegebenenfalls Alternativmodelle. Die Ergebnisse ihrer Untersuchungen legen sie dem Schatzmeisterclub vor, der diese zur Grundlage seiner Entscheidungen macht. Den Beauftragten ist von den beteiligten Personen voller Zugang zu allen erforderlichen Informationen und Ressourcen zu gewähren.
+  
+Zu den Aufgaben des Schatzmeisterclubs gehört die Festlegung von Art und Umfang der Grundversorgung der Gesamtpartei. Der Schatzmeisterclub hat das Recht Beauftragte zu benennen, die die jeweils infrage kommenden Tätigkeitsfelder zu analysieren haben. Sie untersuchen Kostenstrukturen, Arbeitsprozesse und Rentabilität und erarbeiten gegebenenfalls Alternativmodelle. Die Ergebnisse ihrer Untersuchungen legen sie dem Schatzmeisterclub vor, der diese zur Grundlage seiner Entscheidungen macht. Den Beauftragten ist von den beteiligten Personen voller Zugang zu allen erforderlichen Informationen und Ressourcen zu gewähren.
 
-<span id="B.G">
+### G. WIRTSCHAFTLICHER GESCHÄFTSBETRIEB {#g._wirtschaftlicher_geschäftsbetrieb}
 
-### G. WIRTSCHAFTLICHER GESCHÄFTSBETRIEB
 
-</span><span id="B.24">
+#### § 24 Wirtschaftlicher Geschäftsbetrieb {#wirtschaftlicher_geschäftsbetrieb}
 
-#### § 24 Wirtschaftlicher Geschäftsbetrieb
+  
+Es ist den Gliederungen der Piratenpartei nicht gestattet, einen wirtschaftlichen Geschäftsbetrieb zu eröffnen oder zu unterhalten. Die Abwicklung von unternehmerischen Tätigkeiten ist von einem Beauftragten zu besorgen, der vom Bundesvorstand bestellt wird.
 
-</span> Es ist den Gliederungen der Piratenpartei nicht gestattet, einen wirtschaftlichen Geschäftsbetrieb zu eröffnen oder zu unterhalten. Die Abwicklung von unternehmerischen Tätigkeiten ist von einem Beauftragten zu besorgen, der vom Bundesvorstand bestellt wird.
 
-<span id="C">
+### H. Untergliederungen {#h._untergliederungen}
 
-## Abschnitt C: Schiedsgerichtsordnung
------------------------------------
 
-</span>
+#### § 25 Auflösung von Gliederungen {#auflösung_von_gliederungen}
 
-<span id="C.1"></span>
+  
+Bei Auflösung einer Gliederung fließen alle liquiden Mittel und Sachwerte der jeweils nächst höheren Gliederung zu. Für die Abwicklung ist der Schatzmeister der jeweils höheren Gliederung zuständig.
+
+## Abschnitt C: Schiedsgerichtsordnung {#abschnitt_c_schiedsgerichtsordnung}
+
 
 ### § 1 - Grundlagen
 
-<span id="C.1.1">(1)</span> Die Schiedsgerichtsordnung regelt das Verfahren vor den Schiedsgerichten.
+(1)  
+^1^Die Schiedsgerichtsordnung regelt das Verfahren vor den Schiedsgerichten. ^2^Verfahren sind unter anderem Vergleiche, Widersprüche, Einsprüche zu Ordnungsmaßnahmen, einstweilige Anordnungen, Feststellungsklagen, Verpflichtungsklagen, Parteiausschlussverfahren, sofortige Beschwerden und Berufungen.
 
-<span id="C.1.2">(2)</span> Sie ist für Schiedsgerichte jeder Ordnung bindend. Eine Erweiterung oder Abänderung durch andere Gliederungen ist nur an den Stellen und in dem Rahmen zulässig, soweit dies diese Ordnung ausdrücklich vorsieht.
+(2)  
+^1^Die Schiedsgerichtsordnung ist für Schiedsgerichte jeder Gliederung bindend. ^2^Eine Erweiterung oder Abänderung der Schiedsgerichtsordnung durch andere Gliederungen ist nur an den Stellen und in dem Rahmen zulässig, soweit die Schiedsgerichtsordnung dies ausdrücklich vorsieht.
 
-<span id="C.2"></span>
+(3)  
+^1^Ein heranziehen höherrangigen Rechts ist immer möglich.
 
-### § 2 - Schiedsgericht
+### § 2 - Schiedsgerichte
 
-<span id="C.2.1">(1)</span> Auf der Bundes- und Landesebene werden Schiedsgerichte eingerichtet. Durch Satzung können die Landesverbände die Einrichtung von Schiedsgerichten auf einer untergeordneten Gliederungsebene zulassen.
+(1)  
+^1^Auf Bundesebene wird das Bundesschiedsgericht (BSG) und das Föderale Schiedsgericht (FSG) eingerichtet.
 
-<span id="C.2.2">(2)</span> Die Schiedsgerichte sind unabhängig und an keinerlei Weisungen gebunden.
+(1a)  
+^1^Mindestens auf der höchsten Ebene der Gliederungen sind Schiedsgerichte zu bilden.
 
-<span id="C.2.2a">(2a)</span> Der Richter hat über den Hergang bei der Beratung und Abstimmung auch nach Beendigung seines Amtes zu schweigen.
+(2)  
+^1^Die Schiedsgerichte sind unabhängig und an keinerlei Weisungen gebunden.
 
-<span id="C.2.3">(3)</span> Die Richter fällen ihre Entscheidungen nach bestem Wissen und Gewissen auf Grundlage der Satzungen und gesetzlichen Vorgaben.
+(2a)  
+^1^Der Richter hat über den Hergang bei der Beratung und Abstimmung auch nach Beendigung seines Amtes zu schweigen.
 
-<span id="C.2.4">(4)</span> Während eines Verfahrens haben Richter ihre Arbeit außerhalb des Richtergremiums nicht zu kommentieren. Der Richter ist über alle ihm ausschließlich aus seiner amtlichen Tätigkeit bekanntgewordenen Tatsachen, deren Geheimhaltung zur Vorbereitung einer Entscheidung oder im überwiegenden Interesse der Verfahrensbeteiligten geboten ist, gegenüber jedem, dem er über solche Tatsachen nicht eine dienstliche Mitteilung zu machen hat, zur Verschwiegenheit verpflichtet.
+(3)  
+^1^Die Richter fällen ihre Entscheidungen nach bestem Wissen und Gewissen auf Grundlage der Satzungen und/oder höherem Recht.
 
-<span id="C.2.5">(5)</span> Wird von irgendeiner Seite versucht das Verfahren zu beeinflussen, so macht das Schiedsgericht dies unverzüglich öffentlich bekannt.
+(4)  
+^1^Während eines Verfahrens haben Richter ihre Arbeit außerhalb des Richtergremiums nicht zu kommentieren. ^2^Der Richter ist über alle ihm ausschließlich aus seiner amtlichen Tätigkeit bekanntgewordenen Tatsachen, deren Geheimhaltung zur Vorbereitung einer Entscheidung oder im überwiegenden Interesse der Verfahrensbeteiligten geboten ist, gegenüber jedem, dem er über solche Tatsachen nicht eine dienstliche Mitteilung zu machen hat, zur Verschwiegenheit verpflichtet.
 
-<span id="C.2.6">(6)</span> Die Schiedsgerichte geben sich eine Geschäftsordnung. Diese enthält insbesondere Regelungen
+(5)  
+^1^Wird auf rechtswidrige Weise versucht, das Verfahren zu beeinflussen, so hat das Schiedsgericht dies unverzüglich den Verfahrensbeteiligten mitzuteilen. ^2^Eine öffentliche Bekanntmachung dieser Umstände kann direkt durch das Gericht erfolgen oder auf Antrag eines der Verfahrensbeteiligten.
 
--   zur internen Geschäftsverteilung und der Verwaltungsorganisation,
--   über die Bestimmung von Berichterstattern, die Einberufung und den Ablauf von Sitzungen und Verhandlungen,
--   die Vergabe von Aktenzeichen, die Veröffentlichung von Urteilen, die Ankündigung von öffentlichen Verhandlungen und weiteren Bekanntmachungen und
--   die Dokumentation der Arbeit des Schiedsgerichtes, der Aufbewahrung von Akten und der Akteneinsicht.
+(6)  
+^1^Die Schiedsgerichte geben sich eine Geschäftsordnung und veröffentlichen diese. ^2^Diese enthält mindestens folgende Regelungen:
 
-<span id="C.3">
+1.  Eine interne Geschäftsverteilung oder eine klar ersichtliche Regelung zur Besetzung der Kammern und anderer Verwaltungsorganisationen.
+2.  Eine Regelung der Berichterstattung.
+3.  Die Einberufung und den Ablauf von Sitzungen und Verhandlungen.
+4.  Form und Vergabe von Aktenzeichen, die Veröffentlichung von Urteilen und Beschlüssen, die Ankündigung von öffentlichen Verhandlungen und weiteren Bekanntmachungen.
+5.  Dokumentieren der Verfahren und die Aufbewahrung von Verfahrensakten.
 
-### § 3 - Richterwahl
 
-<span id="C.3.1">(1)</span> Die Mitgliederversammlung wählt drei Piraten zu Richtern. Diese wählen aus ihren Reihen einen Vorsitzenden Richter, der das Gericht leitet und die Geschäfte führt.
+### § 3 - Richterwahl auf Landesebene und darunter liegenden Gliederungen {#richterwahl_auf_landesebene_und_darunter_liegenden_gliederungen}
 
-<span id="C.3.2">(2)</span> In einer weiteren Wahl werden zwei Ersatzrichter bestimmt. Die Stimmenzahl entscheidet über die Rangfolge der Ersatzrichter. Bei Stimmengleichheit entscheidet das Los.
+(1)  
+^1^Die Mitgliederversammlung wählt bis zu fünf Piraten zu Richtern. ^2^Diese wählen aus ihren Reihen einen vorsitzenden Richter, der das Gericht leitet und die Geschäfte führt; optional ist die Wahl einer Stellvertretung.
 
-<span id="C.3.3">(3)</span> Die Zahl der zu wählenden Richter und Ersatzrichter kann durch Beschluss der Mitgliederversammlung oder durch Satzungsbestimmung erhöht, aber nicht verringert werden.
+(2)  
+(aufgehoben)
 
-<span id="C.3.4">(4)</span> (aufgehoben)
+(3)  
+^1^Die Zahl der zu wählenden Richter kann durch Beschluss der Mitgliederversammlung oder durch Satzungsbestimmung erhöht, aber nicht verringert werden. ^2^Ein Schiedsgericht muss mindestens mit drei gewählten Richtern besetzt sein, um handlungsfähig zu sein.
 
-<span id="C.3.5">(5)</span> Schiedsgerichtswahlen finden mindestens in jedem zweiten Kalenderjahr statt. Durch Satzungsbestimmung kann hiervon abgewichen werden. Nachwahlen führen zu keiner Amtszeitverlängerung. Das Gericht bleibt bis zur abgeschlossenen Wahl eines neuen Schiedsgerichtes im Amt.
+(4)  
+^1^Schiedsgerichtswahlen finden mindestens in jedem zweiten Kalenderjahr statt. ^2^Eine Amtszeit endet spätestens nach 4 Jahren. ^3^Durch Satzungsbestimmung kann hier von den zwei Jahren abgewichen werden. ^4^Nachwahlen führen zu keiner Amtszeitverlängerung. ^5^Das Gericht bleibt bis zur abgeschlossenen Wahl eines neuen Schiedsgerichts im Amt. ^6^Die Wahl ist abgeschlossen, wenn mindestens drei Richter für eine Amtszeit gewählt wurden. ^7^Werden durch Wahlen nicht die benötigten Richterposten besetzt, sind auf Folgeparteitagen für die laufende Amtszeit Richter nach zu wählen. ^8^Die durch Wegfall von Richtern vakant gewordenen Posten, dürfen die ursprüngliche Gesamtzahl an Richtern bei Nachwahlen nicht überschreiten.
 
-<span id="C.3.6">(6)</span> Richter können nicht zugleich Mitglied eines Vorstandes der Partei oder eines Gebietsverbandes sein, in einem Dienstverhältnis zu der Partei oder einem Gebietsverband stehen oder von ihnen regelmäßige Einkünfte beziehen.
+(5)  
+^1^Richter können nicht zugleich Mitglied eines Vorstandes irgendeiner Gliederung sein, in irgendeinem Dienstverhältnis zu einer Gliederung der Partei stehen oder von der Partei regelmäßige Einkünfte beziehen.
 
-<span id="C.3.7">(7)</span> Mit dem Ende der Mitgliedschaft in der Piratenpartei endet auch das Richteramt.
+(6)  
+^1^Mit dem Ende der Mitgliedschaft in der Piratenpartei endet auch das Richteramt.
 
-<span id="C.3.8">(8)</span> Ein Richter kann durch Erklärung an das Gericht sein Amt beenden. Ist das Gericht nur mit einem Richter besetzt, ist die Erklärung an das übergeordnete Gericht zu richten.
+(7)  
+^1^Ein Richter kann durch Erklärung an das Gericht sein Amt beenden. ^2^Ist das Gericht nur mit einem Richter besetzt, ist die Erklärung an das übergeordnete Gericht zu richten.
 
-<span id="C.3.9">(9)</span> Scheidet ein Richter aus dem Gericht aus, so rückt für ihn der nach der Rangfolge nächste Ersatzrichter dauerhaft nach.
+(8)  
+^1^Das Gericht zeigt dem übergeordneten Gericht Änderungen an seiner Zusammensetzung oder den Eintritt dauerhafter Handlungsunfähigkeit unverzüglich an. ^2^Alternativ unterrichtet der entsprechende Vorstand das übergeordnete Gericht darüber.
 
-<span id="C.3.10">(10)</span> Steht beim Ausscheiden eines Richters kein Ersatzrichter mehr zur Verfügung, so kann die unbesetzte Richterposition durch Nachwahl besetzt werden. Ebenso können Ersatzrichter nachgewählt werden. Die ursprüngliche Zahl an Richtern und Ersatzrichtern darf dabei jedoch nicht überschritten werden. Nachgewählte Ersatzrichter schließen sich in der Rangfolge an noch vorhandene Ersatzrichter an. Nachwahlen gelten nur für den Rest der Amtszeit.
+(9)  
+^1^Die Gerichte können für die Behandlung von Verfahren Kammern bilden. ^2^Diese Kammern bestehen aus mindestens 3 Richtern. ^3^Die Zusammensetzung des Spruchkörpers einer Kammer und vorgesehener Nachrücker, sowie die Verteilung von Verfahren auf einzelne Kammern, regelt das Gericht selbst in einem Geschäftsverteilungsplan, der Teil der Geschäftsordnung ist. ^4^Bei einer Minimalbesetzung kann die Besetzung als einzelner Paragraf in der Geschäftsordnung geregelt werden. ^5^Besteht keine Regelung durch einen Geschäftsverteilungsplan oder durch die Geschäftsordnung, so besteht nur eine einzige Kammer, welche mit allen gewählten Richtern besetzt ist und keine Nachrücker für die Kammer vorsieht.
 
-<span id="C.3.10a">(10a)</span> Das Gericht zeigt dem übergeordneten Gericht Änderungen an seiner Zusammensetzung oder den Eintritt dauerhafter Handlungsunfähigkeit unverzüglich an.
+(10)  
+(aufgehoben)
 
-<span id="C.3.11">(11)</span> Das Bundesschiedsgericht kann durch Geschäftsordnung ein Kammersystem einrichten. Es sind dabei 2 Spruchkammern mit je 3 Richtern zu bilden, die sodann jeweils alleine die Funktion des Bundesschiedsgerichtes übernehmen. Die erste Kammer wird von dem Vorsitzenden des Bundesschiedsgerichtes als Vorsitzenden geleitet. Die zweite Kammer wählt aus ihren Reihen einen Kammervorsitzenden. Beide Kammern zusammen bilden dann den Senat des Bundesschiedsgerichtes, dem der Vorsitzende des Bundesschiedsgerichtes vorsteht. Die Geschäftsordnung legt Regelungen zur Verteilung der Richter und Verfahren auf die Kammern fest, es gilt die Fassung zum Anrufungszeitpunkt. Für Verfahren mit grundsätzlicher Bedeutung oder besonders schwieriger Sachlage kann die zuständige Kammer das Verfahren an den Senat übertragen. Der Beschluss dazu ist unanfechtbar. Die Geschäftsordnung kann auch vorsehen, dass in bestimmten Fällen trotz Bestehens von Spruchkammern der Senat zuständig ist. Die Geschäftsordnung kann eine von § 3 Absatz 2 abweichende, kammerspezifische Rangfolge für Ersatzrichter festlegen. Insbesondere kann die Geschäftsordnung vorsehen dass Ersatzrichter in der Rangfolge vor den in der anderen Kammer tätigen Richtern nachrücken. Fällt die Zahl der Richter im Bundesschiedsgericht auf unter 6, entfallen die Spruchkammern und die verbliebenen Richter entscheiden gemeinschaftlich.
 
-<span id="C.3a"></span>
+### § 3a - Wahl des Bundesschiedsgerichts {#a___wahl_des_bundesschiedsgerichts}
 
-### § 3a - Wahl des Bundesschiedsgericht
+(1)  
+^1^Das Bundesschiedsgericht besteht aus maximal acht Richtern.
 
-<span id="C.3a.1">(1)</span> Für das Bundesschiedsgericht werden abweichend von § 3 Absatz 1 sechs Richter und mindestens zwei Ersatzrichter gewählt.
+(2)  
+^1^Der Bundesparteitag wählt jährlich vier Richter für die Amtsdauer von zwei Jahren.
 
-<span id="C.3a.2">(2)</span> Der Bundesparteitag wählt jährlich drei Richter und mindestens einen Ersatzrichter.
+(3)  
+(aufgehoben)
 
-<span id="C.3a.3">(3)</span> Bei der ersten Wahl werden sechs Richter und mindestens zwei Ersatzrichter gewählt. Die zum ersten Mal ausscheidenden Mitglieder werden durch Los bestimmt.
+(4)  
+^1^Scheiden vor der Wahl Richter aus, für die turnusgemäß keine Nachfolger zu wählen wären, erhöht sich die Anzahl der zu wählenden Richter entsprechend. ^2^In diesem Fall werden die zur nächsten Wahl ausscheidenden Richter unter den neu gewählten Richtern durch Los so bestimmt, dass bei dieser vier Richter zu wählen sind.
 
-<span id="C.3a.4">(4)</span> Scheiden vor der ahl Richter aus, für die turnusgemäß keine Nachfolger zu wählen wären, erhöht sich die Anzahl der zu wählenden Richter entsprechend. In diesem Fall werden die zur nächsten Wahl ausscheidenden Richter unter den neu gewählten Richtern durch Los so bestimmt, dass bei dieser drei Richter zu wählen sind.
+(5)  
+^1^Das Los über die ausscheidenden Richter nach Absatz 4 Satz 2 wird unmittelbar nach der Wahl öffentlich gezogen.
 
-<span id="C.3a.5">(5)</span> Das Los über die ausscheidenden Richter nach den Absatz 3 Satz 2 und Absatz 4 Satz 2 wird unmittelbar nach der Wahl öffentlich gezogen.
+(6)  
+^1^Analog finden für das Bundesschiedsgericht die Regelungen aus § 3 Abs. 3, Abs. 4 Satz 1 und 2, Abs. 5, Abs. 6, Abs. 7 Satz 1 und Abs. 9 Schiedsgerichtsordnung Anwendung. ^2^Bei dauerhafter Handlungsunfähigkeit wird unverzüglich der Bundesvorstand in Kenntnis gesetzt. ^3^Aufgaben des BSG werden kommissarisch längstens bis zum nächsten Bundesparteitag vom FSG geführt.
+ 
 
-<span id="C.3a.6">(6)</span> Ersatzrichter rücken nur für die Richter nach, die für die gleiche Amtszeit gewählt wurden.“
+### § 3b - Wahl des Föderalen Schiedsgerichts {#b___wahl_des_föderalen_schiedsgerichts}
 
-<span id="C.4"></span>
+(1)  
+^1^Auf einem Landesparteitag wird in einer weiteren Richterwahl ein Richter und wenn möglich ein Pirat als Nachrücker in das Föderale Gericht für die Amtszeit von zwei Jahren gewählt. ^2^Dadurch können am Föderalen Gericht bis zu 16 Richter gleichzeitig tätig sein. ^3^Die gewählten Nachrücker sind weder Richter, noch sind sie bis zu einer Amtsübernahme für die gewählte Amtszeit des für den Landesverband vorgesehenen Richterpostens in irgendeiner Form in einer Funktion am Parteischiedsgericht tätig.
 
-### § 4 - Besetzung
+(2)  
+^1^Scheidet während einer Amtszeit ein Richter aus und es gibt keinen gewählten Nachrücker, bleibt der Posten für die Amtsperiode so lange vakant, bis ein neuer Richter aus dem entsprechenden Landesverband nachgewählt wurde.
 
-<span id="C.4.1">(1)</span> Nimmt ein Richter an Beratungen, Sitzungen oder Entscheidungen in einem Verfahren nicht teil und haben die übrigen aktiven Richter den abwesenden Richter diesbezüglich ermahnt und eine angemessene Nachfrist von mindestens 13 Tagen zur Mitwirkung gesetzt, und kommt dieser Richter seiner Mitwirkungspflicht nicht nach, so kann er vom konkreten Verfahren ausgeschlossen werden.
+(3)  
+^1^Wahlen für das Föderale Gericht finden alle zwei Kalenderjahre statt, eine Amtszeit endet aber spätestens nach 4 Jahren automatisch.
 
-<span id="C.4.2">(2)</span> Ein befangener oder ausgeschlossener Richter oder ein Richter, der auf Grund von Krankheit oder Urlaub nicht am Verfahren teilnimmt, wird durch den in der Rangfolge nächsten Ersatzrichter ersetzt. Die Verfahrensbeteiligten sind darüber in Kenntnis zu setzen.
+(4)  
+^1^Analog finden für das Föderale Schiedsgericht die Regelungen aus § 3 Abs. 3 Satz 2, Abs. 4 Satz 1 bis 4, Abs. 5 bis Abs. 9 Schiedsgerichtsordnung Anwendung.
 
-<span id="C.4.3">(3)</span> (aufgehoben)
 
-<span id="C.4.4">(4)</span> Das Gericht ist beschlussfähig, wenn es mit mindestens drei in diesem Verfahren zur Entscheidung befugten Richtern besetzt ist. Für Entscheidungen über Befangenheitsgesuche oder Ausschluss ist eine Notbesetzung von zwei Richtern für die Beschlussfähigkeit ausreichend. Ist ein Gericht nicht mehr beschlussfähig, so erklärt es sich gegenüber den Verfahrensbeteiligten und dem nächsthöheren Gericht für handlungsunfähig.
+### § 4 - Besetzung eines Verfahrens {#besetzung_eines_verfahrens}
 
-<span id="C.5"></span>
+(1)  
+^1^Nimmt ein Richter an Beratungen, Sitzungen oder Entscheidungen in einem Verfahren nicht teil und haben die übrigen am Verfahren beteiligten Richter den abwesenden Richter diesbezüglich schriftlich ermahnt und eine angemessene Nachfrist von mindestens sieben Tagen zur Mitwirkung gegeben, und kommt dieser Richter seiner Mitwirkungspflicht weiterhin nicht nach, so kann er von dem Verfahren per Beschluss ausgeschlossen werden.
 
-### § 5 – Befangenheit
+(2)  
+^1^Ein durch Absatz 1 ausgeschlossener, für befangen erklärter oder aufgrund von Krankheit oder Urlaub abgemeldeter Richter, der somit am Verfahren nicht teilnimmt, wird durch den in Rangfolge stehenden Nachrücker für die Kammer ersetzt, sofern der Geschäftsverteilungsplan oder die Geschäftsordnung es vorsieht. ^2^Der Beschluss ist unanfechtbar.
 
-<span id="C.5.1">(1)</span> Ein Richter ist von Amts wegen von der Ausübung des Richteramts ausgeschlossen:
+(3)  
+^1^Das Gericht ist beschlussfähig, wenn es mit mindestens drei in diesem Verfahren zur Entscheidung befugten Richtern besetzt ist. ^2^Für Entscheidungen über Befangenheitsgesuche, Ausschluss oder fallweiser Handlungsunfähigkeit, ist eine Notbesetzung von zwei Richtern für die Beschlussfähigkeit ausreichend. ^3^Ist ein Gericht nicht mehr beschlussfähig, so erklärt es sich gegenüber den Verfahrensbeteiligten und dem nächsthöheren Gericht für handlungsunfähig.
 
-1.  in Sachen, in denen er selbst Verfahrensbeteiligter ist;
+
+### § 5 -- Befangenheit
+
+(1)  
+^1^Ein Richter ist von Amts wegen von der Ausübung des Richteramts im entsprechenden Verfahren ausgeschlossen,
+
+1.  in Sachen, in denen er selbst Verfahrensbeteiligter im Sinne der Schiedsgerichtsordnung ist;
 2.  in Sachen seines Ehe- oder Lebenspartners, auch wenn die Ehe oder die Lebenspartnerschaft nicht mehr besteht;
-3.  in der Seitenlinie bis zum dritten Grad verwandt oder bis zum zweiten Grad verschwägert ist oder war
-4.  in Sachen eines Vorstands, denen eine unter 1.-3. genannte Person angehört.
-5.  in Sachen in denen er als Prozessbevollmächtigter oder Beistand eines Verfahrensbeteiligten bestellt oder als gesetzlicher Vertreter eines Verfahrensbeteiligten auftzutreten berechtigt oder berechtigt gewesen ist
+3.  in der Seitenlinie bis zum dritten Grad verwandt oder bis zum zweiten Grad verschwägert ist oder war;
+4.  in Sachen eines Vorstands, denen eine unter 1.-3. genannte Person angehört;
+5.  in Sachen, in denen er als Prozessbevollmächtigter oder Beistand eines Verfahrensbeteiligten bestellt oder als gesetzlicher Vertreter eines Verfahrensbeteiligten aufzutreten berechtigt oder berechtigt gewesen ist;
 6.  in Sachen, in denen er als Zeuge oder Sachverständiger vernommen oder zu vernehmen ist;
-7.  in Sachen, die Beschlüsse betreffen, in denen er als Mitglied eines Parteischiedsgerichtes oder eines Vorstandes, Berater des beschlussfassenden Organs, Antragsteller oder sonst an der Ausarbeitung des Antrags- bzw. Beschlusstextes beteiligt war.
-8.  In Sachen in denen er an einer Schlichtung oder einem anderen Verfahren der Konfliktbeilegung außerhalb der Parteigerichtsbarkeit mitgewirkt hat.
+7.  in Sachen, die Beschlüsse betreffen, in denen er Berater des beschlussfassenden Organs war;
+8.  in Sachen, in denen er an einer Schlichtung oder einem anderen Verfahren der Konfliktbeilegung außerhalb der Parteigerichtsbarkeit mitgewirkt hat.
 
-Das Gericht stellt das Ausscheiden durch Beschluss ohne Mitwirkung der betroffenen Richter fest.
+^2^Das Gericht stellt das Ausscheiden durch Beschluss ohne Mitwirkung des betroffenen Richters fest. ^3^Richter sind verpflichtet alle Umstände anzuzeigen, welche die Ablehnung nach Satz 1 tragen können.
 
-<span id="C.5.2">(2)</span> Richter können wegen der Besorgnis der Befangenheit und in den Fällen des Absatz 1 abgelehnt werden. Wegen Besorgnis der Befangenheit findet die Ablehnung statt, wenn ein Grund vorliegt, der geeignet ist, Misstrauen gegen die Unparteilichkeit eines Richters zu rechtfertigen. Richter sind verpflichtet alle Umstände anzuzeigen, welche die Ablehnung nach Satz 1 tragen können. Ein Verfahrensbeteiligter kann einen Richter nicht mehr ablehnen, wenn er sich bei ihm, ohne den ihr bekannten Ablehnungsgrund geltend zu machen, in eine Verhandlung eingelassen oder Anträge gestellt hat.
+(2)  
+^1^Richter können per Antrag wegen der Besorgnis der Befangenheit und in den Fällen des Absatz 1 abgelehnt werden. ^2^Wegen Besorgnis der Befangenheit findet die Ablehnung statt, wenn ein Grund vorliegt, der geeignet ist, Misstrauen gegen die Unparteilichkeit eines Richters zu rechtfertigen. ^3^Die Verfahrensbeteiligten können einen Richter nicht mehr ablehnen, wenn sie sich bei ihm, ohne den ihnen bekannten Ablehnungsgrund geltend zu machen, in eine Verhandlung eingelassen oder Anträge gestellt haben.
 
-<span id="C.5.3">(3)</span> Die Ablehnung ist zu begründen. Abgelehnte Richter müssen zum Ablehnungsgrund dienstlich Stellung nehmen. Den Verfahrensbeteiligten wird Gelegenheit gegeben, hierzu abschließend Stellung zu nehmen.
+(3)  
+^1^Ein Befangenheitsantrag ist zu begründen. ^2^Abgelehnte Richter müssen zum Ablehnungsantrag aus Absatz 2 dienstlich Stellung nehmen. ^3^Den Verfahrensbeteiligten wird die Möglichkeit gegeben, sich nach Zugang der Stellungnahme, binnen sieben Tagen, abschließend zur Stellungnahme zu äußern. ^4^Eine Stellungnahme entfällt, wenn der abzulehnende Richter in seiner dienstlichen Stellungnahme die Ablehnung für begründet hält. ^5^In Eilverfahren sind Stellungnahmen aus Satz 3 binnen drei Tagen einzureichen.
 
-<span id="C.5.4">(4)</span> Ein abgelehnter Richter hat vor Erledigung des Ablehnungsgesuchs nur solche Handlungen vorzunehmen, die ohne Beachtung des Beschleunigungsgrundsatzes keinen Aufschub gestatten.
+(4)  
+^1^Ein abgelehnter Richter hat vor Erledigung des Ablehnungsgesuchs nur solche Handlungen vorzunehmen, die ohne Beachtung des Beschleunigungsgrundsatzes keinen Aufschub gestatten. ^2^Ist der betroffene Richter Berichterstatter im Verfahren, darf er anfallenden Verwaltungsaufgaben bis zu einer Entscheidung seines Befangenheitsantrags weiter erledigen.
 
-<span id="C.5.5">(5)</span> Über die Ablehnung entscheidet das Gericht ohne Mitwirkung des abgelehnten Richters durch Beschluss.
+(5)  
+^1^Über die Ablehnung entscheidet das Gericht ohne Mitwirkung des abgelehnten Richters durch Beschluss.
 
-<span id="C.5.6">(6)</span> Gegen den Beschluss, durch den die Ablehnung für begründet erklärt wird, findet kein Rechtsmittel statt. Gegen den Beschluss, durch den die Ablehnung für unbegründet erklärt wird, findet die sofortige Beschwerde statt. Eine Entscheidung über ein Ablehnungsgesuch nach Absatz 5 durch den Senat des Bundesschiedsgerichtes ist in jedem Fall unanfechtbar.
+(6)  
+^1^Gegen einen begründeten Befangenheitsantrag gibt es keine Rechtsmittel. ^2^Wird ein Befangenheitsantrag als unbegründet abgelehnt, kann sofortige Beschwerde beim Bundesschiedsgericht eingelegt werden. ^3^Entscheidungen des Bundesschiedsgerichts betreffend Ablehnung von Richtern sind unanfechtbar.
 
-<span id="C.6"></span>
 
-### § 6 - Zuständigkeit
+### § 6 - Zuständigkeit {#zuständigkeit_1}
 
-<span id="C.6.1">(1)</span> Zuständig ist generell das Gericht der niedrigsten Ordnung.
+(1)  
+^1^Zuständig ist generell das Gericht der niedrigsten Ordnung. ^2^Ist der Antragsgegner ein Organ der obersten Gliederung eines Landesverbandes, so ist das Landesschiedsgericht erstinstanzlich zuständig. ^3^Ist der Antragsgegner ein Organ des Bundesverbandes, so ist das Förderale Schiedsgericht erstinstanzlich zuständig.
 
-<span id="C.6.2">(2)</span> Die örtliche Zuständigkeit richtet sich nach der Gebietsverbandszugehörigkeit des Antragsgegners zum Zeitpunkt der Anrufung.
+(2)  
+^1^Die örtliche Zuständigkeit richtet sich nach der Gebietsverbandszugehörigkeit des Antragsgegners zum Zeitpunkt der Anrufung.
 
-<span id="C.6.3">(3)</span> Ist der Antragsgegner ein Organ eines Landesverbandes, so ist das Landesschiedsgericht erstinstanzlich zuständig. Ist der Antragsgegner ein Organ des Bundesverbandes, so ist das Bundesschiedsgericht zuständig.
+(3)  
+^1^Ist der Verfahrensgegenstand eine Arbeitsgruppe, Servicegruppe, IT usw., kein eigenständiges Organ der Partei im Sinne der entsprechenden Satzung, ergibt sich die Zuständigkeit eines Schiedsgerichts aus der Zuständigkeit des als Verfahrensbeteiligter zu sehenden Vorstands für die entsprechende Gruppe.
 
-<span id="C.6.4">(4)</span> Für Parteiausschlussverfahren und Einsprüche gegen Ordnungsmaßnahmen ist erstinstanzlich das Landesschiedsgericht des Landesverbandes zuständig, bei dem der Betroffene Mitglied ist. Ist der Betroffene in keinem Landesverband Mitglied, ist das Landesschiedsgericht Nordrhein-Westfalen erstinstanzlich zuständig.
+(4)  
+^1^Für Parteiausschlussverfahren ist erstinstanzlich das Landesschiedsgericht des Landesverbandes zuständig, bei dem der Betroffene Mitglied ist. ^2^Ist der Betroffene in keinem Landesverband Mitglied, ist das Förderale Schiedsgericht erstinstanzlich zuständig.
 
-<span id="C.6.5">(5)</span> Bei Handlungsunfähigkeit des zuständigen Gerichtes verweist das nächsthöhere Gericht den Fall an ein anderes, der Eingangsinstanz gleichrangiges, Gericht.
+(5)  
+^1^Bei fallweiser Handlungsunfähigkeit des zuständigen Gerichts verweist das Föderale Schiedsgericht das Verfahren an ein handlungsfähiges Landesschiedsgericht. ^2^Bei dauerhafter Handlungsunfähigkeit eines Landesschiedsgerichts wird erstinstanzlich das Föderale Schiedsgericht angerufen, so dieses handlungsfähig ist. ^3^Ist das Förderale Schiedsgericht handlungsunfähig, so übernimmt das Bundesschiedsgericht. ^4^Wenn alle Optionen ausgeschöpft sind, kann das Bundesschiedsgericht ein Verfahren an sich ziehen und verhandeln. ^5^Ist das Bundesschiedsgericht handlungsunfähig. übernimmt das Föderale Schiedsgericht die Aufgaben des BSG bis zur erneuten Handlungsfähigkeit.
 
-<span id="C.6.6">(6)</span> Ist ein Gericht dauerhaft handlungsunfähig, überträgt das übergeordnete Gericht dessen Zuständigkeit auf Antrag einem dem Ausgangsgericht gleichrangigen Gericht (vertretendes Gericht). Antragsberechtigt sind der Vorstand des betroffenen Verbandes sowie Mitglieder und Organe, die das handlungsunfähige Gericht angerufen haben oder glaubhaft machen, eine solche Anrufung zu beabsichtigen. Erfolgt eine Verweisung nach Absatz 5 auf Grund dauerhafter Handlungsunfähigkeit des zuständigen Gerichtes, kann die Übertragung auch ohne Antrag erfolgen. Die Übertragung ist durch das erlassende Gericht und den Vorstand des betroffenen Verbandes unverzüglich öffentlich bekannt zu machen.
+(6)  
+(aufgehoben)
 
-<span id="C.6.7">(7)</span> Die Übertragung der Zuständigkeit nach Absatz 6 endet, wenn das betroffene Gericht wieder handlungsfähig ist. Verfahren, in denen das vertretende Gericht bereits angerufen wurde, bleiben bei diesem anhängig.
-
-<span id="C.6.8">(8)</span> Die Übertragung der Zuständigkeit nach Absatz 6 kann nur durch Beschluss des übertragenden Gerichtes geändert werden, wenn dies auf Grund der dauerhaften Handlungsunfähigkeit oder der Überlastung des vertretenden Gerichtes notwendig wird.
-
-<span id="C.6.9">(9)</span> An Stelle der Übertragung der Zuständigkeit an ein gleichrangiges Gericht nach Absatz 6 kann das zuständige Gericht die Zuständigkeit des handlungsunfäigen Gerichtes nach einem Verteilungsplan an mehrere diesem gleichrangige Gerichte (vertretende Gerichte) verweisen. Die Absätze 7 und 8 gelten entsprechend; eine Änderung ist insofern zulässig, als eines der vertretenden Gerichte dauerhaft handlungsunfähig oder überlastet wird.
-
-<span id="C.6.10">(10)</span> Gerichte, denen nach Absatz 6 oder Absatz 9 Zuständigkeiten übertragen werden, sollen vor der Übertragung angehört werden. Bei der Übertragung ist insbesondere ihre Besetzung und ihre Auslastung durch bereits anhängige und zu erwartende Verfahren zu berücksichtigen.
-
-<span id="C.7"></span>
 
 ### § 7 - Schlichtung
 
-<span id="C.7.1">(1)</span> Das Gericht soll in jeder Lage des Verfahrens auf eine gütliche Beilegung des Rechtsstreits oder einzelner Streitpunkte bedacht sein.
+(1)  
+^1^Das Gericht soll in jeder Lage des Verfahrens auf eine gütliche Beilegung des Rechtsstreits oder einzelner Streitpunkte bedacht sein. ^2^Auf dieses Ziel hinarbeitend kann das Gericht zur Sache eine Stellungnahme oder Rechtsauffassung zu einem konkreten Punkt verfassen.
 
-<span id="C.7.2">(2)</span> Der Verhandlung geht zum Zwecke der gütlichen Beilegung des Rechtsstreits eine Güteverhandlung voraus, es sei denn, die Güteverhandlung erscheint erkennbar aussichtslos.
+(2)  
+^1^Einer Verhandlung kann im Vorfeld eine Güteverhandlung voraus gehen, wenn das Gericht der Auffassung ist, dass die Güteverhandlung erfolgsversprechend erscheint.
 
-<span id="C.7.3">(3)</span> Das Gericht hat in der Güteverhandlung den Sach- und Streitstand mit den Verfahrensbeteiligten unter freier Würdigung aller Umstände zu erörtern und, soweit erforderlich, Fragen zu stellen. Die erschienenen Verfahrensbeteiligten sollen hierzu persönlich gehört werden.
+(3)  
+^1^Das Gericht kann auf Wunsch in der Güteverhandlung den Sach- und Streitstand mit den Verfahrensbeteiligten unter freier Würdigung aller Umstände erörtern und, soweit erforderlich, Fragen stellen. ^2^Die erschienenen Verfahrensbeteiligten müssen hierzu persönlich gehört werden.
 
-<span id="C.7.4">(4)</span> Erscheinen alle Verfahrensbeteiligten in der Güteverhandlung nicht, soll das Ruhen des Verfahrens angeordnet werden.
+(4)  
+^1^Erscheinen nicht alle Verfahrensbeteiligten in der Güteverhandlung wird das Ruhen des Verfahrens für 14 Tage angeordnet. ^2^Sollte in diesem Zeitraum von den Verfahrensbeteiligten keine Reaktion erfolgen, entscheidet das Gericht in Abwesenheit der Beteiligten nach Aktenlage im Verfahren.
 
-<span id="C.7.5">(5)</span> Das Gericht kann die Verfahrensbeteiligten für die Güteverhandlung sowie für weitere Güteversuche vor eine hierfür bestimmte, nicht am Verfahren beteiligte und nicht entscheidungsbefugte Person (Güterichter) verweisen. Der Güterichter kann alle Methoden der Konfliktbeilegung einschließlich der Mediation einsetzen.
+(5)  
+^1^Das Gericht kann die Verfahrensbeteiligten für die Güteverhandlung sowie für weitere Güteversuche vor eine hierfür bestimmte, nicht am Verfahren beteiligte und nicht entscheidungsbefugte Person (Güterichter) verweisen. ^2^Vorzugsweise soll der Güterichter aus den Reihen der Vertrauenspiraten bestimmt werden, aber jede andere Person die die Kriterien aus Satz 1 erfüllen, sind zulässig. ^3^Der Güterichter kann alle Methoden der Konfliktbeilegung einschließlich der Mediation einsetzen. ^4^Das Schiedsgericht kann dem Güterichter auf seinen Wunsch die Verfahrensakte zur Verfügung stellen.
 
-<span id="C.7.6">(6)</span> Ein gerichtlicher Vergleich kann auch dadurch geschlossen werden, dass die Verfahrensbeteiligten dem Gericht einen schriftlichen Vergleichsvorschlag unterbreiten oder einen schriftlichen Vergleichsvorschlag des Gerichtes durch Schriftsatz gegenüber dem Gericht annehmen. Das Gericht stellt das Zustandekommen und den Inhalt eines nach Satz 1 geschlossenen Vergleichs durch Beschluss fest.“
-
-<span id="C.8"></span>
+(6)  
+^1^Die Verfahrensbeteiligten und der Güterichter können im Rahmen der Güteverhandlung dem Gericht gegenüber einen schriftlichen Vergleichsvorschlag machen oder das Gericht einen Beschluss an die Verfahrensbeteiligten. ^2^Sollte es dadurch zu einer Übereinkunft der Verfahrensbeteiligten kommen, stellt dieses das Gericht durch Beschluss fest. ^3^Das Verfahren wird durch einen derartigen Beschluss abgeschlossen; der Beschluss ist unanfechtbar und der innerparteiliche Rechtsweg ausgeschöpft.
 
 ### § 8 - Anrufung
 
-<span id="C.8.1">(1)</span> Das Gericht wird nur auf Anrufung aktiv. Antragsberechtigt ist jeder Pirat und jedes Organ einer Gliederung, sofern ein eigener Anspruch oder eine Verletzung in einem eigenen Recht geltend gemacht oder Einspruch gegen eine sie betreffende Ordnungsmaßnahme erhoben wird. Anträge auf Parteiausschluss können nur von Gliederungsorganen gestellt werden.
+(1)  
+^1^Das Gericht wird nur auf Anrufung aktiv. ^2^Nach einer Anrufung und vor einer Einlassung in ein Verfahren, wird, wenn ein Verfahrensbeteiligter ein Pirat und kein Organ ist, die Mitgliedschaft und Verbandszugehörigkeit bei der Mitgliederverwaltung, abgefragt. ^3^Jeder Pirat hat das Recht, sofern ein eigener Anspruch geltend gemacht wird, eine Verletzung in einem eigenen Recht vorliegt oder ein Einspruch gegen eine ihn betreffende Ordnungsmaßnahme erhoben wird, das zuständige Gericht anzurufen. ^4^Auch sind Feststellungs- und Verpflichtungsklagen möglich, sofern sie durch Satz 3 gedeckt werden. ^5^Anträge auf Parteiausschluss gegenüber einem Pirat können nur von Vorständen gestellt werden. ^6^Jedes Organ einer Gliederung hat das Recht, sofern ein eigener Anspruch geltend gemacht wird, eine Verletzung in einem eigenen Recht vorliegt oder ein Einspruch gegen eine, das Organ betreffende, Ordnungsmaßnahme erhoben wird, das zuständige Gericht anzurufen. ^7^Auch sind Feststellungs- und Verpflichtungsklagen möglich, sofern sie durch Satz 3 gedeckt werden.
 
-<span id="C.8.2">(2)</span> Die Anrufung wird beim Gericht eingereicht. Der Eingang bei einer Geschäftsstelle der jeweiligen Gliederung ist fristwahrend.
+(2)  
+^1^Die Anrufung findet über die Mailadresse des entsprechenden Schiedsgerichts statt. ^2^Sofern es sich um größere Datenanhänge handelt oder dieser nur in Papierform vorliegt, soll im Vorfeld mit dem entsprechenden Gericht per E-Mail in Kontakt getreten werden. ^3^Der Eingang bei einer Geschäftsstelle der jeweiligen Gliederung oder der Bundesgeschäftsstelle ist höchstens fristwahrend. ^4^Eine Geschäftsstelle ist kein Bestandteil eines Schiedsgerichts, noch ist ein Schiedsgericht gegenüber dem Personal in einer Geschäftsstelle weisungsbefugt.
 
-<span id="C.8.3">(3)</span> Eine formgerechte Anrufung muss in Textform erfolgen und
+(3)  
+^1^Eine formgerechte Anrufung muss in Textform erfolgen und
 
 1.  Name, Anschrift und weitere Kontaktdaten des Antragstellers,
 2.  Name und Anschrift des Antragsgegners,
 3.  klare, eindeutige Anträge und
-4.  eine Begründung inklusive einer Schilderung der Umstände enthalten.
+4.  eine Begründung einschließlich einer Schilderung der Umstände enthalten.
 
-<span id="C.8.4">(4)</span> Die Anrufung muss binnen zwei Monaten seit Bekanntwerden der Rechtsverletzung erfolgen. Ein Einspruch gegen eine Ordnungsmaßnahme muss spätestens am 14. Tag nach Mitteilung des Beschlusses erhoben werden. Ein Antrag auf Parteiausschluss soll in einem angemessenen Zeitraum seit Bekanntwerden des entscheidenden Vorfalls gestellt werden.
+^2^Sofern Vertreter benannt wurden, muss auf Verlangen ebenfalls eine Anschrift angegeben werden.
 
-<span id="C.8.5">(5)</span> Nach eingegangener Anrufung entscheidet das Gericht über die Zuständigkeit und korrekte Einreichung der Anrufung.
+(4)  
+^1^Die Anrufung muss binnen zwei Monaten seit Bekanntwerden der Rechtsverletzung erfolgen. ^2^Ein Einspruch gegen eine Ordnungsmaßnahme muss spätestens am 14. Tag nach Erhalt der schriftlichen Mitteilung des Beschlusses erhoben werden. ^3^Ein Antrag auf Parteiausschluss, soll in einem angemessenen Zeitraum seit Bekanntwerden des entscheidenden Vorfalls gestellt werden, sechs Monate nicht überschreiten.
 
-<span id="C.8.6">(6)</span> Wird der Anrufung stattgegeben, so wird das Verfahren eröffnet. Andernfalls erhält der Antragsteller eine begründete Ablehnung mit Rechtsbehelfsbelehrung. Gegen die Ablehnung findet die sofortige Beschwerde statt. Wird der Beschwerde stattgegeben, so wird das Verfahren am ursprünglichen Gericht eröffnet.
+(5)  
+^1^Nach eingegangener Anrufung entscheidet das Gericht über die Zuständigkeit, korrekte Einreichung der Anrufung und andere Formalien. ^2^Ein Verweisungsbeschluss durch fallweise Handlungsunfähigkeit stellt nur einen Formalakt dar und ist kein Einlass im Verfahren.
 
-<span id="C.8.7">(7)</span> (aufgehoben)
+(6)  
+^1^Wird der Anrufung stattgegeben, so wird das Verfahren durch Beschluss eröffnet. ^2^Andernfalls erhält der Antragsteller eine förmliche Ablehnung mit Begründung und Rechtsbehelfsbelehrung. ^3^Gegen die Ablehnung kann sofortige Beschwerde eingelegt werden. ^4^Wird der Beschwerde stattgegeben, so wird das Verfahren eröffnet. ^5^Wird der Beschwerde am Bundesschiedsgericht stattgegeben, so wird das Verfahren am ursprünglichen Gericht eröffnet.
+ 
 
-<span id="C.9"></span>
+### § 9 - Eröffnung eines Verfahrens {#eröffnung_eines_verfahrens}
 
-### § 9 - Eröffnung
+(1)  
+^1^Das Gericht eröffnet das Verfahren nach erfolgreicher Anrufung durch einen Beschluss. ^2^Das Gericht informiert die Verfahrensbeteiligten per Beschluss, über das Aktenzeichen, die Besetzung des Gerichtes einschließlich des Berichterstatters. ^3^Diese Mitteilung enthält eine Kopie der Anrufung sowie mindestens die Aufforderung an den Antragsgegner, binnen einer vom Gericht zu bestimmenden Frist zum Verfahren Stellung zu nehmen zu können.
 
-<span id="C.9.1">(1)</span> Das Gericht eröffnet das Verfahren nach erfolgreicher Anrufung mit einem Schreiben an die Verfahrensbeteiligten. Das Schreiben informiert über den Beginn des Verfahrens, über die Besetzung des Gerichtes und enthält eine Kopie der Anrufung sowie die Aufforderung an den Antragsgegner, binnen einer vom Gericht zu bestimmenden Frist zum Verfahren Stellung zu nehmen.
+(2)  
+^1^Jeder Pirat hat zu jedem Zeitpunkt das Recht, dem Gericht gegenüber einen Vertreter seines Vertrauens zu benennen, der ihn bis auf Widerruf vertritt. ^2^Im Eröffnungsbeschluss ist der Pirat darauf hinzuweisen.
 
-<span id="C.9.2">(2)</span> Jeder Pirat hat zu jedem Zeitpunkt das Recht, dem Gericht gegenüber einen Vertreter seines Vertrauens zu benennen, der ihn bis auf Widerruf vertritt. Im Eröffnungschreiben sind die Verfahrensbeteiligten darauf hinzuweisen.
+(3)  
+^1^Ist ein Organ Verfahrensbeteiligter, so hat es einen Vertreter zu bestimmen, der ihn bis auf Widerruf vertritt und dem Gericht gegenüber zu benennen ist. ^2^Ist eine Mitgliederversammlung Verfahrensbeteiligte und hat diese keine Vertretung bestimmt, so wird die Vertretung durch den Vorstand bestimmt, der die Mitgliederversammlung einberufen hat. ^3^Der Vorstand wird dadurch nicht zum Verfahrensbeteiligten und die Vertretung ist nicht an Weisungen des Vorstands gebunden.
 
-<span id="C.9.3">(3)</span> Ist ein Organ Verfahrensbeteiligter, so bestimmt es einen Vertreter, der ihn bis auf Widerruf vertritt. Ist eine Mitgliederversammlung Verfahrensbeteiligte und hat sie keinen Vertreter bestimmt, so wird ihr Vertreter durch den Vorstand bestimmt.
+(4)  
+^1^Wird das Gericht aufgrund einer Ordnungsmaßnahme oder eines Parteiausschlussverfahrens gegen einen Piraten angerufen, so enthält der Eröffnungsbeschluss zusätzlich die Nachfrage an den betroffenen Piraten, ob dieser ein nichtöffentliches Verfahren wünscht. ^2^Entsprechend zu veröffentlichende Dokumentationen sind bis zu einer Antwort auszusetzen. ^3^Nichtöffentliche Verfahren sind von allen Verfahrensbeteiligten und dem Gericht vertraulich zu behandeln.
 
-<span id="C.9.4">(4)</span> Wird das Gericht aufgrund einer Ordnungsmaßnahme oder eines Parteiausschlussverfahrens gegen einen Piraten angerufen, so enthält das Schreiben zusätzlich die Nachfrage an den betroffenen Piraten, ob dieser ein nichtöffentliches Verfahren wünscht. Nichtöffentliche Verfahren sind von allen Verfahrensbeteiligten und dem Gericht vertraulich zu behandeln.
-
-<span id="C.9.5">(5)</span> Verfahrensbeteiligte sind
+(5)  
+^1^Verfahrensbeteiligte sind
 
 1.  Antragsteller,
 2.  Antragsgegner und
-3.  Beigeladene, sofern sie dies beantragen.“
+3.  Beigeladene, sofern dies beschlossen wurde.
 
-<span id="C.10"></span>
 
 ### § 10 - Verfahren
 
-<span id="C.10.1">(1)</span> Das Gericht erforscht den Sachverhalt von Amts wegen; die Beteiligten sind dabei heranzuziehen. Es ist an das Vorbringen und die Beweisanträge der Verfahrensbeteiligten nicht gebunden. Das Gericht sorgt dafür, dass die Beteiligten auf alle relevanten Informationen gleichwertigen Zugriff haben.
+(1)  
+^1^Das Gericht erforscht den Sachverhalt von Amts wegen; die Beteiligten sind dabei heranzuziehen. ^2^Es ist an das Vorbringen und die Beweisanträge der Verfahrensbeteiligten nicht gebunden. ^3^Das Gericht sorgt dafür, dass die Beteiligten auf alle relevanten Informationen gleichwertigen Zugriff haben.
 
-<span id="C.10.2">(2)</span> Zur Aufklärung des Sachverhaltes kann das Gericht jede Person einladen und befragen. Alle Organe der Piratenpartei sind verpflichtet, einer Einladung des Gerichtes zu folgen und dem Gericht Akteneinsicht zu gewähren. Das Gericht darf Verschlusssachen einsehen.
+(2)  
+^1^Zur Aufklärung des Sachverhaltes kann das Gericht jede Person einladen und befragen. ^2^Alle Organe der Piratenpartei sind verpflichtet, einer Einladung des Gerichtes zu folgen und dem Gericht Akteneinsicht zu gewähren. ^3^Das Gericht darf Verschlusssachen einsehen.
 
-<span id="C.10.2a">(2a)</span> Die Schiedsgerichte leisten gegenseitig Amtshilfe und gewähren Akteneinsicht.
+(2a)  
+^1^Die Schiedsgerichte leisten auf Anfrage gegenseitig Amtshilfe und haben Akteneinsicht zu gewähren. ^2^Bei Verweisungsfällen ist in jedem Fall die Fallakte der Vorinstanz mit beizulegen. ^3^Die Amtshilfe erstreckt sich ebenfalls über nichtöffentliche Verfahren, sind vom Inhalt her aber ebenfalls als nichtöffentlich zu behandeln.
 
-<span id="C.10.3">(3)</span> Das Gericht bestimmt für das Verfahren einen beteiligten Richter als Berichterstatter. Die Verfahrensbeteiligten werden über den Fortgang des Verfahrens durch den Berichterstatter informiert und haben das Recht dazu Stellung zu nehmen. Der Berichterstatter kann auch durch Geschäftsverteilungsplan bestimmt werden.
+(3)  
+^1^Das Gericht bestimmt für das Verfahren einen beteiligten Richter zum Berichterstatter oder kann dies durch eigene Regelung in seiner Geschäftsordnung oder GvP regeln. ^2^Die Verfahrensbeteiligten werden über den Fortgang des Verfahrens vorrangig durch den Berichterstatter informiert und haben das Recht dazu Stellung zu nehmen. ^3^Der Umfang der Berichterstattung beinhaltet zumindest das Verschicken von Beschlüssen, Nachfragen und Bestätigungsmail von eigehenden Anträgen. ^4^Weiteres kann in der Geschäftsordnung geregelt werden.
 
-<span id="C.10.4">(4)</span> Das Gericht beraumt grundsätzlich eine fernmündliche Verhandlung an. Es kann mündliche Verhandlungen durchführen oder im schriftlichen Verfahren entscheiden. Es hat eingehende Anträge der Verfahrensbeteiligten angemessen zu berücksichtigen. Entscheidungen des Gerichtes hierzu sind unanfechtbar.
+(4)  
+^1^Das Gericht verhandelt im schriftlichen oder fernmündlichen Verfahren. ^2^Die Verfahrensbeteiligten werden im Eröffnungsbeschluss aufgefordert, für eine der Formen zu votieren. ^3^Während eines Verfahrens kann das Gericht grundsätzlich so viele fernmündliche Verhandlungen wie nötig anberaumen. ^4^Das Gericht kann selbst, oder auf Antrag, beschließen, in Präsenz zu verhandeln. ^5^Eingehende Anträge zum Verfahrensablauf sind angemessen zu berücksichtigen, Entscheidungen hierzu sind unanfechtbar.
 
-<span id="C.10.5">(5)</span> Das Gericht bestimmt Ort und Zeit der Verhandlung. Die Ladungsfrist beträgt 13 Tage. In dringenden Fällen sowie im Einvernehmen mit den Verfahrensbeteiligten kann diese Frist bis auf drei Tage abgekürzt werden. Das Gericht kann auch ohne Anwesenheit der Verfahrensbeteiligten verhandeln und entscheiden; die Verfahrensbeteiligten sind darauf in der Ladung hinzuweisen.
+(5)  
+^1^Das Gericht bestimmt Ort und Zeit einer Verhandlung. ^2^Die Ladungsfrist beträgt 13 Tage. ^3^Im Einvernehmen mit den Verfahrensbeteiligten kann diese Frist bis auf drei Tage verkürzt werden. ^4^Das Gericht kann auch ohne Anwesenheit der Verfahrensbeteiligten verhandeln und entscheiden; die Verfahrensbeteiligten sind darauf in der Ladung hinzuweisen.
 
-<span id="C.10.5a">(5a)</span> Bei einer mündlichen oder fernmündlichen Verhandlung obliegt die Sitzungsleitung einem vom Gericht bestimmten Richter. Den Verfahrensbeteiligten ist angemessene Redezeit zu gewähren. Bei einer Verhandlung über eine Ordnungsmaßnahme oder einen Parteiausschluss hat der betroffene Pirat das letzte Wort.
+(5a)  
+^1^Bei einer mündlichen oder fernmündlichen Verhandlung obliegt die Sitzungsleitung einem vom Gericht bestimmten in dem Verfahren zur Entscheidung befugten Richter. ^2^Den Verfahrensbeteiligten ist angemessene Redezeit zu gewähren. ^3^Bei einer Verhandlung über eine Ordnungsmaßnahme oder einen Parteiausschluss hat der betroffene Pirat das letzte Wort.
 
-<span id="C.10.6">(6)</span> Tritt zwischen der letzten mündlichen Verhandlung und dem Urteilsspruch dem Gericht ein Richter hinzu, der in der mündlichen Verhandlung nicht anwesend war, oder wird das Gericht durch Wahlen ausgewechselt, so ist den Verfahrensbeteiligten erneut Gehör zu gewähren.
+(6)  
+^1^Kommt zwischen einer Verhandlung und einem Urteilsspruch oder vergleichbarem Beschluss ein Richter zum Verfahren neu hinzu, der bisher nicht im Verfahren involviert war, oder wird das Gericht durch Wahlen ausgewechselt, so ist den Verfahrensbeteiligten erneut, mindestens durch eine fernmündliche Verhandlung, Gehör zu gewähren. ^2^Bei einem schriftlich geführten Verfahren findet Satz 1 keine Anwendung.
 
-<span id="C.10.7">(7)</span> Verhandlungen sind grundsätzlich öffentlich. Das Gericht kann die Öffentlichkeit ausschließen, wenn dies im Interesse der Partei oder eines Verfahrensbeteiligten geboten ist. Bei einer Verhandlung über eine Ordnungsmaßnahme oder einen Parteiausschluss eines Piraten ist die Öffentlichkeit auf Antrag des Betroffenen, oder falls dieser nicht zur Verhandlung anwesend ist von Amts wegen, auszuschließen. Bei Verhandlungen zu nichtöffentlichen Verfahren ist die Öffentlichkeit immer ausgeschlossen.
+(7)  
+^1^Verhandlungen sind grundsätzlich öffentlich. ^2^Das Gericht kann die Öffentlichkeit ausschließen, wenn dies im Interesse der Partei oder eines Verfahrensbeteiligten geboten ist. ^3^Bei einer Verhandlung über eine Ordnungsmaßnahme oder den Parteiausschluss eines Piraten ist die Öffentlichkeit auf Antrag des Betroffenen, oder falls dieser nicht zur Verhandlung anwesend ist, von Amts wegen auszuschließen. ^4^Bei Verhandlungen zu nichtöffentlichen Verfahren ist die Öffentlichkeit immer ausgeschlossen.
 
-<span id="C.10.8">(8)</span> Das Gericht kann das Ruhen des Verfahrens anordnen, wenn eine wesentliche Frage des Verfahrens Gegenstand eines staatsanwaltschaftlichen Ermittlungsverfahrens ist, oder vor einem staatlichen Gericht oder einer staatlichen Schiedsstelle anhängig ist oder dies von einem der Verfahrensbeteiligten beantragt wird.
+(8)  
+^1^Das Gericht kann das Ruhen des Verfahrens anordnen, wenn eine wesentliche Frage des Verfahrens,
 
-<span id="C.10.9">(9)</span> Nach Ablauf von drei Monaten nach Verfahrenseröffnung können die Verfahrensbeteiligten Beschwerde wegen Verfahrensverzögerung einlegen. In Eilsachen sowie nach Zurückverweisung nach § 13 Absatz 5 SGO kann die Beschwerde nach Ablauf von zwei Wochen eingelegt werden. Die Beschwerde ist beim Berufungsgericht und im Fall des Bundesschiedsgerichtes bei der nicht befassten Kammer einzulegen. Die Beschwerde kann auch eingelegt werden, wenn nicht innerhalb eines Monats nach Anrufung über die Verfahrenseröffnung entschieden wurde. Das Berufungsgericht soll das Verfahren an ein anderes, der Vorinstanz gleichrangiges Gericht, verweisen; in Eilsachen kann es das Verfahren an sich ziehen. <span id="C.10a"></span>
+1.  Gegenstand eines staatsanwaltschaftlichen Ermittlungsverfahrens ist;
+2.  vor einem staatlichen Gericht oder einer staatlichen Schiedsstelle anhängig ist;
+3.  als Grundsatzfrage beim Bundesschiedsgericht vorliegt
+4.  oder dies von einem der Verfahrensbeteiligten beantragt wird.
 
-<span id="C.10.10">(10)</span> Das Gericht kann von Amts wegen oder auf Antrag andere, deren rechtliche Interessen durch die Entscheidung berührt werden, beiladen.
+^2^Spätestens 42 Tage (6 Wochen) nach Beschlussfassung zum Ruhen des Verfahrens wird das Verfahren fortgesetzt, wenn bis dahin kein Verfahrensbeteiligter einen Antrag auf Fortsetzung des Ruhens des Verfahrens gestellt und ausreichend begründet hat. ^3^Das Gericht entscheidet über den Antrag.
 
-<span id="C.10.11">(10)</span> Sind an dem streitigen Rechtsverhältnis Dritte derart beteiligt, dass die Entscheidung auch ihnen gegenüber nur einheitlich ergehen kann, so sind sie beizuladen (notwendige Beiladung).
+(9)  
+^1^Nach Ablauf von drei Monaten nach Verfahrenseröffnung, können die Verfahrensbeteiligten Beschwerde wegen Verfahrensverzögerung einlegen. ^2^In Eilsachen kann eine Beschwerde nach Ablauf von 14 Tagen eingelegt werden. ^3^Die Beschwerde ist beim Bundesschiedsgericht (Berufungsgericht) einzulegen. ^4^Eine Beschwerde kann auch eingelegt werden, wenn nicht innerhalb von 21 Tagen nach Anrufung in einem Hauptverfahren und 10 Tage in einem Eilverfahren das Gericht über die Verfahrenseröffnung entschieden hat. ^5^Bezieht sich die Beschwerde auf ein Verfahren an einem Landesschiedsgericht, so hat das Berufungsgericht das Verfahren an ein anderes, der Vorinstanz gleichrangiges, Gericht zu verweisen. ^6^Steht kein gleichrangiges Gericht zur Verfügung, kann das Bundesschiedsgericht das Verfahren an sich ziehen und selbst entscheiden. ^7^Bei Eilsachen verweist das Berufungsgericht das Verfahren oder verhandelt selbst.
 
-<span id="C.10.12">(12)</span> Der Beiladungsbeschluss ist allen Verfahrensbeteiligten zuzustellen. Dabei sollen der Stand der Sache und der Grund der Beiladung angegeben werden. In der Beiladung ist darauf hinzuweisen, dass der Beigeladene auf Antrag zum Verfahrensbeteiligten wird. Die Beiladung ist unanfechtbar.
+(10)  
+^1^Das Gericht kann von Amts wegen oder auf Antrag Piraten oder Organe, deren rechtliche Interessen durch die Entscheidung berührt werden, beiladen. ^2^Ein Verfahren Pirat gegen Pirat ist nicht statthaft.
 
-### § 10a - Wiedereinsetzung in den vorherigen Stand
+(11)  
+^1^Sind an dem streitigen Rechtsverhältnis Dritte derart beteiligt, dass die Entscheidung auch ihnen gegenüber nur einheitlich ergehen kann, so sind diese beizuladen (notwendige Beiladung).
 
-<span id="C.10a.1">(1)</span> War jemand ohne Verschulden verhindert, eine Frist einzuhalten, so ist ihm auf Antrag Wiedereinsetzung in den vorigen Stand zu gewähren. Das Verschulden eines Vertreters ist dem Vertretenen zuzurechnen.
+(12)  
+^1^Der Beiladungsbeschluss ist allen Verfahrensbeteiligten zuzustellen. ^2^Dabei sollen der Stand der Sache und der Grund der Beiladung angegeben werden. ^3^In der Beiladung ist darauf hinzuweisen, dass der Beigeladene auf Antrag zum Verfahrensbeteiligten wird. ^4^Die Beiladung ist unanfechtbar.
 
-<span id="C.10a.2">(2)</span> Der Antrag ist innerhalb von einer Woche nach Wegfall des Hindernisses zu stellen. Die Tatsachen zur Begründung des Antrags sind glaubhaft zu machen. Innerhalb der Antragsfrist ist die versäumte Handlung nachzuholen. Ist dies geschehen, so kann Wiedereinsetzung auch ohne Antrag gewährt werden.
+### § 10a - Wiedereinsetzung in den vorherigen Stand {#a___wiedereinsetzung_in_den_vorherigen_stand}
 
-<span id="C.10a.3">(3)</span> Nach 3 Monaten seit dem Ende der versäumten Frist kann die Wiedereinsetzung nicht mehr beantragt oder die versäumte Handlung nicht mehr nachgeholt werden, außer wenn dies vor Ablauf der 3-Monatsfrist infolge höherer Gewalt unmöglich war.
+(1)  
+^1^War jemand ohne Verschulden verhindert eine Frist einzuhalten, so ist ihm auf begründetem Antrag Wiedereinsetzung in den vorigen Stand zu gewähren. ^2^Das Verschulden eines Vertreters ist dem Vertretenen zuzurechnen.
 
-<span id="C.10a.4">(4)</span> Über die Wiedereinsetzung entscheidet das zuständige Gericht.
+(2)  
+^1^Der Antrag ist innerhalb einer Woche nach Wegfall des Hindernisses zu stellen. ^2^Die Tatsachen zur Begründung des Antrags sind glaubhaft zu machen. ^3^Innerhalb der Antragsfrist ist die versäumte Handlung nachzuholen. ^4^Ist dies geschehen, so kann Wiedereinsetzung auch ohne Antrag gewährt werden.
 
-<span id="C.11"></span>
+(3)  
+^1^Nach 3 Monaten seit dem Ende der versäumten Frist kann die Wiedereinsetzung nicht mehr beantragt oder die versäumte Handlung nicht mehr nachgeholt werden, außer wenn dies vor Ablauf der 3-Monatsfrist infolge höherer Gewalt unmöglich war.
 
-### § 11 - Einstweilige Anordnung
+(4)  
+^1^Über die Wiedereinsetzung entscheidet das zuständige Gericht.
+ 
 
-<span id="C.11.1">(1)</span> Auf Antrag kann das in der Hauptsache zuständige Gericht einstweilige Anordnungen in Bezug auf den Verfahrensgegenstand treffen. Eilmaßnahmen nach § 10 Absatz 5 Satz 4 PartG können durch einstweilige Anordnung außer Kraft gesetzt werden.
+### § 11 - Einstweilige Anordnung {#einstweilige_anordnung}
 
-<span id="C.11.2">(2)</span> Einstweilige Anordnungen sind zulässig, wenn die Gefahr besteht dass die Verwirklichung eines Rechts des Antragstellers vereitelt oder wesentlich erschwert werden könnte, oder sie zur vorläufigen Regelung in Bezug auf ein streitiges Rechtsverhältnis um wesentliche Nachteile abzuwenden nötig erscheint. Eilbedürfnis und Sicherungsinteresse sind zu begründen und glaubhaft zu machen.
+(1)  
+^1^Auf Antrag kann das für die Hauptsache zuständige Gericht einstweilige Anordnungen treffen oder dieses in Bezug auf den Verfahrensgegenstand in einer Hauptsache machen. ^2^Eilmaßnahmen nach § 10 Absatz 5 Satz 4 PartG können durch einstweilige Anordnung außer Kraft gesetzt werden. ^3^Ohne Antrag wird beim Verfahren zu einer einstweiligen Anordnung kein Hauptverfahren am zuständigen Gericht eröffnet.
 
-<span id="C.11.3">(3)</span> Der Antrag auf Erlass einer einstweiligen Anordnung ist dem Antragsgegner unverzüglich anzuzeigen, sofern hierdurch nicht der Zweck des Antrags vereitelt wird. Einstweilige Anordnungen oder deren Ablehnung sind den Verfahrensbeteiligten unverzüglich bekanntzugeben und mit einer Begründung und einer Rechtsbehelfsbelehrung zu versehen. Die Begründung kann das Gericht innerhalb einer Woche nachreichen.
+(2)  
+^1^Einstweilige Anordnungen sind zulässig, wenn die Gefahr besteht, dass die Verwirklichung eines Rechts des Antragstellers vereitelt oder wesentlich erschwert werden könnte, oder sie zur vorläufigen Regelung in Bezug auf ein streitiges Rechtsverhältnis, um wesentliche Nachteile abzuwenden nötig erscheinen. ^2^Eilbedürfnis und Sicherungsinteresse sind zu begründen und glaubhaft zu machen.
 
-<span id="C.11.4">(4)</span> Gegen die einstweilige Anordnung kann innerhalb von 14 Tagen nach Bekanntgabe und Erhalt der Begründung beim erlassenden Gericht Widerspruch eingelegt werden. Ein Widerspruch hat keine aufschiebende Wirkung.
+(2a)  
+^1^Ein Verfahren zur einstweiligen Anordnung wird grundsätzlich im Schriftverfahren geführt. ^2^Der Verfahrensgegner muss nicht zwingend gehört werden. ^3^Auf Antrag kann mit verkürzter Ladungszeit von sieben Tagen oder durch Beschluss des Gerichts, zu einer Verhandlung geladen werden, eine 72-stündige Ladungszeit kann aber nicht unterschritten werden. ^4^Ist der Antragsteller ein Organ, so ist dem Gericht gegenüber zeitgleich ein Vertreter zu benennen.
 
-<span id="C.11.5">(5)</span> Das Gericht entscheidet über den Widerspruch binnen 14 Tagen oder, falls eine Verhandlung durchgeführt wurde, unverzüglich im Anschluß an diese. Gegen die Entscheidung kann Berufung eingelegt werden.
+(3)  
+^1^Der Antrag auf Erlass einer einstweiligen Anordnung ist dem Antragsgegner unverzüglich, spätestens aber nach 48 Stunden nach Eingang bei Gericht, anzuzeigen, sofern hierdurch nicht der Zweck des Antrags vereitelt wird. ^2^Einstweilige Anordnungen oder deren Ablehnung sind den Verfahrensbeteiligten unverzüglich bekanntzugeben und mit einer Begründung und einer Rechtsbehelfsbelehrung zu versehen. ^3^Die Begründung kann das Gericht innerhalb einer Woche nachreichen.
 
-<span id="C.11.6">(6)</span> Gegen die Ablehnung des Antrages auf Erlass einer einstweiligen Anordnung findet die sofortige Beschwerde statt.
+(4)  
+^1^Gegen die einstweilige Anordnung kann innerhalb von 14 Tagen nach Bekanntgabe und Erhalt der Begründung einschließlich Rechtsmittelbelehrung beim Föderalen Schiedsgericht Widerspruch eingelegt werden. ^2^Ein Widerspruch hat keine aufschiebende Wirkung.
 
-<span id="C.11.7">(7)</span> Auf Entscheidungen zu einstweiligen Anordnungen finden die § 12 Absatz 7-9 analoge Anwendung.
+(5)  
+^1^Das Gericht entscheidet über den Widerspruch binnen 14 Tagen oder, falls eine Verhandlung durchgeführt wurde, unverzüglich im Anschluss an diese. ^2^Gegen die Entscheidung kann Berufung beim Berufungsgericht eingelegt werden.
 
-<span id="C.12"></span>
+(6)  
+^1^Gegen die Ablehnung des Antrages auf Erlass einer einstweiligen Anordnung findet die sofortige Beschwerde statt.
 
-### § 12 - Urteil
+(7)  
+^1^Sofern kein Absatz etwas Eigenes regelt, finden zu einstweiligen Anordnungen die §§ 8 Absatz 1 Satz 1 und 2, Absätze 2-3, § 12 Absätze 5-8 und § 14 analog Anwendung.
+ 
 
-<span id="C.12.1">(1)</span> Das Urteil soll drei Monate nach Verfahrenseröffnung vorliegen. Die Richter haben auf ein zügiges Verfahren hinzuwirken.
+### § 12 - Beschlüsse und Urteile {#beschlüsse_und_urteile}
 
-<span id="C.12.2">(2)</span> entfällt
+(1)  
+^1^Ein Urteil oder ein vergleichbarer Beschluss soll möglichst drei Monate nach Verfahrenseröffnung vorliegen. ^2^Die Richter haben auf ein zügiges Verfahren hinzuwirken.
 
-<span id="C.12.3">(3)</span> Das Urteil enthält einen Tenor, eine Sachverhaltsdarstellung und eine Begründung mit Würdigung der Sach- und Rechtslage. Es wird mit einfacher Mehrheit gefällt und begründet. Enthaltungen sind nicht zulässig. Das Abstimmverhalten der Richter wird nicht mitgeteilt.
+(2)  
+^1^Das Urteil oder ein vergleichbarer Beschluss enthält einen Tenor, eine Sachverhaltsdarstellung und eine Begründung mit Würdigung der Sach- und Rechtslage. ^2^Es wird mit einfacher Mehrheit gefällt und begründet, Enthaltungen sind nicht zulässig. ^3^Das Abstimmverhalten der Richter wird nicht mitgeteilt.
 
-<span id="C.12.4">(4)</span> Richter haben das Recht, in der Urteilsbegründung eine abweichende Meinung zu äußern. Näheres regelt die Geschäftsordnung des Gerichtes.
+(3)  
+^1^Richter haben das Recht, in einem Urteil oder vergleichbarem Beschluss in der Begründung eine abweichende Meinung zu äußern. ^2^Näheres kann in der Geschäftsordnung des Gerichtes geregelt werden.
 
-<span id="C.12.5">(5)</span> Ist gegen das Urteil Berufung möglich, so ist diesem eine Rechtsbehelfsbelehrung beizufügen.
+(4)  
+^1^Ist gegen Urteile oder Beschlüsse die Berufung oder sofortige Beschwerde möglich, so ist darauf in einer Rechtsbehelfsbelehrung hinzuweisen.
 
-<span id="C.12.6">(6)</span> Die Verfahrensbeteiligten erhalten eine Ausfertigung des Urteils in Textform.
+(5)  
+^1^Die Verfahrensbeteiligten erhalten eine Ausfertigung des Urteils oder gefasster Beschlüsse in Textform.
 
-<span id="C.12.7">(7)</span> Das Gericht bewahrt eine schriftliche, von allen beteiligten Richtern unterschriebene Ausfertigung des Urteils auf.
+(6)  
+^1^Das Gericht bewahrt eine schriftliche, vom hierfür durch das Schiedsgericht beauftragten Richter unterschriebene, Ausfertigung des eines Urteils und der Beschlüsse im Verfahren auf. ^2^Näheres zur Form der Aufbewahrung, regelt die Geschäftsordnung des jeweiligen Schiedsgerichts.
 
-<span id="C.12.8">(8)</span> Alle Urteile und Beschlüsse werden veröffentlicht. Personennamen sind dabei zu pseudonymisieren. Gliederungsnamen und die Namen der beteiligten Richter in ihrer Funktion sind hiervon ausgenommen. Auf begründeten Antrag oder von Amts wegen werden Textpassagen geschwärzt, soweit dies zum Schutz von Persönlichkeitsrechten ausnahmsweise erforderlich ist.
+(7)  
+^1^Alle Urteile und Beschlüsse werden veröffentlicht, Personennamen sind dabei zu pseudonymisieren. ^2^Gliederungsnamen und die Namen der beteiligten Richter in ihrer Funktion sind hiervon ausgenommen. ^3^Auf begründeten Antrag oder von Amts wegen werden Textpassagen geschwärzt, soweit dies zum Schutz von Persönlichkeitsrechten ausnahmsweise erforderlich ist.
 
-<span id="C.12.9">(9)</span> Eine Abschrift der zu veröffentlichenden Urteilsfassung ist dem Bundesschiedsgericht zur gesammelten Veröffentlichung von Schiedsgerichtsentscheidungen zu übersenden. Näheres regelt die Geschäftsordnung des Bundesschiedsgerichts.
+(8)  
+(aufgehoben)
 
-<span id="C.13"></span>
 
 ### § 13 - Berufung
 
-<span id="C.13.1">(1)</span> Gegen erstinstanzliche Urteile steht jedem Verfahrensbeteiligten die Berufung zu. Gegen Entscheidungen des Bundesschiedsgerichtes findet keine Berufung statt.
+(1)  
+^1^Gegen erstinstanzliche Urteile oder Beschlüsse sofern diese es vorsieht, steht jedem Verfahrensbeteiligten die Berufung zu. ^2^Gegen Entscheidungen des Bundesschiedsgerichtes findet keine Berufung statt.
 
-<span id="C.13.2">(2)</span> Die Berufung ist binnen 14 Tagen beim Gericht der nächsthöheren Ordnung einzureichen und zu begründen. Der Berufungsschrift ist die angefochtene Entscheidung samt erstinstanzlichem Aktenzeichen beizufügen. Maßgeblich für den Lauf der Berufungsfrist ist die Zustellung des Urteils inklusive Rechtsmittelbelehrung. Eine Berufung muss jedoch spätestens nach 3 Monaten nach Urteilsverkündung eingelegt sein.
+(2)  
+^1^Die Berufung ist binnen 14 Tagen beim Berufungsgericht (Bundesschiedsgericht) einzureichen und zu begründen. ^2^Der Berufungsschrift ist die angefochtene Entscheidung samt erstinstanzlichem Aktenzeichen beizufügen. ^3^Maßgeblich für den Lauf der Berufungsfrist ist die Zustellung des Urteils oder Beschlusses inklusive Rechtsmittelbelehrung. ^4^Eine Berufung muss jedoch spätestens ein Monaten nach Urteils- oder Beschlussverkündung eingelegt sein.
 
-<span id="C.13.3">(3)</span> Das erstinstanzliche Gericht stellt dem Gericht der Berufungsinstanz für die Dauer des Berufungsverfahrens die Akten zur Verfügung.
+(3)  
+^1^Das erstinstanzliche Gericht stellt dem Berufungsgericht für die Dauer des Berufungsverfahrens die Akten zur Verfügung.
 
-<span id="C.13.4">(4)</span> Die Rücknahme der Berufung ist in jeder Lage des Verfahrens ohne Zustimmung des Berufungsgegners zulässig.
+(4)  
+^1^Die Rücknahme der Berufung ist in jeder Lage des Verfahrens ohne Zustimmung des Berufungsgegners zulässig.
 
-<span id="C.13.5">(5)</span> Das Berufungsgericht entscheidet über Klageanträge entweder selbst oder verweist das Verfahren an das Ausgangsgericht unter Beachtung der Rechtsauffassung des Berufungsgerichts zur erneuten Verhandlung zurück.
+(5)  
+^1^Das Bundesschiedsgericht entscheidet über Klageanträge entweder selbst oder verweist das Verfahren an das Ausgangsgericht unter Beachtung der Rechtsauffassung des Bundesschiedsgerichts zur erneuten Verhandlung zurück.
 
-<span id="C.13.6">(6)</span> (aufgehoben)
 
-<span id="C.13a"></span>
+### § 13a - Sofortige Beschwerde {#a___sofortige_beschwerde}
 
-### § 13a - Sofortige Beschwerde
+(1)  
+^1^Die sofortige Beschwerde ist binnen 14 Tagen bei dem Gericht, dessen Entscheidung angefochten wird, einzulegen.
 
-<span id="C.13a.1">(1)</span> Die sofortige Beschwerde ist binnen zwei Wochen bei dem Gericht, dessen Entscheidung angefochten wird, einzulegen.
+(2)  
+^1^In der Beschwerdeschrift muss mindestens die Bezeichnung der angefochtenen Entscheidung enthalten sein sowie eine Erklärung, die klar erkennen lässt gegen was Beschwerde in der Entscheidung eingelegt wird. ^2^Die Beschwerde soll begründet werden.
 
-<span id="C.13a.2">(2)</span> Die Beschwerdeschrift muss die Bezeichnung der angefochtenen Entscheidung sowie die Erklärung enthalten, dass Beschwerde gegen diese Entscheidung eingelegt werde. Die Beschwerde soll begründet werden.
+(3)  
+^1^Gelangt das Beschwerdegericht zu der Entscheidung, dass die sofortige Beschwerde, welche eine Entscheidung anficht, begründet ist, wird durch Beschluss inklusive einer rechtlichen Würdigung das Verfahren an das Ursprungsgericht zurückverwiesen. ^2^Kann das Beschwerdegericht, durch welchen Umstand auch immer, der sofortigen Beschwerde nicht Abhilfe verschaffen, wird die sofortige Beschwerde per Beschluss zur letztlichen Entscheidung an das Bundesschiedsgericht verwiesen.
 
-<span id="C.13a.3">(3)</span> Erachtet das Gericht, dessen Entscheidung angefochten wird, die Beschwerde für begründet, so hat es ihr abzuhelfen; andernfalls ist die Beschwerde unverzüglich dem Beschwerdegericht vorzulegen.
+(3a)  
+^1^Ist das Bundesschiedsgericht das Beschwerdegericht und kann es, durch welchen Umstand auch immer, der sofortigen Beschwerde nicht Abhilfe verschaffen, wir die sofortige Beschwerde per Beschluss zur letztlichen Entscheidung an das Föderale Schiedsgericht verwiesen.
 
-<span id="C.13a.4">(4)</span> Beschwerdegericht ist das Berufungsgericht. Beschwerdegericht für Entscheidungen einer Kammer des Bundesschiedsgerichtes ist der Senat des Bundesschiedsgerichtes.
+(4)  
+^1^Das Beschwerdegericht kann über die Beschwerde ohne Verhandlung entscheiden. ^2^Die Entscheidung des Beschwerdegerichtes ist unanfechtbar.
 
-<span id="C.13a.5">(5)</span> Das Beschwerdegericht kann über die Beschwerde ohne Verhandlung entscheiden. Die Entscheidung des Beschwerdegerichtes ist unanfechtbar.
+### § 13b -- Wiederaufnahme {#b_wiederaufnahme}
 
-### § 13b – Wiederaufnahme
+(1)  
+^1^Ein rechtskräftig beendetes Verfahren kann auf Antrag eines Verfahrensbeteiligten wieder aufgenommen werden, sofern
 
-<span id="C.13b.1">(1)</span> Ein rechtskräftig beendetes Verfahren kann auf Antrag eines beschwerten Verfahrensbeteiligten wieder aufgenommen werden:
+1.  das Gericht nicht vorschriftsgemäß besetzt war und dies dem Antragsteller erst im Nachhinein bekannt wurde;
+2.  ein Verfahrensbeteiligter nicht oder nicht ordnungsgemäß vertreten war, wenn dieser die Prozessführung weder ausdrücklich oder stillschweigend genehmigt hat;
+3.  bei einem Zeugnis oder Gutachten, auf welches das Urteil gegründet ist, der Zeuge oder Sachverständige sich einer Verletzung der Wahrheitspflicht schuldig gemacht hat;
+4.  eine Urkunde, auf die das Urteil gegründet ist, fälschlich angefertigt oder verfälscht war;
+5.  ein Richter bei dem Urteil mitgewirkt hat, der sich in Beziehung auf den Rechtsstreit einer vorsätzlichen Verletzung seiner Amtspflichten gegen den Verfahrensbeteiligten schuldig gemacht hat;
+6.  die Entscheidung auf einer rechtsgültig aufgehobenen Entscheidung beruht.
 
-1.  wenn das Gericht nicht vorschriftgemäß besetzt war und dies dem Antragsteller erst im Nachhinein bekannt wurde;
-2.  wenn ein Verfahrensbeteiligter nicht oder nicht ordnungsgemäß vertreten war, sofern dieser die Prozessführung weder ausdrücklich oder stillschweigend genehmigt hat;
-3.  wenn bei einem Zeugnis oder Gutachten, auf welches das Urteil gegründet ist, der Zeuge oder Sachverständige sich einer Verletzung der Wahrheitspflicht schuldig gemacht hat;
-4.  wenn eine Urkunde, auf die das Urteil gegründet ist, fälschlich angefertigt oder verfälscht war;
-5.  wenn ein Richter bei dem Urteil mitgewirkt hat, der sich in Beziehung auf den Rechtsstreit einer vorsätzlichen Verletzung seiner Amtspflichten gegen den Verfahrensbeteiligten schuldig gemacht hat;
-6.  wenn die Entscheidung auf einer rechtsgültig aufgehobenen Entscheidung beruht.
+(2)  
+^1^Die Wiederaufnahme ist ausgeschlossen, wenn der Antragsteller den Grund für die Wiederaufnahme selbst verursacht oder zu vertreten hat. ^2^Der Grund der Wiederaufnahme ist durch den Antragssteller glaubhaft zu machen.
 
-<span id="C.13b.2">(2)</span> Die Wiederaufnahme ist ausgeschlossen, wenn der Antragsteller den Grund für die Wiederaufnahme selbst verursacht oder zu vertreten hat. Der Grund ist durch den Antragssteller glaubhaft zu machen.
+(3)  
+^1^Der Antrag ist binnen eines Monats nach Bekanntwerden des Grundes bei dem Gericht zu stellen, bei dem das Verfahren zuletzt anhängig war.
 
-<span id="C.13b.2">(2)</span> Der Antrag ist binnen eines Monats nach Bekanntwerden des Grundes bei dem Gericht zustellen, bei dem das Verfahren zuletzt anhängig war.
-
-<span id="C.14"></span>
 
 ### § 14 - Dokumentation
 
-<span id="C.14.1">(1)</span> Das Gericht dokumentiert das Verfahren.
+(1)  
+^1^Das Gericht dokumentiert das Verfahren und weist auf die Form oder Formen der Dokumentation mit dem ersten Schreiben an die Verfahrensbeteiligten hin.
 
-<span id="C.14.2">(2)</span> Die Verfahrensakte umfasst Verlaufsprotokolle von Anhörungen und Verhandlungen, alle für das Verfahren relevanten Schriftstücke und das Urteil.
+(2)  
+^1^Die Verfahrensakte umfasst mindestens die Protokolle von Verhandlungen, alle für das Verfahren relevanten Schriftstücke, gefasste Urteile und/oder Beschlüsse und gegebenenfalls Akten aus der/den Vorinstanzen.
 
-<span id="C.14.3">(3)</span> Das Gericht kann eine Tonaufzeichnung von einer Verhandlung erstellen. Diese wird gelöscht, wenn die Verfahrensbeteiligten innerhalb eines Monats nach Erhalt des Protokolls keine Einwände erhoben haben.
+(3)  
+^1^Das Gericht kann eine Tonaufzeichnung von einer Verhandlung erstellen. ^2^Diese wird gelöscht, wenn die Verfahrensbeteiligten innerhalb von 14 Tagen nach Erhalt eines inhaltlichen Protokolls keine Einwände erhoben haben. ^3^Die Tonaufzeichnung an sich wird nicht weitergegeben oder vervielfältigt.
 
-<span id="C.14.4">(4)</span> Die Verfahrensbeteiligten können Einsicht in die Verfahrensakte nehmen.
+(4)  
+^1^Die Verfahrensbeteiligten haben ein Anrecht auf Einsicht in die Verfahrensakte. ^2^Der Antrag auf Einsichtnahme in Verfahrensakten nach Abschluss eines Verfahrens ist an das entsprechende Gericht zu stellen und zu begründen.
 
-<span id="C.14.5">(5)</span> Nach Abschluss des Verfahrens ist die Verfahrensakte fünf Jahre aufzubewahren. Urteile sind unbefristet aufzubewahren.
+(5)  
+^1^Nach Abschluss des Verfahrens ist jede Verfahrensakte fünf Jahre aufzubewahren. ^2^Urteile und Beschlüsse sind unbefristet aufzubewahren. ^3^Die Lagerung ist in den Geschäftsordnungen der jeweiligen Schiedsgerichte zu regeln, die Bundesgeschäftsstelle ist eine grundsätzliche Lagermöglichkeit.
 
-<span id="C.15"></span>
 
 ### § 15 - Rechenschaftsbericht
 
-<span id="C.15.1">(1)</span> Während seiner Amtszeit soll das Gericht in regelmäßigen Abständen insbesondere über die Zahl der anhängigen und abgeschlossenen Fälle berichten.
+(1)  
+^1^Während seiner Amtszeit soll das Gericht in regelmäßigen Abständen insbesondere über die Zahl der anhängigen und abgeschlossenen Fälle berichten. ^2^Dies kann auch über eine eigene Internetseite oder im Piratenwiki geschehen.
 
-<span id="C.15.2">(2)</span> Das Gericht kann bei laufenden Verfahren, bei denen es ein erhebliches parteiöffentliches Interesse feststellt, nach eigenem Ermessen öffentliche Stellungnahmen abgeben. Stellungnahmen zu nicht öffentlichen Verfahren sind unzulässig.
+(2)  
+^1^Das Gericht kann bei laufenden Verfahren, bei denen es ein erhebliches parteiöffentliches Interesse feststellt, nach eigenem Ermessen öffentliche Stellungnahmen abgeben. ^2^Stellungnahmen zu nicht öffentlichen Verfahren sind unzulässig.
 
-<span id="C.15.3">(3)</span> Das Gericht legt dem Parteitag einen Arbeitsbericht vor, der die Fälle der Amtsperiode inklusive Urteil kurz darstellt.
+(3)  
+^1^Das Gericht legt dem Parteitag einen Arbeitsbericht vor, der die Fälle der Amtsperiode inklusive Urteil und abschließender Beschlüsse kurz darstellt. ^2^Richter aus dem Föderalen Gericht handeln auf ihrem jeweiligen Landesparteitag nach Satz 1.
 
-<span id="C.16"></span>
 
-### § 16 - Kosten und Auslagen
+### § 16 - Kosten und Auslagen {#kosten_und_auslagen}
 
-<span id="C.16.1">(1)</span> Das Schiedsgerichtsverfahren ist kostenfrei. Jeder Verfahrensbeteiligter trägt seine eigenen Auslagen für die Führung des Verfahrens.
+(1)  
+^1^Das Schiedsgerichtsverfahren ist für die Verfahrensbeteiligten kostenfrei. ^2^Jeder Verfahrensbeteiligte trägt seine eigenen Auslagen für die Führung des Verfahrens oder anfallende Kosten für eine Vertretung. ^3^Kosten, die im Zuge eines Verfahrens anfallen (Portokosten, Büromaterial usw.), sind von der Gliederung zu tragen.
 
-<span id="C.16.2">(2)</span> Richter erhalten für ihre Tätigkeit keine Entschädigung. Die notwendigen Auslagen, insbesondere Reisekosten, trägt der jeweilige Gebietsverband.
+(2)  
+^1^Richter erhalten für ihre Tätigkeit keine Entschädigung. ^2^Die notwendigen Auslagen, insbesondere Reisekosten zu mündlichen Verhandlungen, trägt der jeweilige Gebietsverband. ^3^Reisekosten zu Parteitagen zum Ende einer Amtszeit zwecks Berichterstattung oder wenn es vom Gebietsvorstand erbeten wurde, ist dem Vorsitzendes des jeweiligen Schiedsgerichts vorbehalten oder einem vom Gericht bestimmten Richter. ^4^Beim Bundesschiedsgericht sind entsprechende Kosten beim Bundesvorstand einzureichen, beim Föderalen Schiedsgericht beim einladenden Gebietsverband. ^5^Außerordentliche Kosten eines Richters des Föderalen Gerichts werden vom entsendenden Landesverband getragen.
 
-<span id="C.17"></span>
+### § 17 - Inkrafttreten und Übergangsbestimmungen {#inkrafttreten_und_übergangsbestimmungen}
 
-### § 17 - Inkrafttreten und Übergangsbestimmungen
+(1)  
+^1^Änderungen der Schiedsgerichtsordnung treten mit Beschluss in Kraft, spätestens aber mit Schließung der jeweiligen Mitgliederversammlung.
 
-<span id="C.17.1">(1)</span> Änderungen der Schiedsgerichtsordnung treten mit Beschluss in Kraft.
+(2)  
+^1^Die Amtszeit der Richter wird durch die zum Zeitpunkt der Wahl gültigen Regelungen der jeweiligen zuständigen Satzung bestimmt.
 
-<span id="C.17.2">(2)</span> Die Amtszeit der Richter wird durch die zum Zeitpunkt der Wahl gültigen Regelungen bestimmt.
+(3)  
+^1^Für laufende Verfahren ist die Schiedsgerichtsordnung in der zum Zeitpunkt der Verfahrenseröffnung gültigen Fassung maßgebend. ^2^Entsprechende Regelungen aus den §§ 10, 12 und 14 der jeweils gültigen Fassung sind zu berücksichtigen.
 
-<span id="C.17.3">(3)</span> Für laufende Verfahren ist die Schiedsgerichtsordnung in der zum Zeitpunkt der Verfahrenseröffnung gültigen Fassung maßgebend. § 12 Absätze 6 bis 9 werden auch auf bereits eröffnete Verfahren angewendet. § 14 Absatz 5 wird auch auf bereits abgeschlossene Verfahren angewendet.
 
-[!](Kategorie:Satzung "wikilink")
+https://wiki.piratenpartei.de/Bundessatzung
